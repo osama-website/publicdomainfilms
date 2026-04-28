@@ -325,7 +325,7 @@ may get hold of us next time.
 
 76
 00:07:10,600 --> 00:07:12,921
-If we don't end war, war will end us.
+If we don't end war, war will end us.{https://en.wikipedia.org/wiki/H._G._Wells}
 
 77
 00:07:13,000 --> 00:07:14,843
@@ -341,7 +341,7 @@ What can we do?
 
 80
 00:07:39,640 --> 00:07:42,484
-Peace on earth, goodwill towards men.
+Peace on earth, goodwill towards men.{https://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo}
 
 81
 00:07:42,560 --> 00:07:44,483
@@ -380,7 +380,7 @@ Yes.
 
 89
 00:08:06,400 --> 00:08:09,847
-Well, it must be antiaircraft maneuvers.
+Well, it must be antiaircraft maneuvers.{https://en.wikipedia.org/wiki/Anti-aircraft_warfare}
 
 90
 00:08:09,920 --> 00:08:11,524
@@ -495,7 +495,7 @@ have been issued...</i>
 114
 00:09:24,640 --> 00:09:27,803
 <i>and the precautionary civilian
-organization against gas...</i>
+organization against gas...{https://en.wikipedia.org/wiki/Chemical_weapons_in_World_War_I}</i>
 
 115
 00:09:27,920 --> 00:09:29,763
@@ -1868,7 +1868,7 @@ Our aeroplanes are public aeroplanes.
 424
 00:40:32,320 --> 00:40:35,290
 This is an independent
-sovereign state at war.
+sovereign state at war.{https://en.wikipedia.org/wiki/Sovereign_(British_coin)}
 
 425
 00:40:35,360 --> 00:40:38,011

@@ -863,7 +863,7 @@ I don’t follow.
 189
 00:18:00,305 --> 00:18:04,670
 My dear Verloc, I once read a sign
-in Piccadilly Circus ...
+in Piccadilly Circus ...{https://en.wikipedia.org/wiki/Piccadilly}
 
 190
 00:18:04,720 --> 00:18:07,637
@@ -2546,7 +2546,7 @@ and "dent" – toothache....
 553
 00:47:51,589 --> 00:47:57,523
 Sixpence a small tube, and a shilling for
-the large tube, containing four times as much.
+the large tube, containing four times as much.{https://en.wikipedia.org/wiki/Shilling}
 
 554
 00:47:59,640 --> 00:48:02,797
@@ -2766,7 +2766,7 @@ Come in.
 
 600
 00:55:34,629 --> 00:55:38,994
-Oh, excuse me. Will you ring up Whitehall 1212?
+Oh, excuse me. Will you ring up Whitehall 1212?{https://en.wikipedia.org/wiki/Whitehall}
 
 601
 00:55:39,044 --> 00:55:41,302

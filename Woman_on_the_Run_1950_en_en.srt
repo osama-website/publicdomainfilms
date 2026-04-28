@@ -1053,7 +1053,7 @@ Friend of your husband's?
 
 229
 00:14:19,567 --> 00:14:21,365
-No, that's his burlesque period.
+No, that's his burlesque period.{https://en.wikipedia.org/wiki/Burlesque}
 
 230
 00:14:21,486 --> 00:14:23,864
@@ -1079,7 +1079,7 @@ Who's this?
 
 235
 00:14:32,955 --> 00:14:35,629
-Oh, some dance team over in Chinatown.
+Oh, some dance team over in Chinatown.{https://en.wikipedia.org/wiki/Chinatown,_San_Francisco}
 
 236
 00:14:35,750 --> 00:14:36,876
@@ -1226,7 +1226,7 @@ She wants to get rid of him.
 267
 00:16:21,772 --> 00:16:24,133
 Women are curious.
-Even that dame will go after him.
+Even that dame will go after him.{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 268
 00:16:24,233 --> 00:16:25,593
@@ -2902,7 +2902,7 @@ OK, Danny Boy.
 
 630
 00:37:32,000 --> 00:37:35,721
-Fisherman's Wharf.
+Fisherman's Wharf.{https://en.wikipedia.org/wiki/Fisherman%27s_Wharf,_San_Francisco}
 Frank used to come here a lot.
 
 631
@@ -2948,7 +2948,7 @@ What else?
 
 640
 00:37:58,735 --> 00:38:01,454
-Another started up here on Telegraph Hill.
+Another started up here on Telegraph Hill.{https://en.wikipedia.org/wiki/Electrical_telegraph}
 
 641
 00:38:01,571 --> 00:38:04,996
@@ -3323,7 +3323,7 @@ We had champagne cocktails
 721
 00:42:21,706 --> 00:42:24,209
 and watched the sunset
-over the Golden Gate.
+over the Golden Gate.{https://en.wikipedia.org/wiki/Golden_Gate_Bridge}
 
 722
 00:42:24,333 --> 00:42:27,212
@@ -3445,7 +3445,7 @@ the Army & Navy Store's open.
 
 747
 00:43:47,708 --> 00:43:49,551
-The one that's down on the Embarcadero.
+The one that's down on the Embarcadero.{https://en.wikipedia.org/wiki/The_Embarcadero_(San_Francisco)}
 
 748
 00:43:49,669 --> 00:43:52,297
@@ -4317,7 +4317,7 @@ Where is he?
 
 938
 00:58:27,504 --> 00:58:30,633
-At the amusement park at the beach.
+At the amusement park at the beach.{https://en.wikipedia.org/wiki/Playland_(San_Francisco)}
 
 939
 00:58:43,520 --> 00:58:47,525

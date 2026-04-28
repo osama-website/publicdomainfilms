@@ -497,7 +497,7 @@ My name is Sir Humphrey Pengallan.
 
 117
 00:13:51,604 --> 00:13:54,312
-I'm squire of Pengallan and justice of the peace.
+I'm squire of Pengallan and justice of the peace.{https://en.wikipedia.org/wiki/Justice_of_the_peace}
 
 118
 00:13:54,487 --> 00:13:56,232
@@ -1433,7 +1433,7 @@ Whatever is perfect of its kind.
 
 331
 00:26:28,522 --> 00:26:31,729
-I'd transport all the riffraff in Bristol
+I'd transport all the riffraff in Bristol{https://en.wikipedia.org/wiki/Penal_transportation}
 to Botany Bay
 
 332
@@ -3174,7 +3174,7 @@ Now, what is all this business?
 
 721
 00:53:42,001 --> 00:53:43,414
-Smuggling?
+Smuggling?{https://en.wikipedia.org/wiki/Smuggling}
 
 722
 00:53:44,921 --> 00:53:47,410
@@ -3238,7 +3238,7 @@ it's the most dreadful thing I've ever heard.
 
 736
 00:54:33,966 --> 00:54:36,970
-They became convinced these wreckers
+They became convinced these wreckers{https://en.wikipedia.org/wiki/Wrecking_(shipwreck)}
 had accurate information
 
 737

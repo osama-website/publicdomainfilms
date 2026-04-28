@@ -104,7 +104,7 @@ It was my wife's idea...
 24
 00:02:10,213 --> 00:02:12,490
 to have our guests
-come in funeral cars.
+come in funeral cars.{https://en.wikipedia.org/wiki/Hearse}
 
 25
 00:02:13,717 --> 00:02:16,093
@@ -136,7 +136,7 @@ Who knows?
 31
 00:02:28,815 --> 00:02:31,434
 This is Lance Schroeder,
-a test pilot.
+a test pilot.{https://en.wikipedia.org/wiki/Test_pilot}
 
 32
 00:02:31,526 --> 00:02:33,694
@@ -1013,7 +1013,7 @@ think it was any good.
 226
 00:16:27,904 --> 00:16:32,282
 So he filled a vat with
-acid and threw her in.
+acid{https://en.wikipedia.org/wiki/Sulfuric_acid} and threw her in.
 
 227
 00:16:32,283 --> 00:16:34,936

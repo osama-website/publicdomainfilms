@@ -118,7 +118,7 @@ LI MIN WEN, CHEN YUEN LUNG
 
 27
 00:08:23,838 --> 00:08:25,298
-BUDDHA
+BUDDHA{https://en.wikipedia.org/wiki/Gautama_Buddha}
 
 28
 00:09:12,345 --> 00:09:13,804
@@ -203,7 +203,7 @@ on your feet, in order to walk.
 46
 00:11:42,495 --> 00:11:46,123
 This is fundamental
-to the Shaolin 'Weightless' technique.
+to the Shaolin 'Weightless' technique.{https://en.wikipedia.org/wiki/Qinggong}
 
 47
 00:11:46,332 --> 00:11:47,917
@@ -277,7 +277,7 @@ Go get the water quickly.
 62
 00:15:46,614 --> 00:15:50,576
 I'm Five Plums,
-a friend of Shaolin Temple.
+a friend of Shaolin Temple.{https://en.wikipedia.org/wiki/Shaolin_Monastery}
 
 63
 00:15:50,784 --> 00:15:55,247
@@ -295,7 +295,7 @@ a new disciple of Shaolin.
 
 66
 00:16:05,507 --> 00:16:10,971
-Shaolin kung fu has a long history.
+Shaolin kung fu{https://en.wikipedia.org/wiki/Shaolin_kung_fu} has a long history.
 It is also very difficult to master.
 
 67

@@ -34,7 +34,7 @@ of impenetrable forest and dark shadows
 
 9
 00:00:35,478 --> 00:00:38,221
-that the Gila monster still lives.
+that the Gila monster{https://en.wikipedia.org/wiki/Gila_monster} still lives.
 
 10
 00:00:39,238 --> 00:00:44,238
@@ -259,7 +259,7 @@ Gimme a snort of that there sode pop.
 
 62
 00:05:12,558 --> 00:05:14,258
-Lisa's first trip to a drive-in?
+Lisa's first trip to a drive-in?{https://en.wikipedia.org/wiki/Drive-in_theater}
 
 63
 00:05:14,258 --> 00:05:16,708
@@ -4809,7 +4809,7 @@ Okay, who's the singer?
 
 1146
 01:04:14,228 --> 01:04:15,061
-- Elvis.
+- Elvis.{https://en.wikipedia.org/wiki/Elvis_Presley}
 
 1147
 01:04:15,061 --> 01:04:16,148

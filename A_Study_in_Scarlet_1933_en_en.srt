@@ -418,7 +418,7 @@ How much?
 
 97
 00:07:21,315 --> 00:07:22,315
-A shilling.
+A shilling.{https://en.wikipedia.org/wiki/Shilling}
 
 98
 00:07:22,358 --> 00:07:25,861
@@ -540,7 +540,7 @@ to compose yourself.
 
 125
 00:08:31,260 --> 00:08:32,594
-Cut off without a farthing
+Cut off without a farthing{https://en.wikipedia.org/wiki/Farthing_(British_coin)}
 
 126
 00:08:32,678 --> 00:08:35,305
@@ -593,7 +593,7 @@ have a sixpence.
 137
 00:08:56,577 --> 00:08:59,163
 He won't even let me have
-a ha'penny, Mr. Holmes.
+a ha'penny, Mr. Holmes.{https://en.wikipedia.org/wiki/Halfpenny}
 
 138
 00:08:59,246 --> 00:09:01,707
@@ -1124,7 +1124,7 @@ Come.
 258
 00:14:38,835 --> 00:14:40,313
 The body was pulled
-out of the Thames
+out of the Thames{https://en.wikipedia.org/wiki/River_Thames}
 
 259
 00:14:40,337 --> 00:14:42,631
@@ -2545,7 +2545,7 @@ in the personal column
 580
 00:32:15,057 --> 00:32:17,393
 of the "Daily Telegraph”
-a second message.
+a second message.{https://en.wikipedia.org/wiki/Electrical_telegraph}
 
 581
 00:32:17,476 --> 00:32:19,145
@@ -2686,7 +2686,7 @@ sir, I've an old trap.
 
 612
 00:33:53,531 --> 00:33:54,907
-I'll harness up Old Caesar,
+I'll harness up Old Caesar,{https://en.wikipedia.org/wiki/Julius_Caesar}
 
 613
 00:33:54,990 --> 00:33:58,494

@@ -374,7 +374,7 @@ He'll find a way to keep him somehow.
 83
 00:07:13,030 --> 00:07:15,950
 Remember what he did to Fenton
-when he wanted to go to Hollywood?
+when he wanted to go to Hollywood?{https://en.wikipedia.org/wiki/Hollywood}
 
 84
 00:07:16,040 --> 00:07:19,370
@@ -1567,7 +1567,7 @@ Now, there. There was a man.
 345
 00:23:02,060 --> 00:23:06,230
 "Boys, listen, could any of you gentlemen
-tell me where the telegraph station is?"
+tell me where the telegraph station is?"{https://en.wikipedia.org/wiki/Electrical_telegraph}
 
 346
 00:23:06,320 --> 00:23:08,570
@@ -1652,7 +1652,7 @@ fire engines like a lot of coach dogs,
 363
 00:23:56,370 --> 00:23:59,790
 waking people up in the middle of the night
-to ask them what they think of Mussolini,
+to ask them what they think of Mussolini,{https://en.wikipedia.org/wiki/Benito_Mussolini}
 
 364
 00:23:59,870 --> 00:24:03,000
@@ -1681,7 +1681,7 @@ about newspapers.
 369
 00:24:13,550 --> 00:24:16,800
 I've been a newspaper man for 15 years, a
-cross between a bootlegger and a galoofer.
+cross between a bootlegger and a galoofer.{https://en.wikipedia.org/wiki/Rum-running}
 
 370
 00:24:16,890 --> 00:24:18,890
@@ -3476,7 +3476,7 @@ Cottage Grove Avenue car
 
 764
 00:45:33,460 --> 00:45:35,250
-by motorman Julius A.Lindbergh.
+by motorman Julius A.Lindbergh.{https://en.wikipedia.org/wiki/Charles_Lindbergh}
 
 765
 00:45:35,330 --> 00:45:36,920
@@ -4576,7 +4576,7 @@ I don't understand,
 
 1006
 00:57:39,470 --> 00:57:41,140
-callin' me a Bolshevik.
+callin' me a Bolshevik.{https://en.wikipedia.org/wiki/Bolsheviks}
 
 1007
 00:57:41,220 --> 00:57:44,310
@@ -6089,7 +6089,7 @@ You were good at that.
 1330
 01:13:21,580 --> 01:13:24,330
 You ungrateful windbag. Who wrote the
-Fitzgerald confession? Ruth Randall's diary?
+Fitzgerald confession? Ruth Randall's diary?{https://en.wikipedia.org/wiki/F._Scott_Fitzgerald}
 
 1331
 01:13:24,420 --> 01:13:26,960
@@ -6671,7 +6671,7 @@ What do you think women are? Flowers?
 1456
 01:18:54,620 --> 01:18:57,670
 Now, take that dame that shot
-the dentist, Mrs. Vermilyea.
+the dentist, Mrs. Vermilyea.{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 1457
 01:18:57,750 --> 01:19:01,290

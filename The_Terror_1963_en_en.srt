@@ -298,7 +298,7 @@ How can I help her?
 
 74
 00:15:43,235 --> 00:15:47,280
-The castle of the Baron von
+The castle of the Baron von{https://en.wikipedia.org/wiki/Baron}
 Leppe, you will find her there.
 
 75
@@ -509,7 +509,7 @@ But I've had my fill of village inns.
 123
 00:20:43,868 --> 00:20:46,413
 Surely, you wouldn't want to
-inconvenience a French officer.
+inconvenience a French officer.{https://en.wikipedia.org/wiki/Grande_Arm%C3%A9e}
 
 124
 00:20:48,707 --> 00:20:49,290
@@ -541,7 +541,7 @@ Duvalier, your family--
 
 130
 00:21:20,405 --> 00:21:23,366
-My father was the Count Duvalier-- was,
+My father was the Count Duvalier{https://en.wikipedia.org/wiki/French_nobility}-- was,
 
 131
 00:21:23,575 --> 00:21:25,952
@@ -891,7 +891,7 @@ No, just the entrance to it.
 
 213
 00:31:45,905 --> 00:31:48,282
-The von Leppe family crypt lies
+The von Leppe family crypt{https://en.wikipedia.org/wiki/Crypt} lies
 below, beneath the cemetery.
 
 214

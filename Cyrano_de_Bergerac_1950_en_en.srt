@@ -976,7 +976,7 @@ A Lancelot in his lady's hall,
 
 220
 00:13:20,522 --> 00:13:24,286
-A Spartacus at the Hippodrome,
+A Spartacus at the Hippodrome,{https://en.wikipedia.org/wiki/Spartacus}
 
 221
 00:13:25,026 --> 00:13:27,048
@@ -1181,7 +1181,7 @@ That politician.
 268
 00:16:32,881 --> 00:16:35,783
 He's the Cardinal's nephew.
-There's power there!
+There's power there!{https://en.wikipedia.org/wiki/Cardinal_(Catholic_Church)}
 
 269
 00:16:35,823 --> 00:16:37,205
@@ -2726,7 +2726,7 @@ to you liking.
 617
 00:37:24,446 --> 00:37:29,381
 I fear, in confidence, our
-uneasy armistice with Spain is doomed.
+uneasy armistice with Spain is doomed.{https://en.wikipedia.org/wiki/Armistice_of_11_November_1918}
 
 618
 00:37:29,421 --> 00:37:30,381
@@ -8738,7 +8738,7 @@ And my roses.
 1950
 01:51:34,202 --> 01:51:36,865
 Yet, in spite of you,
-there is one crown
+there is one crown{https://en.wikipedia.org/wiki/Crown_(British_coin)}
 
 1951
 01:51:36,895 --> 01:51:38,246

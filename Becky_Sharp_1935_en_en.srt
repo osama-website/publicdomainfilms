@@ -2976,7 +2976,7 @@ and you are by the famous Mrs. Sittons.
 666
 00:48:21,461 --> 00:48:25,451
 What would Mayfair say if that old Dane sat next to me?
-They'd clap their hands.
+They'd clap their hands.{https://en.wikipedia.org/wiki/Mayfair}
 
 667
 00:48:25,475 --> 00:48:28,625
@@ -2998,7 +2998,7 @@ I feel I'm still in the House of Lords.
 
 671
 00:48:40,032 --> 00:48:41,952
-Or lying in Westminster Abbey.
+Or lying in Westminster Abbey.{https://en.wikipedia.org/wiki/Westminster}
 
 672
 00:48:47,263 --> 00:48:51,043

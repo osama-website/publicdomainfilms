@@ -72,7 +72,7 @@ has grown and is now flourishing.
 
 19
 00:04:18,832 --> 00:04:22,999
-It exists in almost every city and hamlet in the country.
+It exists in almost every city and hamlet in the country.{https://en.wikipedia.org/wiki/Hamlet}
 
 20
 00:04:23,721 --> 00:04:25,370
@@ -116,7 +116,7 @@ I have received a letter of vital importance
 
 30
 00:04:55,280 --> 00:04:57,947
-from a member of the Narcotics Bureau.
+from a member of the Narcotics Bureau.{https://en.wikipedia.org/wiki/Federal_Bureau_of_Narcotics}
 
 31
 00:04:57,947 --> 00:05:01,030
@@ -921,7 +921,7 @@ It's swell.
 
 228
 00:15:55,068 --> 00:15:56,466
-- Romeo and Juliet?
+- Romeo and Juliet?{https://en.wikipedia.org/wiki/Romeo_and_Juliet}
 
 229
 00:15:56,466 --> 00:15:58,650

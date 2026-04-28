@@ -331,7 +331,7 @@ likes to keep their eye
 
 77
 00:05:10,728 --> 00:05:13,273
-on government-sponsored research
+on government-sponsored research{https://en.wikipedia.org/wiki/Federal_funding_in_the_United_States}
 facilities, like Brandt.
 
 78
@@ -710,7 +710,7 @@ Just call me Neil?
 163
 00:11:25,645 --> 00:11:27,688
 He's head
-of Reproductive Biology.
+of Reproductive Biology.{https://en.wikipedia.org/wiki/Reproductive_biology}
 
 164
 00:11:27,897 --> 00:11:31,609
@@ -4038,7 +4038,7 @@ ashes to ashes, dust to dust,
 907
 01:13:31,116 --> 01:13:34,078
 <i>awaiting the final resurrection
-of our Lord.</i>
+of our Lord.</i>{https://en.wikipedia.org/wiki/Resurrection_of_Jesus}
 
 908
 01:13:34,286 --> 01:13:38,582

@@ -437,7 +437,7 @@ But I was cut out for this kind of life.
 97
 00:07:23,554 --> 00:07:26,677
 All my life I wanted to be a hard-boiled
-detective like Humphrey Bogart,
+detective like Humphrey Bogart,{https://en.wikipedia.org/wiki/Humphrey_Bogart}
 
 98
 00:07:26,678 --> 00:07:29,792

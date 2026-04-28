@@ -4417,7 +4417,7 @@ Shhh.
 999
 00:54:21,420 --> 00:54:24,060
 - Highlands honours, Mr. Provost!
-- Ay! Ay!
+- Ay! Ay!{https://en.wikipedia.org/wiki/Scottish_Highlands}
 
 1000
 00:54:25,340 --> 00:54:26,660
@@ -4873,7 +4873,7 @@ Take it
 1103
 01:02:27,230 --> 01:02:28,740
 away, all I want's a
-couple of quid to live on.
+couple of quid to live on.{https://en.wikipedia.org/wiki/Pound_sterling}
 
 1104
 01:02:28,760 --> 01:02:30,800
@@ -5082,7 +5082,7 @@ To see you gazing there at nothing.
 1149
 01:04:38,970 --> 01:04:41,430
 As if you were Columbus taking
-his first look at America...
+his first look at America...{https://en.wikipedia.org/wiki/Christopher_Columbus}
 
 1150
 01:04:41,460 --> 01:04:43,910
@@ -5824,7 +5824,7 @@ with all the patience I can
 1315
 01:13:26,060 --> 01:13:28,230
 muster to hear why the Crown
-has called this rather...
+has called this rather...{https://en.wikipedia.org/wiki/Crown_(British_coin)}
 
 1316
 01:13:28,280 --> 01:13:29,680

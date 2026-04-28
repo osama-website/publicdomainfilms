@@ -43,7 +43,7 @@ Hello, Ruth, Maisie.
 10
 00:01:47,219 --> 00:01:48,743
 Somebody must've stolen
-the crown jewel.
+the crown jewel.{https://en.wikipedia.org/wiki/Crown_(British_coin)}
 
 11
 00:01:48,954 --> 00:01:51,423
@@ -313,7 +313,7 @@ Well, let's see.
 
 69
 00:04:38,158 --> 00:04:42,218
-I spent six weeks in Reno,
+I spent six weeks in Reno,{https://en.wikipedia.org/wiki/Reno_divorce}
 then Bermuda. About four months.
 
 70
@@ -636,7 +636,7 @@ The paper needs both of us!
 
 137
 00:07:52,317 --> 00:07:53,784
-Sold American!
+Sold American!{https://en.wikipedia.org/wiki/Sold_American_(catchphrase)}
 
 138
 00:07:53,987 --> 00:07:56,649
@@ -808,7 +808,7 @@ Do it for the paper.
 
 175
 00:09:30,082 --> 00:09:31,174
-Scram, Svengali.
+Scram, Svengali.{https://en.wikipedia.org/wiki/Svengali}
 
 176
 00:09:31,384 --> 00:09:33,544
@@ -3438,7 +3438,7 @@ will ever let her go?
 750
 00:35:28,641 --> 00:35:30,938
 Remember when Fenton
-wanted to go to Hollywood?
+wanted to go to Hollywood?{https://en.wikipedia.org/wiki/Hollywood}
 
 751
 00:35:31,143 --> 00:35:33,235
@@ -3644,7 +3644,7 @@ because it was warm.
 
 794
 00:37:24,490 --> 00:37:26,219
-Put it on a phonograph.
+Put it on a phonograph.{https://en.wikipedia.org/wiki/Phonograph}
 
 795
 00:37:26,425 --> 00:37:28,326
@@ -4660,7 +4660,7 @@ and Lester Winthrop...
 1012
 00:48:41,132 --> 00:48:43,260
 You remember, the very homely dame?
-Call you back.
+Call you back.{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 1013
 00:48:43,469 --> 00:48:46,597
@@ -5486,7 +5486,7 @@ What? Where?
 
 1188
 00:56:29,369 --> 00:56:30,927
-Holy Moses! Hold the wire!
+Holy Moses! Hold the wire!{https://en.wikipedia.org/wiki/Moses}
 
 1189
 00:56:31,137 --> 00:56:32,364

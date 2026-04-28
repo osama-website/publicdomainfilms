@@ -2636,7 +2636,7 @@ Oh, lordy lord lord.
 565
 00:30:11,911 --> 00:30:15,915
 What in the name of Buddha
-happened to you boys?
+happened to you boys?{https://en.wikipedia.org/wiki/Gautama_Buddha}
 
 566
 00:30:15,915 --> 00:30:17,316
@@ -3191,7 +3191,7 @@ Hmm...
 686
 00:37:40,492 --> 00:37:43,695
 Cleopatra's
-earrings?
+earrings?{https://en.wikipedia.org/wiki/Cleopatra}
 
 687
 00:37:43,695 --> 00:37:45,163

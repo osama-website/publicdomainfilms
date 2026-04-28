@@ -4,13 +4,13 @@ HERCULES REVENGE
 
 2
 00:01:15,795 --> 00:01:22,251
-Hercules at once, man and god,
+Hercules{https://en.wikipedia.org/wiki/Hercules} at once, man and god,
 knows no limit to his power.{https://en.wikipedia.org/wiki/Heracles}
 
 3
 00:01:22,476 --> 00:01:27,262
 To punish him for his audacity
-the Gods of Olympus have condemned him
+the Gods of Olympus{https://en.wikipedia.org/wiki/Twelve_Olympians} have condemned him
 
 4
 00:01:27,463 --> 00:01:32,216
@@ -24,7 +24,7 @@ the monstrous guardian of Hell{https://en.wikipedia.org/wiki/Cerberus}
 
 6
 00:01:36,344 --> 00:01:39,941
-and penetrating the Kingdom of Shades,
+and penetrating the Kingdom of Shades,{https://en.wikipedia.org/wiki/Greek_underworld}
 
 7
 00:01:40,102 --> 00:01:44,374
@@ -59,7 +59,7 @@ No. He won't come back.
 
 14
 00:06:25,295 --> 00:06:28,220
-And Thebes without Hercules is nothing.
+And Thebes{https://en.wikipedia.org/wiki/Thebes,_Greece} without Hercules is nothing.
 
 15
 00:06:28,485 --> 00:06:33,348
@@ -652,7 +652,7 @@ Please forgive me.
 141
 00:20:46,010 --> 00:20:49,739
 - I swear by Zeus I will find my father.
-- You'll do nothing.
+- You'll do nothing.{https://en.wikipedia.org/wiki/Zeus}
 
 142
 00:20:49,980 --> 00:20:55,338
@@ -3083,4 +3083,3 @@ Hercules! I've got some work for you!
 670
 01:25:27,000 --> 01:25:28,748
 Wait a moment!
-

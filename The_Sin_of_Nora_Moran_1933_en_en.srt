@@ -682,7 +682,7 @@ Well, all right.
 
 163
 00:12:01,095 --> 00:12:03,211
-Report to paulino at king brothers circus.
+Report to paulino at king brothers circus.{https://en.wikipedia.org/wiki/Circus}
 
 164
 00:12:04,057 --> 00:12:05,057
@@ -1652,7 +1652,7 @@ Wouldn't 1?
 394
 00:29:13,335 --> 00:29:15,563
 Let me tell you something, you're
-running for governor.
+running for governor.{https://en.wikipedia.org/wiki/Governor_(United_States)}
 
 395
 00:29:15,587 --> 00:29:17,190
@@ -1684,7 +1684,7 @@ because you've fallen
 401
 00:29:25,806 --> 00:29:27,367
 for some cheap little dame,
-you're mistaken!
+you're mistaken!{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 402
 00:29:27,391 --> 00:29:28,201
@@ -2472,7 +2472,7 @@ from here in my county,
 589
 00:38:59,963 --> 00:39:01,816
 it would be my duty to send you to
-the electric chair.
+the electric chair.{https://en.wikipedia.org/wiki/Electric_chair}
 
 590
 00:39:01,840 --> 00:39:03,567

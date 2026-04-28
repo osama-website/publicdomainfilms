@@ -1018,7 +1018,7 @@ I was thinking I could give her a more
 
 247
 00:19:55,610 --> 00:19:56,903
-of a Manhattan look, you know.
+of a Manhattan look, you know.{https://en.wikipedia.org/wiki/Manhattan}
 
 248
 00:19:59,864 --> 00:20:01,408
@@ -1145,7 +1145,7 @@ Yeah, I heard about that.
 
 278
 00:22:42,819 --> 00:22:45,029
-Some junkie chick ratted on you.
+Some junkie chick ratted on you.{https://en.wikipedia.org/wiki/Heroin}
 
 279
 00:22:45,321 --> 00:22:46,321
@@ -2717,7 +2717,7 @@ and I'm an old person.
 
 656
 00:58:39,140 --> 00:58:41,225
-An old drug-addicted junkie
+An old drug-addicted junkie{https://en.wikipedia.org/wiki/Drug_addiction}
 
 657
 00:58:41,517 --> 00:58:43,686

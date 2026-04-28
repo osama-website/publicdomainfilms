@@ -2702,7 +2702,7 @@ Well, don't stop the presses, yet.
 
 638
 00:34:23,227 --> 00:34:25,396
-You're the most composed dame I ever saw.
+You're the most composed dame I ever saw.{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 639
 00:34:25,896 --> 00:34:29,024

@@ -222,7 +222,7 @@ Yeah? What is it?
 
 50
 00:05:39,172 --> 00:05:41,295
-It's called <i>After The Ball Is Over.</i>
+It's called <i>After The Ball Is Over.</i>{https://en.wikipedia.org/wiki/After_the_Ball_(song)}
 
 51
 00:05:41,383 --> 00:05:42,925
@@ -235,7 +235,7 @@ She's getting famous.
 
 53
 00:05:55,605 --> 00:05:58,772
-Tony Pastor himself offered to sign her up
+Tony Pastor{https://en.wikipedia.org/wiki/Tony_Pastor_(impresario)} himself offered to sign her up
 for his music hall.
 
 54
@@ -250,7 +250,7 @@ Yes, that's the one.
 56
 00:06:02,946 --> 00:06:05,519
 Pastor says that Lou's got it
-all over Della Fox.
+all over Della Fox.{https://en.wikipedia.org/wiki/Della_Fox}
 
 57
 00:06:08,326 --> 00:06:09,951
@@ -372,12 +372,12 @@ it takes time to get around it.
 82
 00:07:26,488 --> 00:07:30,153
 One of these days, we'll be walking
-across a bridge to Long Island City.
+across a bridge to Long Island City.{https://en.wikipedia.org/wiki/Queensboro_Bridge}
 
 83
 00:07:30,242 --> 00:07:34,322
 Walking? We'll be riding over
-in one of them horseless buggies.
+in one of them horseless buggies.{https://en.wikipedia.org/wiki/Horseless_carriage}
 
 84
 00:07:34,412 --> 00:07:37,746
@@ -391,8 +391,8 @@ for me and Lou.
 
 86
 00:07:41,503 --> 00:07:43,661
-The Bowery Savings Bank
-and Rupert's Brewery...
+The Bowery Savings Bank{https://en.wikipedia.org/wiki/Bowery_Savings_Bank}
+and Rupert's Brewery{https://en.wikipedia.org/wiki/Jacob_Ruppert_Brewery}...
 
 87
 00:07:43,755 --> 00:07:47,420
@@ -469,7 +469,7 @@ and I'll kill them for you.
 103
 00:08:48,695 --> 00:08:52,278
 Lou is the swellest girl
-that ever came down the Bowery.
+that ever came down the Bowery.{https://en.wikipedia.org/wiki/Bowery}
 
 104
 00:08:52,365 --> 00:08:55,699
@@ -478,7 +478,7 @@ But I do.
 
 105
 00:08:56,495 --> 00:08:59,199
-<i>Just before the battle, Mother</i>
+<i>Just before the battle, Mother</i>{https://en.wikipedia.org/wiki/Just_Before_the_Battle,_Mother}
 
 106
 00:09:00,165 --> 00:09:02,620

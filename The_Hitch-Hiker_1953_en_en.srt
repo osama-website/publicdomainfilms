@@ -438,7 +438,7 @@ How far is it?
 102
 00:14:42,736 --> 00:14:45,329
 - About 500 miles.
-- Is it on the Gulf of California?
+- Is it on the Gulf of California?{https://en.wikipedia.org/wiki/Gulf_of_California}
 
 103
 00:14:45,429 --> 00:14:49,329
@@ -650,7 +650,7 @@ from Portland, Oregon,
 151
 00:19:30,697 --> 00:19:34,336
 was found late yesterday
-in Imperial County, California.
+in Imperial County, California.{https://en.wikipedia.org/wiki/Imperial_County,_California}
 
 152
 00:19:34,436 --> 00:19:38,712
@@ -881,7 +881,7 @@ al mismo precio que existen en Tijuana.
 
 204
 00:24:43,555 --> 00:24:44,956
-What did he say about Tijuana?
+What did he say about Tijuana?{https://en.wikipedia.org/wiki/Tijuana}
 
 205
 00:24:45,056 --> 00:24:47,994
@@ -935,7 +935,7 @@ Quince pesos, diez centavos, señor.
 
 216
 00:25:51,314 --> 00:25:54,834
-Dame una manzana. Dame una manzana.
+Dame una manzana. Dame una manzana.{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 217
 00:25:54,934 --> 00:25:57,436

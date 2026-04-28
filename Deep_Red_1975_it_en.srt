@@ -3763,7 +3763,7 @@ there was one just like that.
 822
 01:48:33,392 --> 01:48:39,188
 - Where do you go to school?
-- The Leonardo da Vinci School.
+- The Leonardo da Vinci School.{https://en.wikipedia.org/wiki/Leonardo_da_Vinci}
 
 823
 01:48:49,866 --> 01:48:50,866

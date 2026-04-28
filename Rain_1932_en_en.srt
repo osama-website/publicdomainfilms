@@ -363,7 +363,7 @@ Not sail today? Why?
 83
 00:07:19,436 --> 00:07:22,072
 One of the sailors aboard the schooner
-has come down with cholera.
+has come down with cholera.{https://en.wikipedia.org/wiki/Cholera}
 
 84
 00:07:22,728 --> 00:07:25,859
@@ -953,7 +953,7 @@ evening, I'll be there.
 
 217
 00:14:09,355 --> 00:14:11,199
-Moses on a mountain top.
+Moses on a mountain top.{https://en.wikipedia.org/wiki/Moses}
 
 218
 00:14:11,379 --> 00:14:13,332
@@ -2068,7 +2068,7 @@ when bang goes the door and In he comes.
 
 468
 00:27:24,781 --> 00:27:26,173
-Knocking the phonograph over.
+Knocking the phonograph over.{https://en.wikipedia.org/wiki/Phonograph}
 
 469
 00:27:26,470 --> 00:27:27,707
@@ -3311,7 +3311,7 @@ family you told me about.
 742
 00:41:21,629 --> 00:41:24,640
 They slammed the door in my face so
-fast you'd have thought I had smallpox.
+fast you'd have thought I had smallpox.{https://en.wikipedia.org/wiki/Smallpox}
 
 743
 00:41:26,751 --> 00:41:28,669
@@ -3747,7 +3747,7 @@ I got an idea what's on your mind.
 841
 00:45:47,785 --> 00:45:49,601
 But Maggie ain't the kind
-of a dame you mean.
+of a dame you mean.{https://en.wikipedia.org/wiki/Dame_(British_title)}
 
 842
 00:45:49,713 --> 00:45:51,281

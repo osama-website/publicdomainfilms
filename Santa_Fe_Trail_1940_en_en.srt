@@ -55,7 +55,7 @@ Fall out!
 
 13
 00:02:22,600 --> 00:02:24,810
-- George Custer.
+- George Custer.{https://en.wikipedia.org/wiki/George_Armstrong_Custer}
 - Yep.
 
 14
@@ -251,7 +251,7 @@ or sacrificed."
 54
 00:04:29,101 --> 00:04:31,562
 "If the federal government
-in its constitution
+in its constitution{https://en.wikipedia.org/wiki/Constitution_of_the_United_States}
 
 55
 00:04:31,645 --> 00:04:34,440
@@ -6715,7 +6715,7 @@ and we got to cut that
 
 1433
 01:22:39,996 --> 01:22:41,372
-telegraph line to Washington.
+telegraph line to Washington.{https://en.wikipedia.org/wiki/Electrical_telegraph}
 
 1434
 01:22:41,456 --> 01:22:42,999

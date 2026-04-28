@@ -67,7 +67,7 @@ Well, let's get going.
 16
 00:11:11,129 --> 00:11:14,713
 I understand.
-Ain't no laughing matter to be in jail.
+Ain't no laughing matter to be in jail.{https://en.wikipedia.org/wiki/Yuma_Territorial_Prison}
 
 17
 00:11:14,841 --> 00:11:20,132
@@ -203,7 +203,7 @@ I wanted to speak with you.
 47
 00:19:57,154 --> 00:20:03,367
 I've just been talking to the judge.
-How would you like to be deputy sheriff?
+How would you like to be deputy sheriff?{https://en.wikipedia.org/wiki/Deputy_sheriff}
 
 48
 00:20:03,452 --> 00:20:08,368
@@ -1166,7 +1166,7 @@ Hey!
 
 264
 00:50:59,848 --> 00:51:04,013
-- What time's the train for Lyndon City?
+- What time's the train for Lyndon City?{https://en.wikipedia.org/wiki/Rail_transportation_in_the_United_States}
 - It left 15 minutes ago.
 
 265
@@ -1213,7 +1213,7 @@ our leading banker, Mr Walcott.
 
 274
 00:51:39,805 --> 00:51:41,012
-SALOON
+SALOON{https://en.wikipedia.org/wiki/Western_saloon}
 
 275
 00:51:43,601 --> 00:51:46,514

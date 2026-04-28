@@ -2402,11 +2402,11 @@ class for tomorrow?
 583
 00:30:19,567 --> 00:30:21,736
 I asked them to read the
-Declaration of Independence
+Declaration of Independence{https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence}
 
 584
 00:30:21,945 --> 00:30:23,446
-and the Constitution.
+and the Constitution.{https://en.wikipedia.org/wiki/Constitution_of_the_United_States}
 
 585
 00:30:23,655 --> 00:30:24,735
@@ -3156,7 +3156,7 @@ Oh, I am trying.
 766
 00:39:55,685 --> 00:39:58,563
 You see I heard Abe
-Lincoln talk at Gettysburg,
+Lincoln talk at Gettysburg,{https://en.wikipedia.org/wiki/Battle_of_Gettysburg}
 
 767
 00:39:58,771 --> 00:40:00,314
@@ -5873,7 +5873,7 @@ name at once in Midwestern.
 
 1424
 01:14:07,902 --> 01:14:09,820
-I'll never forget the armistice.
+I'll never forget the armistice.{https://en.wikipedia.org/wiki/Armistice_of_11_November_1918}
 
 1425
 01:14:10,029 --> 01:14:12,573
@@ -6543,7 +6543,7 @@ leave me here with my New Yorker.
 
 1587
 01:23:31,548 --> 01:23:34,050
-Want to catch up on some Broadway plays,
+Want to catch up on some Broadway plays,{https://en.wikipedia.org/wiki/Broadway_theatre}
 
 1588
 01:23:34,259 --> 01:23:35,445
