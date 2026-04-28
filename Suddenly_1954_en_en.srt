@@ -47,7 +47,7 @@ i see.
 
 11
 00:00:32,282 --> 00:00:34,784
-road agents,
+road agents,{https://en.wikipedia.org/wiki/Buffalo_Bill}
 gamblers, gunfighters.
 
 12
@@ -140,7 +140,7 @@ well, now, let's see.
 
 31
 00:02:41,911 --> 00:02:43,412
-you want an ice-cream soda?
+you want an ice-cream soda?{https://en.wikipedia.org/wiki/Soda_fountain}
 
 32
 00:02:43,413 --> 00:02:46,416
@@ -153,7 +153,7 @@ you want to go to the movies?
 
 34
 00:02:47,917 --> 00:02:51,921
-nah, it's a war picture. mom
+nah, it's a war picture. mom{https://en.wikipedia.org/wiki/War_widow}
 won't let me see war pictures.
 
 35
@@ -194,7 +194,7 @@ i know.
 
 43
 00:03:13,943 --> 00:03:16,445
-it's because of my father
+it's because of my father{https://en.wikipedia.org/wiki/Korean_War}
 being killed in the war.
 
 44
@@ -213,7 +213,7 @@ heck, no! I'd be sheriff,
 
 47
 00:03:24,454 --> 00:03:26,956
-and i'd catch all those road
+and i'd catch all those road{https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States}
 agents and cattle rustlers,
 
 48
@@ -316,7 +316,7 @@ don't, tod.
 
 69
 00:04:30,019 --> 00:04:32,521
-ellen, you can't go on
+ellen, you can't go on{https://en.wikipedia.org/wiki/War_widow}
 being a widow forever.
 
 70
@@ -485,7 +485,7 @@ when it's his turn.
 
 106
 00:05:54,604 --> 00:05:57,106
-you can't wrap the boy
+you can't wrap the boy{https://en.wikipedia.org/wiki/Cellophane}
 in cellophane.
 
 107
@@ -659,7 +659,7 @@ suddenly, california,
 
 143
 00:08:57,787 --> 00:09:00,289
-"carrying the president
+"carrying the president{https://en.wikipedia.org/wiki/Special_train}
 of the united states,
 
 144
@@ -762,7 +762,7 @@ your cars, two men to a car,
 
 165
 00:09:52,842 --> 00:09:56,846
-and one thompson gun
+and one thompson gun{https://en.wikipedia.org/wiki/Thompson_submachine_gun}
 to each car, and--
 
 166
@@ -1082,8 +1082,8 @@ for heaven's sake.
 
 234
 00:13:15,044 --> 00:13:18,547
-probably a rectifier.
-probably a tube.
+probably a rectifier.{https://en.wikipedia.org/wiki/Rectifier}
+probably a tube.{https://en.wikipedia.org/wiki/Vacuum_tube}
 
 235
 00:13:18,547 --> 00:13:19,548
@@ -1102,7 +1102,7 @@ wreck it? wreck it?
 238
 00:13:23,552 --> 00:13:26,054
 look, i'll have you understand
-i built a television transmitter
+i built a television transmitter{https://en.wikipedia.org/wiki/Television_transmitter}
 
 239
 00:13:26,055 --> 00:13:29,058
@@ -1220,7 +1220,7 @@ please stop interfering.
 263
 00:14:22,611 --> 00:14:25,614
 first you cancel him out
-on the hike with cub scouts,
+on the hike with cub scouts,{https://en.wikipedia.org/wiki/Cub_Scouts_(Boy_Scouts_of_America)}
 
 264
 00:14:25,614 --> 00:14:28,116
@@ -1319,7 +1319,7 @@ defend it?
 
 284
 00:15:10,659 --> 00:15:12,661
-so he can become a soldier
+so he can become a soldier{https://en.wikipedia.org/wiki/Korean_War}
 and go out and be murdered,
 
 285
@@ -1338,7 +1338,7 @@ on some godforsaken battlefield,
 
 288
 00:15:23,172 --> 00:15:24,673
-thousands of miles
+thousands of miles{https://en.wikipedia.org/wiki/Cold_War}
 from where he was born.
 
 289
@@ -1372,7 +1372,7 @@ wrote those words,
 
 295
 00:15:42,191 --> 00:15:43,692
-"life, liberty
+"life, liberty{https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence}
 and the pursuit of happiness,"
 
 296
@@ -1411,7 +1411,7 @@ from wetherby!
 
 303
 00:15:59,708 --> 00:16:02,210
-a whole raft of state troopers!
+a whole raft of state troopers!{https://en.wikipedia.org/wiki/Sheriffs_in_the_United_States}
 see 'em?
 
 304
@@ -1604,7 +1604,7 @@ is going on in this burg?
 344
 00:17:42,811 --> 00:17:44,813
 did some galoot
-make a uranium strike?
+make a uranium strike?{https://en.wikipedia.org/wiki/Uranium}
 
 345
 00:17:44,813 --> 00:17:46,314
@@ -1663,7 +1663,7 @@ ah, this is mr. carney,
 
 357
 00:18:08,337 --> 00:18:10,839
-special agent in the treasury
+special agent in the treasury{https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury}
 department. secret service.
 
 358
@@ -1682,7 +1682,7 @@ i get it.
 
 361
 00:18:17,846 --> 00:18:20,348
-they're shipping the national
+they're shipping the national{https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury}
 debt through here in gold bars.
 
 362
@@ -1721,7 +1721,7 @@ and fix that.
 
 369
 00:18:57,386 --> 00:19:00,389
-shucks, ellen. i knew ohm's law
+shucks, ellen. i knew ohm's law{https://en.wikipedia.org/wiki/Ohm%27s_law}
 before they even passed it.
 
 370
@@ -1761,7 +1761,7 @@ i know, but it says
 377
 00:19:14,403 --> 00:19:16,405
 on the back of that
-that there're 5,000 volts,
+that there're 5,000 volts,{https://en.wikipedia.org/wiki/Electrocution}
 
 378
 00:19:16,405 --> 00:19:17,906
@@ -1908,7 +1908,7 @@ what is it you want?
 
 409
 00:20:29,478 --> 00:20:31,480
-i'm john baron, special agent.
+i'm john baron, special agent.{https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation}
 
 410
 00:20:31,480 --> 00:20:33,482
@@ -2494,7 +2494,7 @@ the los angeles police picked up
 
 535
 00:25:07,756 --> 00:25:09,758
-a small-time stool pigeon
+a small-time stool pigeon{https://en.wikipedia.org/wiki/Stool_pigeon}
 night before last.
 
 536
@@ -2514,7 +2514,7 @@ something was up?
 
 539
 00:25:17,265 --> 00:25:19,767
-an assassination attempt.
+an assassination attempt.{https://en.wikipedia.org/wiki/Assassination_of_William_McKinley}
 
 540
 00:25:19,768 --> 00:25:21,269
@@ -2570,7 +2570,7 @@ you can watch him from here.
 551
 00:25:48,296 --> 00:25:50,798
 but i wanna get up close.
-well, use your telescope, boy.
+well, use your telescope, boy.{https://en.wikipedia.org/wiki/Telescope}
 
 552
 00:25:51,299 --> 00:25:53,301
@@ -3252,12 +3252,12 @@ to shimmy when we get to it.
 
 700
 00:33:49,777 --> 00:33:51,779
-ah, a tommy gun
+ah, a tommy gun{https://en.wikipedia.org/wiki/Thompson_submachine_gun}
 would do just as good.
 
 701
 00:33:51,779 --> 00:33:53,280
-tommy gun stinks.
+tommy gun stinks.{https://en.wikipedia.org/wiki/Recoil}
 
 702
 00:33:53,281 --> 00:33:55,283
@@ -3299,7 +3299,7 @@ quite a gun.
 
 711
 00:34:13,301 --> 00:34:16,804
-i did a lot of chopping in
+i did a lot of chopping in{https://en.wikipedia.org/wiki/Thompson_submachine_gun}
 the war with a baby like this.
 
 712
@@ -3320,12 +3320,12 @@ last war, i got a silver star.
 
 716
 00:34:29,817 --> 00:34:33,320
-north of cassino.
+north of cassino.{https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino}
 pocket of resistance.
 
 717
 00:34:33,321 --> 00:34:35,823
-i killed 27 men, all by myself.
+i killed 27 men, all by myself.{https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino}
 
 718
 00:34:36,824 --> 00:34:38,826
@@ -3800,7 +3800,7 @@ thought, too.
 
 822
 00:39:28,115 --> 00:39:29,616
-booth? hah!
+booth? hah!{https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln}
 
 823
 00:39:29,617 --> 00:39:32,119
@@ -3824,7 +3824,7 @@ though.
 
 827
 00:39:40,127 --> 00:39:42,629
-the guy who killed garfield
+the guy who killed garfield{https://en.wikipedia.org/wiki/Assassination_of_James_A._Garfield}
 didn't make it either.
 
 828
@@ -3839,12 +3839,12 @@ left-handed, just like mckinley.{https://en.wikipedia.org/wiki/Assassination_of_
 
 830
 00:39:48,135 --> 00:39:51,638
-and zangara got the chair
+and zangara got the chair{https://en.wikipedia.org/wiki/Giuseppe_Zangara}
 for his try at roosevelt.
 
 831
 00:39:53,140 --> 00:39:55,642
-he had to try it in a crowd.
+he had to try it in a crowd.{https://en.wikipedia.org/wiki/Giuseppe_Zangara}
 
 832
 00:39:55,643 --> 00:39:57,144
@@ -4477,7 +4477,7 @@ nice goin', bart.
 
 970
 00:46:44,551 --> 00:46:46,052
-it's only a cap pistol.
+it's only a cap pistol.{https://en.wikipedia.org/wiki/Cap_gun}
 
 971
 00:46:46,053 --> 00:46:47,054
@@ -4626,7 +4626,7 @@ do a thing like that.
 1003
 00:48:02,129 --> 00:48:05,132
 they're stinking traitors.
-they're benedict arnolds.
+they're benedict arnolds.{https://en.wikipedia.org/wiki/Benedict_Arnold}
 
 1004
 00:48:05,132 --> 00:48:06,633
@@ -4686,7 +4686,7 @@ anybody else wanna volunteer?
 
 1017
 00:48:30,157 --> 00:48:32,659
-they're commies.
+they're commies.{https://en.wikipedia.org/wiki/McCarthyism}
 they're enemy agents!
 
 1018
@@ -4734,7 +4734,7 @@ that's pretty good.
 
 1028
 00:48:54,681 --> 00:48:56,683
-i killed 27 jerries
+i killed 27 jerries{https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino}
 all by myself.
 
 1029
@@ -5822,7 +5822,7 @@ during the war?
 
 1270
 01:01:28,434 --> 01:01:30,936
-all the way
+all the way{https://en.wikipedia.org/wiki/Battle_of_the_Kasserine_Pass}
 from the kasserine pass.
 
 1271
@@ -5832,8 +5832,8 @@ where were you?
 
 1272
 01:01:32,438 --> 01:01:34,940
-normandy to the elbe,
-by way of the bulge.
+normandy to the elbe,{https://en.wikipedia.org/wiki/Normandy_landings}
+by way of the bulge.{https://en.wikipedia.org/wiki/Battle_of_the_Bulge}
 
 1273
 01:01:35,441 --> 01:01:36,942
@@ -5841,7 +5841,7 @@ you get up into germany?
 
 1274
 01:01:36,943 --> 01:01:39,445
-no. bet you were one
+no. bet you were one{https://en.wikipedia.org/wiki/Court-martial}
 of those big-shot guys, huh?
 
 1275
@@ -5980,7 +5980,7 @@ huh? come on, now, tell me.
 
 1304
 01:02:41,507 --> 01:02:43,008
-where were you court-martialed?
+where were you court-martialed?{https://en.wikipedia.org/wiki/Court-martial}
 
 1305
 01:02:43,009 --> 01:02:45,011
@@ -6011,7 +6011,7 @@ you got away with it, so--
 
 1311
 01:02:56,522 --> 01:02:58,524
-i got it. section eight.
+i got it. section eight.{https://en.wikipedia.org/wiki/Section_8_(military)}
 
 1312
 01:02:59,025 --> 01:03:00,526
@@ -6019,7 +6019,7 @@ you went out on a section eight.
 
 1313
 01:03:00,526 --> 01:03:03,529
-section eight. psycho
+section eight. psycho{https://en.wikipedia.org/wiki/Section_8_(military)}
 in charge of killin', huh?
 
 1314
@@ -6186,7 +6186,7 @@ single-handed .
 
 1350
 01:04:40,126 --> 01:04:42,128
-not exactly, son, but i was
+not exactly, son, but i was{https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow}
 there at scapa flow
 
 1351
@@ -6401,7 +6401,7 @@ make it to the border.
 
 1397
 01:06:41,247 --> 01:06:43,249
-you ever hear
+you ever hear{https://en.wikipedia.org/wiki/Jet_fighter}
 of the jet fighter?
 
 1398
@@ -6583,7 +6583,7 @@ for murder,
 
 1435
 01:08:01,327 --> 01:08:02,828
-so you can only
+so you can only{https://en.wikipedia.org/wiki/Gas_chamber}
 take the gas once.
 
 1436
@@ -6760,7 +6760,7 @@ two years in a row.
 
 1474
 01:09:58,944 --> 01:10:00,946
-now we pause briefly
+now we pause briefly{https://en.wikipedia.org/wiki/Cathode-ray_tube}
 for a station identi--
 
 1475
@@ -6930,12 +6930,12 @@ oh, that's all right.
 
 1511
 01:13:32,858 --> 01:13:35,861
-some day, i'm gonna be
+some day, i'm gonna be{https://en.wikipedia.org/wiki/Bodyguard}
 a bodyguard, just like you.
 
 1512
 01:13:35,861 --> 01:13:37,863
-nonsense, boy. you're going
+nonsense, boy. you're going{https://en.wikipedia.org/wiki/United_States_presidential_line_of_succession}
 to grow up to be president.
 
 1513

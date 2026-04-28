@@ -40,7 +40,7 @@ Fall out!
 
 10
 00:02:16,052 --> 00:02:17,803
-- William Pender.
+- William Pender.{https://en.wikipedia.org/wiki/William_Dorsey_Pender}
 - Here.
 
 11
@@ -50,7 +50,7 @@ Fall out!
 
 12
 00:02:19,889 --> 00:02:22,516
-- Jeb Stuart.
+- Jeb Stuart.{https://en.wikipedia.org/wiki/J.E.B._Stuart}
 - Yep.
 
 13
@@ -60,7 +60,7 @@ Fall out!
 
 14
 00:02:24,894 --> 00:02:26,979
-- George Pickett.
+- George Pickett.{https://en.wikipedia.org/wiki/George_Pickett}
 - Here.
 
 15
@@ -70,7 +70,7 @@ Fall out!
 
 16
 00:02:29,565 --> 00:02:31,192
-- James Longstreet.
+- James Longstreet.{https://en.wikipedia.org/wiki/James_Longstreet}
 - Yep.
 
 17
@@ -80,12 +80,12 @@ Fall out!
 
 18
 00:02:33,069 --> 00:02:34,695
-- Phillip Sheridan.
+- Phillip Sheridan.{https://en.wikipedia.org/wiki/Philip_Sheridan}
 - Here.
 
 19
 00:02:34,779 --> 00:02:36,530
-John Hood.
+John Hood.{https://en.wikipedia.org/wiki/John_Bell_Hood}
 
 20
 00:02:36,614 --> 00:02:39,158
@@ -279,8 +279,8 @@ Who wrote that inflammatory rot?
 
 60
 00:04:45,534 --> 00:04:48,662
-A wise man by the name
-of John Brown.
+A wise man by the name{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
+of John Brown.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 61
 00:04:48,746 --> 00:04:50,080
@@ -327,8 +327,8 @@ a cadet having his own ideas.
 
 70
 00:05:09,809 --> 00:05:12,353
-But there is one spreading
-treasonable policies.
+But there is one spreading{https://en.wikipedia.org/wiki/Treason}
+treasonable policies.{https://en.wikipedia.org/wiki/Treason}
 
 71
 00:05:12,436 --> 00:05:15,648
@@ -389,8 +389,8 @@ you have been watering
 
 83
 00:05:43,300 --> 00:05:46,637
-your precious family trees
-with the sweat of Negro slaves.
+your precious family trees{https://en.wikipedia.org/wiki/Plantation_complexes_in_the_Southern_United_States}
+with the sweat of Negro slaves.{https://en.wikipedia.org/wiki/Plantation_complexes_in_the_Southern_United_States}
 
 84
 00:05:46,720 --> 00:05:48,806
@@ -418,8 +418,8 @@ Stuart.
 
 89
 00:06:00,317 --> 00:06:04,488
-And all you other
-Mason Dixon plutocrats.
+And all you other{https://en.wikipedia.org/wiki/Mason%E2%80%93Dixon_line}
+Mason Dixon plutocrats.{https://en.wikipedia.org/wiki/Mason%E2%80%93Dixon_line}
 
 90
 00:06:04,572 --> 00:06:07,199
@@ -495,7 +495,7 @@ in this outrageous affair.
 
 105
 00:07:12,264 --> 00:07:14,975
-Colonel Lee, any blame in this
+Colonel Lee, any blame in this{https://en.wikipedia.org/wiki/Robert_E._Lee}
 matter is entirely upon me.
 
 106
@@ -588,22 +588,22 @@ be assigned
 
 124
 00:07:57,434 --> 00:08:01,271
-to the most dangerous branch
+to the most dangerous branch{https://en.wikipedia.org/wiki/Cavalry}
 of the United States Army.
 
 125
 00:08:01,355 --> 00:08:03,399
-The second United States
+The second United States{https://en.wikipedia.org/wiki/Cavalry}
 Cavalry.
 
 126
 00:08:03,482 --> 00:08:05,192
-Now stationed at
-Fort Leavenworth
+Now stationed at{https://en.wikipedia.org/wiki/Fort_Leavenworth}
+Fort Leavenworth{https://en.wikipedia.org/wiki/Fort_Leavenworth}
 
 127
 00:08:05,275 --> 00:08:06,944
-in the Kansas territory.
+in the Kansas territory.{https://en.wikipedia.org/wiki/Kansas_Territory}
 
 128
 00:08:14,368 --> 00:08:16,578
@@ -625,8 +625,8 @@ suicide station.
 
 132
 00:08:30,342 --> 00:08:32,553
-Kansas in the Santa Fe Trail,
-what a piece of luck!
+Kansas in the Santa Fe Trail,{https://en.wikipedia.org/wiki/Santa_Fe_Trail}
+what a piece of luck!{https://en.wikipedia.org/wiki/Santa_Fe_Trail}
 
 133
 00:08:32,636 --> 00:08:34,763
@@ -838,12 +838,12 @@ of the United States of America.
 
 177
 00:11:00,659 --> 00:11:02,786
-The Honorable Jefferson Davis.
+The Honorable Jefferson Davis.{https://en.wikipedia.org/wiki/Jefferson_Davis}
 
 178
 00:11:07,207 --> 00:11:11,461
 Officers and gentlemen
-of the class of 1854
+of the class of 1854{https://en.wikipedia.org/wiki/United_States_Military_Academy}
 
 179
 00:11:11,545 --> 00:11:15,841
@@ -961,8 +961,8 @@ Tickets. Tickets.
 
 203
 00:13:51,246 --> 00:13:53,415
-Mr. Holliday, we're getting
-close to Leavenworth.
+Mr. Holliday, we're getting{https://en.wikipedia.org/wiki/Cyrus_K._Holliday}
+close to Leavenworth.{https://en.wikipedia.org/wiki/Fort_Leavenworth}
 
 204
 00:13:53,498 --> 00:13:55,334
@@ -985,12 +985,12 @@ cap.
 
 208
 00:14:01,256 --> 00:14:03,383
-Someday I'll build
-a real railroad to open it up.
+Someday I'll build{https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railway}
+a real railroad to open it up.{https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railway}
 
 209
 00:14:03,467 --> 00:14:04,801
-Clear the Santa Fe.
+Clear the Santa Fe.{https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railway}
 
 210
 00:14:04,885 --> 00:14:06,803
@@ -1058,12 +1058,12 @@ blood-soaked ground like Kansas.
 
 224
 00:14:36,500 --> 00:14:38,043
-Decent sellers won't use it.
+Decent sellers won't use it.{https://en.wikipedia.org/wiki/Free-Stater_(Kansas)}
 
 225
 00:14:38,126 --> 00:14:40,545
-We are losing thousands of
-pioneer to Oregon Trail.
+We are losing thousands of{https://en.wikipedia.org/wiki/Oregon_Trail}
+pioneer to Oregon Trail.{https://en.wikipedia.org/wiki/Oregon_Trail}
 
 226
 00:14:40,629 --> 00:14:42,047
@@ -1071,8 +1071,8 @@ They circle right around us.
 
 227
 00:14:42,130 --> 00:14:44,341
-We heard about the raided
-arsenal last week.
+We heard about the raided{https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry}
+arsenal last week.{https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry}
 
 228
 00:14:44,424 --> 00:14:46,426
@@ -1081,8 +1081,8 @@ out here, sir?
 
 229
 00:14:46,510 --> 00:14:49,554
-Well, Kansas is a territory
-and not a state.
+Well, Kansas is a territory{https://en.wikipedia.org/wiki/Kansas%E2%80%93Nebraska_Act}
+and not a state.{https://en.wikipedia.org/wiki/Kansas%E2%80%93Nebraska_Act}
 
 230
 00:14:49,638 --> 00:14:51,890
@@ -1096,8 +1096,8 @@ slave state or as a free state.
 
 232
 00:14:54,601 --> 00:14:56,853
-On one side is most of
-Kansas' pro-slavers
+On one side is most of{https://en.wikipedia.org/wiki/Border_Ruffian}
+Kansas' pro-slavers{https://en.wikipedia.org/wiki/Border_Ruffian}
 
 233
 00:14:56,937 --> 00:14:58,313
@@ -1105,13 +1105,13 @@ people who came from south.
 
 234
 00:14:58,397 --> 00:14:59,832
-On the other side are
-the abolitionists
+On the other side are{https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States}
+the abolitionists{https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States}
 
 235
 00:14:59,856 --> 00:15:01,733
-lead by John Brown
-and the sons.
+lead by John Brown{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
+and the sons.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 236
 00:15:01,817 --> 00:15:03,544
@@ -1120,8 +1120,8 @@ they've made Kansas
 
 237
 00:15:03,568 --> 00:15:05,654
-a boiling pot of
-rebellion and massacres.
+a boiling pot of{https://en.wikipedia.org/wiki/Bleeding_Kansas}
+rebellion and massacres.{https://en.wikipedia.org/wiki/Bleeding_Kansas}
 
 238
 00:15:05,737 --> 00:15:07,090
@@ -1149,7 +1149,7 @@ I saw you at the graduation
 
 243
 00:15:17,916 --> 00:15:20,293
-I thought of what Napoleon said
+I thought of what Napoleon said{https://en.wikipedia.org/wiki/Empress_Jos%C3%A9phine}
 when he first met Josephine.{https://en.wikipedia.org/wiki/Napoleon}
 
 244
@@ -1226,12 +1226,12 @@ Kit! Kit! Kit.
 259
 00:15:57,956 --> 00:16:01,209
 By the way, how they ever came
-to name you Kit Carson Holliday?
+to name you Kit Carson Holliday?{https://en.wikipedia.org/wiki/Kit_Carson}
 
 260
 00:16:01,293 --> 00:16:03,753
-Well, Mr. Carson and my dad
-were very good friends.
+Well, Mr. Carson and my dad{https://en.wikipedia.org/wiki/Kit_Carson}
+were very good friends.{https://en.wikipedia.org/wiki/Kit_Carson}
 
 261
 00:16:03,837 --> 00:16:05,597
@@ -1278,8 +1278,8 @@ Hey, I thought I told you
 
 270
 00:16:25,066 --> 00:16:27,110
-them Negroes had to
-ride in the last coach.
+them Negroes had to{https://en.wikipedia.org/wiki/Slavery_in_the_United_States}
+ride in the last coach.{https://en.wikipedia.org/wiki/Slavery_in_the_United_States}
 
 271
 00:16:27,194 --> 00:16:28,904
@@ -1315,8 +1315,8 @@ There's nothing to worry about.
 
 278
 00:16:41,750 --> 00:16:44,169
-We're only half an hour
-from the border.
+We're only half an hour{https://en.wikipedia.org/wiki/Missouri}
+from the border.{https://en.wikipedia.org/wiki/Missouri}
 
 279
 00:16:44,252 --> 00:16:46,755
@@ -1338,7 +1338,7 @@ What business is that of yours?
 283
 00:17:03,897 --> 00:17:07,108
 We are asking the questions.
-Are they free or bond?
+Are they free or bond?{https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850}
 
 284
 00:17:07,192 --> 00:17:11,196
@@ -1361,8 +1361,8 @@ you and them off of this train
 
 288
 00:17:18,912 --> 00:17:20,705
-while they're
-still in Missouri.
+while they're{https://en.wikipedia.org/wiki/Missouri}
+still in Missouri.{https://en.wikipedia.org/wiki/Missouri}
 
 289
 00:17:20,789 --> 00:17:22,707
@@ -1398,8 +1398,8 @@ across the state line.
 
 296
 00:18:03,081 --> 00:18:04,749
-I'll get that murdering
-jayhawker for this
+I'll get that murdering{https://en.wikipedia.org/wiki/Jayhawker}
+jayhawker for this{https://en.wikipedia.org/wiki/Jayhawker}
 
 297
 00:18:04,833 --> 00:18:07,127
@@ -1407,8 +1407,8 @@ if I'll have to hang for it.
 
 298
 00:18:07,210 --> 00:18:09,045
-- Who was it?
-- Oliver Brown.
+- Who was it?{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
+- Oliver Brown.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 299
 00:18:09,129 --> 00:18:10,755
@@ -1441,8 +1441,8 @@ Sit down, please.
 
 305
 00:18:21,516 --> 00:18:24,519
-This is what they mean
-when call it bloody Kansas.
+This is what they mean{https://en.wikipedia.org/wiki/Bleeding_Kansas}
+when call it bloody Kansas.{https://en.wikipedia.org/wiki/Bleeding_Kansas}
 
 306
 00:18:24,603 --> 00:18:26,622
@@ -1461,22 +1461,22 @@ the present terminal.
 
 309
 00:18:58,345 --> 00:19:00,555
-I proposed to come down here
-to Wichita.
+I proposed to come down here{https://en.wikipedia.org/wiki/Wichita,_Kansas}
+to Wichita.{https://en.wikipedia.org/wiki/Wichita,_Kansas}
 
 310
 00:19:00,639 --> 00:19:02,974
-And along here across
-the Arkansas River
+And along here across{https://en.wikipedia.org/wiki/Arkansas_River}
+the Arkansas River{https://en.wikipedia.org/wiki/Arkansas_River}
 
 311
 00:19:03,058 --> 00:19:05,685
-along the Cimarron River,
-over here to Las Vegas.
+along the Cimarron River,{https://en.wikipedia.org/wiki/Cimarron_River_(Arkansas_River_tributary)}
+over here to Las Vegas.{https://en.wikipedia.org/wiki/Las_Vegas,_New_Mexico}
 
 312
 00:19:05,769 --> 00:19:07,354
-Here on into Santa Fe.
+Here on into Santa Fe.{https://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico}
 
 313
 00:19:07,437 --> 00:19:09,040
@@ -1850,8 +1850,8 @@ for the freight caravan
 
 392
 00:22:24,592 --> 00:22:26,553
-leaving at noon
-for New Mexico.
+leaving at noon{https://en.wikipedia.org/wiki/New_Mexico_Territory}
+for New Mexico.{https://en.wikipedia.org/wiki/New_Mexico_Territory}
 
 393
 00:22:26,636 --> 00:22:29,597
@@ -1860,12 +1860,12 @@ report to me for final orders.
 
 394
 00:22:34,686 --> 00:22:36,104
-Say, will you keep all those
+Say, will you keep all those{https://en.wikipedia.org/wiki/Beecher%27s_Bibles}
 
 395
 00:22:36,187 --> 00:22:37,814
-cases of Bibles
-near the tail board.
+cases of Bibles{https://en.wikipedia.org/wiki/Beecher%27s_Bibles}
+near the tail board.{https://en.wikipedia.org/wiki/Beecher%27s_Bibles}
 
 396
 00:22:37,897 --> 00:22:39,190
@@ -2613,8 +2613,8 @@ down upon your knees.
 
 555
 00:29:38,985 --> 00:29:41,570
-As once you sent the ravens
-to save Elijah
+As once you sent the ravens{https://en.wikipedia.org/wiki/Elijah}
+to save Elijah{https://en.wikipedia.org/wiki/Elijah}
 
 556
 00:29:41,654 --> 00:29:43,864
@@ -2723,7 +2723,7 @@ he's just a dirty old windbag.
 578
 00:30:42,089 --> 00:30:44,192
 No, but two of them fellas
-he killed at Osawatomie
+he killed at Osawatomie{https://en.wikipedia.org/wiki/Battle_of_Osawatomie}
 
 579
 00:30:44,216 --> 00:30:45,509
@@ -2731,8 +2731,8 @@ were friends of mine.
 
 580
 00:30:45,593 --> 00:30:47,219
-You mean Jim Doyle
-and Allan Wilkerson?
+You mean Jim Doyle{https://en.wikipedia.org/wiki/Pottawatomie_massacre}
+and Allan Wilkerson?{https://en.wikipedia.org/wiki/Pottawatomie_massacre}
 
 581
 00:30:47,303 --> 00:30:48,947
@@ -2920,7 +2920,7 @@ Wait a minute.
 620
 00:33:07,193 --> 00:33:09,820
 I know. In some magazine,
-"The Atlantic” I think.
+"The Atlantic” I think.{https://en.wikipedia.org/wiki/The_Atlantic}
 
 621
 00:33:09,904 --> 00:33:12,364
@@ -3160,8 +3160,8 @@ in those cases, George.
 
 672
 00:36:23,263 --> 00:36:25,766
-Then we've been delivering
-Bibles with triggers on 'em.
+Then we've been delivering{https://en.wikipedia.org/wiki/Beecher%27s_Bibles}
+Bibles with triggers on 'em.{https://en.wikipedia.org/wiki/Beecher%27s_Bibles}
 
 673
 00:36:25,849 --> 00:36:27,267
@@ -3439,13 +3439,13 @@ that Dr. J. Boyce Russell,
 
 732
 00:40:51,281 --> 00:40:53,081
-the most prominent
-religious leader in America
+the most prominent{https://en.wikipedia.org/wiki/Henry_Ward_Beecher}
+religious leader in America{https://en.wikipedia.org/wiki/Henry_Ward_Beecher}
 
 733
 00:40:53,116 --> 00:40:56,578
-should be sending rifles
-marked as Bibles to John Brown?
+should be sending rifles{https://en.wikipedia.org/wiki/Sharps_rifle}
+marked as Bibles to John Brown?{https://en.wikipedia.org/wiki/Beecher%27s_Bibles}
 
 734
 00:40:56,662 --> 00:40:58,789
@@ -3649,8 +3649,8 @@ in a lot of ways.
 
 778
 00:42:48,231 --> 00:42:51,234
-But he's changed
-since Osawatomie.
+But he's changed{https://en.wikipedia.org/wiki/Battle_of_Osawatomie}
+since Osawatomie.{https://en.wikipedia.org/wiki/Battle_of_Osawatomie}
 
 779
 00:42:51,318 --> 00:42:54,571
@@ -3666,7 +3666,7 @@ and begged him for their lives.
 
 782
 00:42:59,493 --> 00:43:02,162
-But he struck them with a sword.
+But he struck them with a sword.{https://en.wikipedia.org/wiki/Pottawatomie_massacre}
 
 783
 00:43:02,245 --> 00:43:05,248
@@ -3993,8 +3993,8 @@ and by guns in the West.
 
 853
 00:46:11,726 --> 00:46:14,479
-But one day the words
-will turn into guns.
+But one day the words{https://en.wikipedia.org/wiki/American_Civil_War}
+will turn into guns.{https://en.wikipedia.org/wiki/American_Civil_War}
 
 854
 00:46:14,562 --> 00:46:16,815
@@ -4013,8 +4013,8 @@ when we hang John Brown.
 
 857
 00:46:22,362 --> 00:46:24,114
-Then the South can settle
-our own problem
+Then the South can settle{https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy}
+our own problem{https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy}
 
 858
 00:46:24,197 --> 00:46:25,758
@@ -4037,8 +4037,8 @@ come together down South.
 
 862
 00:46:34,916 --> 00:46:37,127
-We can't pry them apart.
-Not even with guns.
+We can't pry them apart.{https://en.wikipedia.org/wiki/Antebellum_South}
+Not even with guns.{https://en.wikipedia.org/wiki/Antebellum_South}
 
 863
 00:46:39,587 --> 00:46:41,715
@@ -4585,7 +4585,7 @@ on the train.
 
 979
 00:54:23,468 --> 00:54:25,428
-We're Free Staters here.
+We're Free Staters here.{https://en.wikipedia.org/wiki/Free-Stater_(Kansas)}
 
 980
 00:54:25,511 --> 00:54:27,722
@@ -4716,8 +4716,8 @@ to continue God's holy work.
 
 1007
 00:56:14,161 --> 00:56:17,373
-"So Gideon took ten men
-of his servants
+"So Gideon took ten men{https://en.wikipedia.org/wiki/Gideon}
+of his servants{https://en.wikipedia.org/wiki/Gideon}
 
 1008
 00:56:17,456 --> 00:56:20,251
@@ -4736,8 +4736,8 @@ city arose early in the morning
 
 1011
 00:56:25,464 --> 00:56:28,926
-behold, the altar of Baal
-was cast down."
+behold, the altar of Baal{https://en.wikipedia.org/wiki/Gideon}
+was cast down."{https://en.wikipedia.org/wiki/Gideon}
 
 1012
 00:56:29,010 --> 00:56:31,929
@@ -5248,7 +5248,7 @@ There's worst places to hang.
 
 1121
 01:01:56,670 --> 01:01:59,173
-Get him out of here, Rader.
+Get him out of here, Rader.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 We're wasting time.
 
 1122
@@ -5461,23 +5461,23 @@ are wanted now.
 
 1166
 01:04:02,296 --> 01:04:03,881
-Not a voice crying
-in the wilderness
+Not a voice crying{https://en.wikipedia.org/wiki/Voice_in_the_wilderness}
+in the wilderness{https://en.wikipedia.org/wiki/Voice_in_the_wilderness}
 
 1167
 01:04:03,964 --> 01:04:07,509
-but a David armed
-with the power and the glory.
+but a David armed{https://en.wikipedia.org/wiki/David}
+with the power and the glory.{https://en.wikipedia.org/wiki/David}
 
 1168
 01:04:07,593 --> 01:04:10,679
 - David had a son, hadn't he?
-- A son?
+- A son?{https://en.wikipedia.org/wiki/Absalom}
 
 1169
 01:04:10,763 --> 01:04:12,639
-Yes, Absalom,
-who deserted his father
+Yes, Absalom,{https://en.wikipedia.org/wiki/Absalom}
+who deserted his father{https://en.wikipedia.org/wiki/Absalom}
 
 1170
 01:04:12,723 --> 01:04:14,558
@@ -5883,8 +5883,8 @@ I have waited, oh, lord.
 
 1257
 01:12:51,032 --> 01:12:53,785
-This is your command.
-The burning bush!
+This is your command.{https://en.wikipedia.org/wiki/Burning_bush}
+The burning bush!{https://en.wikipedia.org/wiki/Burning_bush}
 
 1258
 01:12:57,581 --> 01:12:59,958
@@ -5898,8 +5898,8 @@ upon thine enemies.
 
 1260
 01:13:03,753 --> 01:13:06,089
-As once you smote
-the Philistines
+As once you smote{https://en.wikipedia.org/wiki/Philistines}
+the Philistines{https://en.wikipedia.org/wiki/Philistines}
 
 1261
 01:13:06,172 --> 01:13:08,592
@@ -5917,7 +5917,7 @@ I shall be thy right hand.
 1264
 01:13:14,723 --> 01:13:18,393
 I, John Brown,
-shall be the sword of Jehovah.
+shall be the sword of Jehovah.{https://en.wikipedia.org/wiki/Yahweh}
 
 1265
 01:13:36,578 --> 01:13:38,079
@@ -6470,7 +6470,7 @@ I would attack first.
 
 1382
 01:20:14,058 --> 01:20:16,227
-The arsenal at Harpers Ferry.
+The arsenal at Harpers Ferry.{https://en.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia}
 
 1383
 01:20:16,311 --> 01:20:19,230
@@ -6611,12 +6611,12 @@ it might as well be now.
 1411
 01:21:26,255 --> 01:21:29,467
 Gentlemen, I came here to Boston
-at great personal risk.
+at great personal risk.{https://en.wikipedia.org/wiki/Boston}
 
 1412
 01:21:29,550 --> 01:21:31,636
-There's a price on my head
-of $10,000.
+There's a price on my head{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
+of $10,000.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 1413
 01:21:31,719 --> 01:21:34,097
@@ -6647,12 +6647,12 @@ How much money will you need?
 
 1419
 01:21:58,413 --> 01:22:00,123
-We now possess the guns,
+We now possess the guns,{https://en.wikipedia.org/wiki/Sharps_rifle}
 ammunition
 
 1420
 01:22:00,206 --> 01:22:02,375
-pikes, a complete store
+pikes, a complete store{https://en.wikipedia.org/wiki/Pike_(weapon)}
 of supplies.
 
 1421
@@ -6705,8 +6705,8 @@ won't any trouble.
 
 1431
 01:22:37,034 --> 01:22:38,929
-There's a bridge at the
-Baltimore and Ohio railroad
+There's a bridge at the{https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad}
+Baltimore and Ohio railroad{https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad}
 
 1432
 01:22:38,953 --> 01:22:39,972
@@ -7443,12 +7443,12 @@ you are out of your mind.
 
 1590
 01:30:24,376 --> 01:30:26,170
-All set to strike
+All set to strike{https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry}
 at Harpers Ferry
 
 1591
 01:30:26,253 --> 01:30:29,506
-on the Maryland-Virginia line
+on the Maryland-Virginia line{https://en.wikipedia.org/wiki/Virginia}
 sometime tonight.
 
 1592
@@ -7458,8 +7458,8 @@ of over 1200 men
 
 1593
 01:30:31,967 --> 01:30:34,803
-expected before daybreak
-from Pennsylvania.
+expected before daybreak{https://en.wikipedia.org/wiki/Pennsylvania}
+from Pennsylvania.{https://en.wikipedia.org/wiki/Pennsylvania}
 
 1594
 01:30:34,887 --> 01:30:37,765
@@ -8034,8 +8034,8 @@ in open rebellion.”
 
 1715
 01:37:40,687 --> 01:37:43,857
-It's from the second force
-at Frederick, Maryland.
+It's from the second force{https://en.wikipedia.org/wiki/Frederick,_Maryland}
+at Frederick, Maryland.{https://en.wikipedia.org/wiki/Frederick,_Maryland}
 
 1716
 01:37:43,940 --> 01:37:45,984
@@ -8048,7 +8048,7 @@ Unable to get through.”
 
 1718
 01:37:50,697 --> 01:37:52,449
-"Jefferson guards
+"Jefferson guards{https://en.wikipedia.org/wiki/Robert_E._Lee}
 and the Winchesters
 
 1719
@@ -8269,8 +8269,8 @@ No.
 
 1766
 01:44:52,577 --> 01:44:56,247
-So Judas betrayed him
-for a handful of silver.
+So Judas betrayed him{https://en.wikipedia.org/wiki/Judas_Iscariot}
+for a handful of silver.{https://en.wikipedia.org/wiki/Judas_Iscariot}
 
 1767
 01:44:57,207 --> 01:44:59,042
@@ -8309,8 +8309,8 @@ John Brown?
 
 1775
 01:46:56,367 --> 01:46:59,913
-I am only walking as God
-foreordained I should walk.
+I am only walking as God{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
+foreordained I should walk.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 1776
 01:47:02,206 --> 01:47:03,541
@@ -8354,15 +8354,15 @@ am now quite certain
 1784
 01:47:26,397 --> 01:47:29,692
 that the crimes of this guilty
-land can never be purged away
+land can never be purged away{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 1785
 01:47:29,776 --> 01:47:31,527
-but with blood.
+but with blood.{https://en.wikipedia.org/wiki/John_Brown_(abolitionist)}
 
 1786
 01:47:33,196 --> 01:47:36,741
-I let them hang me.
+I let them hang me.{https://en.wikipedia.org/wiki/Hanging}
 
 1787
 01:47:36,824 --> 01:47:38,868

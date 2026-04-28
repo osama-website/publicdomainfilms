@@ -14,12 +14,12 @@ up and down like he was on a rubber band.{https://en.wikipedia.org/wiki/Hanging}
 
 4
 00:02:45,140 --> 00:02:47,600
-Williams only weighs 134.
+Williams only weighs 134.{https://en.wikipedia.org/wiki/Hanging}
 
 5
 00:02:47,680 --> 00:02:50,560
 Addin' a couple of pounds for breakfast,
-the way those guys always eat,
+the way those guys always eat,{https://en.wikipedia.org/wiki/Hanging}
 
 6
 00:02:50,650 --> 00:02:52,770
@@ -28,7 +28,7 @@ that brings it up to 136.
 7
 00:02:52,860 --> 00:02:55,980
 Keep it up till you get the spring out
-of it. We want this one's neck broke.
+of it. We want this one's neck broke.{https://en.wikipedia.org/wiki/Capital_punishment}
 
 8
 00:02:56,780 --> 00:02:58,280
@@ -102,11 +102,11 @@ I'm 80 cents out already.
 
 23
 00:03:56,090 --> 00:03:59,210
-Faber 1059.
+Faber 1059.{https://en.wikipedia.org/wiki/Telephone_exchange}
 
 24
 00:03:59,300 --> 00:04:02,840
-Hey, take this phone.
+Hey, take this phone.{https://en.wikipedia.org/wiki/Switchboard_operator}
 
 25
 00:04:03,890 --> 00:04:06,890
@@ -118,7 +118,7 @@ Are you guys crippled or something?
 
 27
 00:04:10,430 --> 00:04:14,560
-Criminal Courts Building, press room.
+Criminal Courts Building, press room.{https://en.wikipedia.org/wiki/Cook_County_Jail}
 Just a minute, please.
 
 28
@@ -147,12 +147,12 @@ of Mrs. F.D. Margolies?
 
 33
 00:04:40,050 --> 00:04:42,800
-This is Mr. McCue of the CityNews Bureau.
+This is Mr. McCue of the CityNews Bureau.{https://en.wikipedia.org/wiki/Wire_service}
 
 34
 00:04:42,880 --> 00:04:46,090
 Is it true, madame, that you were
-the victim of a peeping Tom?
+the victim of a peeping Tom?{https://en.wikipedia.org/wiki/Yellow_journalism}
 
 35
 00:04:46,180 --> 00:04:48,350
@@ -179,11 +179,11 @@ Just a minute, madame.
 40
 00:04:59,980 --> 00:05:02,900
 Is it true, Mrs. Margolies,
-you took the part of Pocahontas
+you took the part of Pocahontas{https://en.wikipedia.org/wiki/Pocahontas}
 
 41
 00:05:02,990 --> 00:05:05,700
-in the Elks' Pageant seven years ago?
+in the Elks' Pageant seven years ago?{https://en.wikipedia.org/wiki/Benevolent_and_Protective_Order_of_Elks}
 
 42
 00:05:05,780 --> 00:05:08,490
@@ -213,8 +213,8 @@ Hello, Bensinger.
 
 48
 00:05:26,800 --> 00:05:30,220
-I just had an interview with Williams
-over in the death house.
+I just had an interview with Williams{https://en.wikipedia.org/wiki/Death_row}
+over in the death house.{https://en.wikipedia.org/wiki/Death_row}
 
 49
 00:05:32,220 --> 00:05:35,100
@@ -265,7 +265,7 @@ contagious, the most malignant ̶
 
 59
 00:06:02,630 --> 00:06:04,340
-Shut up, Listerine!
+Shut up, Listerine!{https://en.wikipedia.org/wiki/Listerine}
 
 60
 00:06:04,420 --> 00:06:06,670
@@ -345,7 +345,7 @@ Good-bye, Mr. Burns.
 
 77
 00:06:55,220 --> 00:06:58,310
-Walter Burns for Hildy again.
+Walter Burns for Hildy again.{https://en.wikipedia.org/wiki/The_Front_Page}
 Something must have happened.
 
 78
@@ -447,8 +447,8 @@ patients claiming he's innocent.
 
 99
 00:08:06,040 --> 00:08:09,130
-But from what the husbands say,
-it looks like he's a lothario.
+But from what the husbands say,{https://en.wikipedia.org/wiki/Lothario}
+it looks like he's a lothario.{https://en.wikipedia.org/wiki/Lothario}
 
 100
 00:08:11,880 --> 00:08:13,970
@@ -484,7 +484,7 @@ he was having a hemorrhage.
 107
 00:08:43,920 --> 00:08:46,830
 I'm after that bunch of lily-livered,
-pockmarked peanut politicians
+pockmarked peanut politicians{https://en.wikipedia.org/wiki/William_Hale_Thompson}
 
 108
 00:08:46,920 --> 00:08:48,460
@@ -575,7 +575,7 @@ Hildy Johnson here?
 127
 00:09:58,610 --> 00:10:01,160
 You remember me.
-I was here last night with Mr. Benchley.
+I was here last night with Mr. Benchley.{https://en.wikipedia.org/wiki/Speakeasy}
 
 128
 00:10:01,240 --> 00:10:03,410
@@ -636,7 +636,7 @@ Well, darling, you're almost mine.
 
 141
 00:11:04,810 --> 00:11:08,520
-I'd write the Society notes to get a look at
+I'd write the Society notes to get a look at{https://en.wikipedia.org/wiki/Sob_sister}
 Walter Burns' face when he hears of this.
 
 142
@@ -832,7 +832,7 @@ The movie house.
 
 184
 00:14:40,100 --> 00:14:42,020
-This could be another
+This could be another{https://en.wikipedia.org/wiki/Iroquois_Theatre_fire}
 Iroquois Theater disaster.
 
 185
@@ -842,7 +842,7 @@ a full page of pictures.
 
 186
 00:14:44,530 --> 00:14:45,980
-Frightful carnage
+Frightful carnage{https://en.wikipedia.org/wiki/Yellow_journalism}
 snapped by the Morning Post.
 
 187
@@ -869,7 +869,7 @@ But, Hildy...
 
 192
 00:15:01,040 --> 00:15:05,000
-Hello, Hildy. I'd like to have a little
+Hello, Hildy. I'd like to have a little{https://en.wikipedia.org/wiki/His_Girl_Friday}
 talk with you for about 15 minutes.
 
 193
@@ -1222,12 +1222,12 @@ is of the dual personality type.
 269
 00:19:31,940 --> 00:19:34,560
 Yeah, I know, I know.
-Like the Dolly Sisters.
+Like the Dolly Sisters.{https://en.wikipedia.org/wiki/Dolly_Sisters}
 
 270
 00:19:34,650 --> 00:19:37,020
 Yeah, that's right.
-Tell it to the Tribune.
+Tell it to the Tribune.{https://en.wikipedia.org/wiki/Chicago_Tribune}
 
 271
 00:19:37,110 --> 00:19:39,570
@@ -1413,7 +1413,7 @@ Ha! I didn't tell you that, did I?
 311
 00:21:33,310 --> 00:21:35,730
 And if you know what's good for you,
-you'll stay west of Gary, Indiana,
+you'll stay west of Gary, Indiana,{https://en.wikipedia.org/wiki/Chicago_Loop}
 
 312
 00:21:35,810 --> 00:21:37,730
@@ -1475,7 +1475,7 @@ farewell dinners.
 
 325
 00:22:03,550 --> 00:22:05,170
-He poisons people at them.
+He poisons people at them.{https://en.wikipedia.org/wiki/Lucrezia_Borgia}
 
 326
 00:22:05,260 --> 00:22:07,630
@@ -1483,8 +1483,8 @@ Gimme Tucker 2164, will ya?
 
 327
 00:22:07,720 --> 00:22:09,800
-Yeah, he got me into Polack Mike's,
-filled me full of rotgut.
+Yeah, he got me into Polack Mike's,{https://en.wikipedia.org/wiki/Polack}
+filled me full of rotgut.{https://en.wikipedia.org/wiki/Prohibition_in_the_United_States}
 
 328
 00:22:09,890 --> 00:22:12,300
@@ -1614,7 +1614,7 @@ better to do down there?
 
 355
 00:23:31,430 --> 00:23:34,010
-It is 150.
+It is 150.{https://en.wikipedia.org/wiki/Newspaper}
 
 356
 00:23:34,100 --> 00:23:36,510
@@ -1637,7 +1637,7 @@ talking statistics?
 
 360
 00:23:46,230 --> 00:23:48,980
-Why, you'll be like a fire horse
+Why, you'll be like a fire horse{https://en.wikipedia.org/wiki/Newspaper}
 tied to a milk wagon.
 
 361
@@ -1680,7 +1680,7 @@ about newspapers.
 
 369
 00:24:13,550 --> 00:24:16,800
-I've been a newspaper man for 15 years, a
+I've been a newspaper man for 15 years, a{https://en.wikipedia.org/wiki/Newspaper}
 cross between a bootlegger and a galoofer.{https://en.wikipedia.org/wiki/Rum-running}
 
 370
@@ -1913,7 +1913,7 @@ reelected next week.
 
 419
 00:26:52,460 --> 00:26:56,090
-Yes, when Williams drops through that
+Yes, when Williams drops through that{https://en.wikipedia.org/wiki/Capital_punishment}
 trap tomorrow, it means a million votes.
 
 420
@@ -2022,7 +2022,7 @@ Yes.
 
 443
 00:28:16,420 --> 00:28:18,960
-With this new alienist coming in,
+With this new alienist coming in,{https://en.wikipedia.org/wiki/Alienist}
 how do we know there'll be a hanging?
 
 444
@@ -2070,7 +2070,7 @@ What do ya do, gents?
 
 454
 00:28:43,320 --> 00:28:45,990
-They've gotta impress on these Bolsheviks
+They've gotta impress on these Bolsheviks{https://en.wikipedia.org/wiki/Red_Scare}
 
 455
 00:28:46,070 --> 00:28:48,580
@@ -2109,7 +2109,7 @@ All right, you'll just get scooped.
 
 463
 00:29:12,270 --> 00:29:15,520
-We're going to reform the reds with a rope.
+We're going to reform the reds with a rope.{https://en.wikipedia.org/wiki/Red_Scare}
 That's our slogan.
 
 464
@@ -2196,7 +2196,7 @@ This new alienist, Dr. Max J. Egelhoffer ̶
 
 482
 00:30:14,500 --> 00:30:16,460
-That's right. From Vienna.
+That's right. From Vienna.{https://en.wikipedia.org/wiki/Vienna}
 
 483
 00:30:16,540 --> 00:30:19,250
@@ -2210,7 +2210,7 @@ at the request of the, uh,
 485
 00:30:22,380 --> 00:30:26,220
 My. One of the biggest.
-Author of that book, The Personality Gland.
+Author of that book, The Personality Gland.{https://en.wikipedia.org/wiki/Dementia_praecox}
 
 486
 00:30:26,300 --> 00:30:28,970
@@ -2272,7 +2272,7 @@ Ready?
 
 499
 00:31:00,630 --> 00:31:03,000
-Sheriff Hartman's just put
+Sheriff Hartman's just put{https://en.wikipedia.org/wiki/Sheriff_of_Cook_County}
 four more hundred relatives on the payroll
 
 500
@@ -2330,7 +2330,7 @@ ate a hearty dinner.
 
 511
 00:31:31,530 --> 00:31:35,660
-Mock turtle soup, chicken pot pie,
+Mock turtle soup, chicken pot pie,{https://en.wikipedia.org/wiki/Mock_turtle_soup}
 hashed brown potatoes,
 
 512
@@ -2423,7 +2423,7 @@ Shamey, shamey!
 
 532
 00:32:37,470 --> 00:32:39,850
-Stinky Bensinger's
+Stinky Bensinger's{https://en.wikipedia.org/wiki/Yellow_journalism}
 going in for petty graft again.
 
 533
@@ -2569,7 +2569,7 @@ because it was warm there.
 
 563
 00:34:04,930 --> 00:34:07,520
-Put that on your Victrola.
+Put that on your Victrola.{https://en.wikipedia.org/wiki/Victrola}
 
 564
 00:34:07,600 --> 00:34:11,400
@@ -2628,8 +2628,8 @@ the only one he had.
 
 576
 00:34:40,510 --> 00:34:44,310
-Yes, me, Molly Malloy,
-a common streetwalker.
+Yes, me, Molly Malloy,{https://en.wikipedia.org/wiki/Streetwalker}
+a common streetwalker.{https://en.wikipedia.org/wiki/Streetwalker}
 
 577
 00:34:44,390 --> 00:34:46,770
@@ -2934,7 +2934,7 @@ to your house and hang him?
 
 642
 00:38:32,240 --> 00:38:34,290
-I gotta see an alienist.
+I gotta see an alienist.{https://en.wikipedia.org/wiki/Alienist}
 
 643
 00:38:34,370 --> 00:38:37,250
@@ -3190,8 +3190,8 @@ So long, Hildy!
 
 701
 00:41:31,800 --> 00:41:33,920
-Be careful of that
-treacherous New York weather, Hildy.
+Be careful of that{https://en.wikipedia.org/wiki/New_York_City}
+treacherous New York weather, Hildy.{https://en.wikipedia.org/wiki/New_York_City}
 
 702
 00:41:34,010 --> 00:41:36,340
@@ -3262,7 +3262,7 @@ And then what did you do?
 
 717
 00:42:44,580 --> 00:42:47,080
-Dementia praecox!
+Dementia praecox!{https://en.wikipedia.org/wiki/Dementia_praecox}
 
 718
 00:42:49,040 --> 00:42:50,710
@@ -3399,7 +3399,7 @@ the rain pipe to the street.
 
 747
 00:44:56,420 --> 00:44:59,340
-The crime commission is offering $10,000
+The crime commission is offering $10,000{https://en.wikipedia.org/wiki/Chicago_Crime_Commission}
 reward for the capture of Earl Williams.
 
 748
@@ -3412,7 +3412,7 @@ Hello. Here's a feature for you.
 
 750
 00:45:02,970 --> 00:45:05,390
-Tear bomb. Yeah, a tear bomb.
+Tear bomb. Yeah, a tear bomb.{https://en.wikipedia.org/wiki/Tear_gas}
 
 751
 00:45:05,470 --> 00:45:06,970
@@ -3471,8 +3471,8 @@ A man answering Williams' description
 
 763
 00:45:30,790 --> 00:45:33,370
-was seen boarding a southbound
-Cottage Grove Avenue car
+was seen boarding a southbound{https://en.wikipedia.org/wiki/Cottage_Grove_Avenue_(Chicago)}
+Cottage Grove Avenue car{https://en.wikipedia.org/wiki/Cottage_Grove_Avenue_(Chicago)}
 
 764
 00:45:33,460 --> 00:45:35,250
@@ -3837,7 +3837,7 @@ half South Euclid Street, colored.
 842
 00:49:19,720 --> 00:49:23,060
 Well, she became the mother
-of a pickaninny in a patrol wagon
+of a pickaninny in a patrol wagon{https://en.wikipedia.org/wiki/Pickaninny}
 
 843
 00:49:23,140 --> 00:49:25,770
@@ -3911,7 +3911,7 @@ Wait a minute. Here's the mayor himself.
 
 858
 00:50:15,900 --> 00:50:18,700
-What effect's this jailbreak
+What effect's this jailbreak{https://en.wikipedia.org/wiki/William_Hale_Thompson}
 gonna have on the colored voters?
 
 859
@@ -3959,7 +3959,7 @@ Hartman, I've been looking for you.
 
 868
 00:50:43,220 --> 00:50:47,390
-The rifle squad is just starting out.
+The rifle squad is just starting out.{https://en.wikipedia.org/wiki/Manhunt_(law_enforcement)}
 You can catch them if you hurry.
 
 869
@@ -4150,7 +4150,7 @@ Well, why go into that now, Fred?
 911
 00:52:40,760 --> 00:52:45,090
 The slogan I had was all we needed to win ̶
-"Keep King George out of our city."
+"Keep King George out of our city."{https://en.wikipedia.org/wiki/George_V}
 
 912
 00:52:47,470 --> 00:52:49,270
@@ -4188,7 +4188,7 @@ I'm a messenger at the state house.
 
 920
 00:53:07,280 --> 00:53:09,120
-The reprieve for Earl Williams.
+The reprieve for Earl Williams.{https://en.wikipedia.org/wiki/Reprieve}
 
 921
 00:53:09,200 --> 00:53:11,330
@@ -4580,12 +4580,12 @@ callin' me a Bolshevik.{https://en.wikipedia.org/wiki/Bolsheviks}
 
 1007
 00:57:41,220 --> 00:57:44,310
-I'm an anarchist.
+I'm an anarchist.{https://en.wikipedia.org/wiki/Anarchism}
 It's got nothing to do with bombs.
 
 1008
 00:57:44,390 --> 00:57:47,900
-It's the philosophy
+It's the philosophy{https://en.wikipedia.org/wiki/Anarchism_in_the_United_States}
 that guarantees every man's freedom.
 
 1009
@@ -4958,7 +4958,7 @@ Kick down the building?
 
 1090
 01:01:58,730 --> 01:02:00,650
-Boy, some Halloween going on out there.
+Boy, some Halloween going on out there.{https://en.wikipedia.org/wiki/Halloween}
 
 1091
 01:02:00,730 --> 01:02:03,070
@@ -5819,7 +5819,7 @@ to tear out the whole front page.
 1272
 01:10:09,220 --> 01:10:12,560
 That's what I said ̶
-the whole front page, out.
+the whole front page, out.{https://en.wikipedia.org/wiki/Stop_the_presses}
 
 1273
 01:10:12,640 --> 01:10:14,140
@@ -5877,7 +5877,7 @@ know I'd do anything in the world for you.
 
 1284
 01:10:44,550 --> 01:10:46,340
-Junk the League of Nations! Spike it!
+Junk the League of Nations! Spike it!{https://en.wikipedia.org/wiki/League_of_Nations}
 
 1285
 01:10:46,430 --> 01:10:49,430
@@ -5926,7 +5926,7 @@ without any feelings.
 1294
 01:11:10,740 --> 01:11:14,120
 - That's all I ever want to be.
-- Then get hold of Butch as fast as you can!
+- Then get hold of Butch as fast as you can!{https://en.wikipedia.org/wiki/Strikebreaker}
 
 1295
 01:11:14,200 --> 01:11:18,250
@@ -5949,7 +5949,7 @@ Let it come, kid, fast.
 
 1299
 01:11:29,300 --> 01:11:31,930
-Get back in there, you mock turtle!
+Get back in there, you mock turtle!{https://en.wikipedia.org/wiki/Newsroom}
 
 1300
 01:11:32,010 --> 01:11:34,310
@@ -6414,7 +6414,7 @@ sometime for a foreign correspondent?
 
 1399
 01:16:19,010 --> 01:16:20,930
-I parlez-vous a little French, you know.
+I parlez-vous a little French, you know.{https://en.wikipedia.org/wiki/Vaudeville}
 
 1400
 01:16:21,010 --> 01:16:23,050
@@ -6694,7 +6694,7 @@ have, you'd know what women are, murderers!
 
 1461
 01:19:10,300 --> 01:19:11,510
-Borgias!
+Borgias!{https://en.wikipedia.org/wiki/Lucrezia_Borgia}
 
 1462
 01:19:14,890 --> 01:19:17,600
@@ -7778,7 +7778,7 @@ the cordon of police!
 
 1698
 01:30:35,030 --> 01:30:36,610
-Williams was unconscious
+Williams was unconscious{https://en.wikipedia.org/wiki/Roll-top_desk}
 when they opened the desk.
 
 1699

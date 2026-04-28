@@ -93,11 +93,11 @@ tales to last us a while</i>."
 
 21
 00:03:42,654 --> 00:03:44,070
-Griggs and Hodgson, fall out.
+Griggs and Hodgson, fall out.{https://en.wikipedia.org/wiki/Sergeant}
 
 22
 00:03:45,289 --> 00:03:47,070
-Sergeant Williams,
+Sergeant Williams,{https://en.wikipedia.org/wiki/United_States_Marine_Corps}
 take care of the patrol.
 
 23
@@ -292,7 +292,7 @@ Thank you. Just put it down, please.
 67
 00:06:27,523 --> 00:06:30,917
 By the way officer, I was wondering:
-what does Pago Pago mean?
+what does Pago Pago mean?{https://en.wikipedia.org/wiki/Pago_Pago}
 
 68
 00:06:31,246 --> 00:06:33,034
@@ -313,7 +313,7 @@ Of course.
 
 72
 00:06:41,708 --> 00:06:43,038
-What will it be like in Apia?
+What will it be like in Apia?{https://en.wikipedia.org/wiki/Apia}
 
 73
 00:06:43,762 --> 00:06:44,798
@@ -321,7 +321,7 @@ The usual.
 
 74
 00:06:55,328 --> 00:06:56,933
-Welcome to Pago Pago, Mr Davidson.
+Welcome to Pago Pago, Mr Davidson.{https://en.wikipedia.org/wiki/Pago_Pago}
 
 75
 00:06:57,033 --> 00:06:59,024
@@ -368,7 +368,7 @@ has come down with cholera.{https://en.wikipedia.org/wiki/Cholera}
 84
 00:07:22,728 --> 00:07:25,859
 It cannot start until it is certain that
-none of the other crew are affected.
+none of the other crew are affected.{https://en.wikipedia.org/wiki/Quarantine}
 
 85
 00:07:27,161 --> 00:07:28,693
@@ -376,7 +376,7 @@ It may mean a delay of several days.
 
 86
 00:07:28,888 --> 00:07:30,758
-I think I'd prefer the cholera.
+I think I'd prefer the cholera.{https://en.wikipedia.org/wiki/Cholera}
 
 87
 00:07:31,266 --> 00:07:32,603
@@ -417,7 +417,7 @@ How do you do. You're leaving soon?
 
 96
 00:07:54,843 --> 00:07:57,073
-The schooner for Apia is delayed
+The schooner for Apia is delayed{https://en.wikipedia.org/wiki/Schooner}
 on account of the Cholera.
 
 97
@@ -493,16 +493,16 @@ What's his badge?
 
 113
 00:08:38,690 --> 00:08:40,337
-Investigator of Native Conditions.
+Investigator of Native Conditions.{https://en.wikipedia.org/wiki/Christian_missionary}
 
 114
 00:08:40,976 --> 00:08:42,530
-A professional reformer.
+A professional reformer.{https://en.wikipedia.org/wiki/Christian_missionary}
 
 115
 00:08:43,375 --> 00:08:45,362
 He wields more influence
-in the South Seas than ..
+in the South Seas than ..{https://en.wikipedia.org/wiki/South_Seas}
 
 116
 00:08:45,572 --> 00:08:48,037
@@ -612,7 +612,7 @@ Besides .. I like the boys here.
 140
 00:09:56,551 --> 00:09:59,008
 Hello, Handsome.
-When did you leave Kansas?
+When did you leave Kansas?{https://en.wikipedia.org/wiki/Kansas}
 
 141
 00:10:00,666 --> 00:10:02,297
@@ -628,7 +628,7 @@ He's very shy, Miss. Don't mind him.
 
 144
 00:10:06,505 --> 00:10:08,601
-Lay off sailor, or I'll
+Lay off sailor, or I'll{https://en.wikipedia.org/wiki/United_States_Marine_Corps}
 swab the deck with you.
 
 145
@@ -1001,7 +1001,7 @@ be as dry as a blotting pad.
 
 228
 00:14:36,428 --> 00:14:38,387
-<i>Shikata ga nai, Shikata ga nai</i>.
+<i>Shikata ga nai, Shikata ga nai</i>.{https://en.wikipedia.org/wiki/Samoan_language}
 
 229
 00:14:38,924 --> 00:14:41,000
@@ -1011,7 +1011,7 @@ in Jap', buttercup.
 230
 00:14:42,521 --> 00:14:45,777
 Mrs Macphail, tomorrow you and
-must sew the mosquito netting.
+must sew the mosquito netting.{https://en.wikipedia.org/wiki/Mosquito_net}
 
 231
 00:14:46,068 --> 00:14:47,928
@@ -1024,7 +1024,7 @@ no fancy for being eaten up tonight.
 
 233
 00:14:51,481 --> 00:14:54,384
-I prefer not to do any
+I prefer not to do any{https://en.wikipedia.org/wiki/Sabbath_in_Christianity}
 sewing on the Sabbath.
 
 234
@@ -1128,7 +1128,7 @@ Willy, Willy look at this.
 
 256
 00:15:59,850 --> 00:16:01,260
-"The Wabash Blues".
+"The Wabash Blues".{https://en.wikipedia.org/wiki/Wabash_Blues}
 
 257
 00:16:01,543 --> 00:16:03,014
@@ -1158,7 +1158,7 @@ I leave. That's a threat.
 
 263
 00:16:14,880 --> 00:16:18,285
-The Quartermaster here is a great little
+The Quartermaster here is a great little{https://en.wikipedia.org/wiki/Quartermaster}
 stepper. You watch him shake a shoe.
 
 264
@@ -1216,7 +1216,7 @@ What step you doing now, Bertie?
 276
 00:17:05,886 --> 00:17:08,376
 Young woman, have you no
-respect for the Lord's day?
+respect for the Lord's day?{https://en.wikipedia.org/wiki/Sabbath_in_Christianity}
 
 277
 00:17:08,476 --> 00:17:09,182
@@ -1331,7 +1331,7 @@ will not like this at all.
 
 302
 00:18:21,682 --> 00:18:24,191
-I've argued it out with the Governor
+I've argued it out with the Governor{https://en.wikipedia.org/wiki/Naval_Station_Tutuila}
 but there is nothing to be done.
 
 303
@@ -1451,7 +1451,7 @@ It's a busman's holiday, but I'll go.
 
 329
 00:19:31,610 --> 00:19:34,586
-The Orduna must be going
+The Orduna must be going{https://en.wikipedia.org/wiki/American_Samoa}
 out before her scheduled time.
 
 330
@@ -1461,7 +1461,7 @@ I hate to see her go.
 331
 00:19:37,401 --> 00:19:39,368
 She seemed to be our
-last link with home.
+last link with home.{https://en.wikipedia.org/wiki/Honolulu}
 
 332
 00:19:42,937 --> 00:19:44,896
@@ -1499,8 +1499,8 @@ Bye-bye.
 
 339
 00:20:02,844 --> 00:20:04,270
-Aloha.
-─ Sayonara.
+Aloha.{https://en.wikipedia.org/wiki/Aloha}
+─ Sayonara.{https://en.wikipedia.org/wiki/Sayonara}
 
 340
 00:20:05,407 --> 00:20:06,136
@@ -1508,7 +1508,7 @@ I'm off.
 
 341
 00:20:10,288 --> 00:20:12,226
-In the land of the Eskimo ..
+In the land of the Eskimo ..{https://en.wikipedia.org/wiki/Eskimo}
 
 342
 00:20:12,955 --> 00:20:14,361
@@ -1626,7 +1626,7 @@ What are you going to do, Alfred?
 368
 00:21:47,691 --> 00:21:50,414
 What do you expect me to do. I'll not
-have this house turned into a brothel.
+have this house turned into a brothel.{https://en.wikipedia.org/wiki/Brothel}
 
 369
 00:21:50,514 --> 00:21:51,606
@@ -1678,7 +1678,7 @@ They'll be no next time.
 380
 00:22:16,572 --> 00:22:19,817
 If you bust into a lady's room you ought
-to get someone to introduce you, fellah.
+to get someone to introduce you, fellah.{https://en.wikipedia.org/wiki/United_States_Marine_Corps}
 
 381
 00:22:22,149 --> 00:22:23,260
@@ -1758,7 +1758,7 @@ Forced idleness makes them restive.
 
 399
 00:23:58,255 --> 00:24:00,317
-Back in Illinois where I was raised.
+Back in Illinois where I was raised.{https://en.wikipedia.org/wiki/Illinois}
 
 400
 00:24:00,962 --> 00:24:04,216
@@ -1939,7 +1939,7 @@ dressed and soon it's time to go to bed.
 439
 00:26:04,379 --> 00:26:07,835
 I've been playing solitaire all afternoon
-trying to decide what to have for supper.
+trying to decide what to have for supper.{https://en.wikipedia.org/wiki/Solitaire}
 
 440
 00:26:08,343 --> 00:26:09,435
@@ -1960,7 +1960,7 @@ and tamales got to win.
 
 444
 00:26:18,101 --> 00:26:19,631
-Got any canned tamales, Mr Horn?
+Got any canned tamales, Mr Horn?{https://en.wikipedia.org/wiki/Tamale}
 
 445
 00:26:19,907 --> 00:26:22,287
@@ -2548,12 +2548,12 @@ Let her insult me. Let her spit on me.
 
 574
 00:32:41,230 --> 00:32:42,527
-She has an immortal soul.
+She has an immortal soul.{https://en.wikipedia.org/wiki/Salvation}
 
 575
 00:32:42,953 --> 00:32:44,805
 And I must do all in
-my power to save it.
+my power to save it.{https://en.wikipedia.org/wiki/Christian_missionary}
 
 576
 00:32:56,936 --> 00:32:58,495
@@ -2746,7 +2746,7 @@ A girl I used to work with lives there.
 
 617
 00:35:21,893 --> 00:35:24,140
-And some American boys
+And some American boys{https://en.wikipedia.org/wiki/Apia}
 have opened up a sugar plant.
 
 618
@@ -2802,7 +2802,7 @@ Well.
 
 629
 00:35:50,531 --> 00:35:52,900
-I was born in Kennesaw, Kansas,
+I was born in Kennesaw, Kansas,{https://en.wikipedia.org/wiki/Kansas}
 if that means anything.
 
 630
@@ -3305,7 +3305,7 @@ I was out this morning.
 
 741
 00:41:16,286 --> 00:41:18,394
-I went to see that half-caste
+I went to see that half-caste{https://en.wikipedia.org/wiki/Half-caste}
 family you told me about.
 
 742
@@ -3595,11 +3595,11 @@ either, I suppose?           ─ No.
 
 807
 00:44:23,483 --> 00:44:24,891
-You could go to Sidney.
+You could go to Sidney.{https://en.wikipedia.org/wiki/Sydney}
 
 808
 00:44:26,332 --> 00:44:27,185
-Australia?
+Australia?{https://en.wikipedia.org/wiki/Australia}
 
 809
 00:44:27,949 --> 00:44:29,884
@@ -3649,7 +3649,7 @@ That will be a month and three days.
 819
 00:44:53,646 --> 00:44:56,295
 What you going to do there, Handsome?
-─ Going into the building business.
+─ Going into the building business.{https://en.wikipedia.org/wiki/Demobilization}
 
 820
 00:44:56,395 --> 00:44:58,526
@@ -3658,7 +3658,7 @@ a place and wants a partner.
 
 821
 00:44:59,230 --> 00:45:02,062
-These three years left he's been at me
+These three years left he's been at me{https://en.wikipedia.org/wiki/United_States_Marine_Corps}
 to get a discharge and come in with him.
 
 822
@@ -3959,7 +3959,7 @@ I've got some rights, haven't I?
 889
 00:48:12,217 --> 00:48:14,176
 The Governor has ordered
-me back to San Francisco.
+me back to San Francisco.{https://en.wikipedia.org/wiki/San_Francisco}
 
 890
 00:48:14,533 --> 00:48:16,641
@@ -4259,7 +4259,7 @@ Hey, what have you been doing, lately?
 
 953
 00:51:41,680 --> 00:51:43,876
-You're booked for the Brig.
+You're booked for the Brig.{https://en.wikipedia.org/wiki/Brig_(prison)}
 ─ That's right, Serge.
 
 954
@@ -4498,7 +4498,7 @@ What are you saying?
 
 1006
 00:54:47,236 --> 00:54:49,674
-All the same, I know. He big Atua.
+All the same, I know. He big Atua.{https://en.wikipedia.org/wiki/Atua}
 
 1007
 00:55:01,502 --> 00:55:02,714
@@ -4518,7 +4518,7 @@ He big Atua.
 
 1011
 00:55:09,475 --> 00:55:10,379
-A witchdoctor.
+A witchdoctor.{https://en.wikipedia.org/wiki/Atua}
 
 1012
 00:55:10,879 --> 00:55:12,862
@@ -4866,7 +4866,7 @@ He wears a badge.
 
 1090
 00:59:28,710 --> 00:59:30,374
-What you fear is the Penitentiary.
+What you fear is the Penitentiary.{https://en.wikipedia.org/wiki/Penitentiary}
 
 1091
 00:59:31,506 --> 00:59:34,568
@@ -4914,13 +4914,13 @@ Tuesday, as the Governor has ordered.
 
 1100
 01:00:00,121 --> 01:00:02,603
-If you are truly repentant,
+If you are truly repentant,{https://en.wikipedia.org/wiki/Repentance}
 you will accept this punishment.
 
 1101
 01:00:03,067 --> 01:00:05,179
 You will offer it as the
-atonement for your sins.
+atonement for your sins.{https://en.wikipedia.org/wiki/Atonement_in_Christianity}
 
 1102
 01:00:06,185 --> 01:00:08,591
@@ -5073,7 +5073,7 @@ you can tell him this from me:
 1136
 01:01:34,100 --> 01:01:36,328
 That Sadie Thompson
-is on her way to hell!
+is on her way to hell!{https://en.wikipedia.org/wiki/Salvation}
 
 1137
 01:01:36,530 --> 01:01:37,173
@@ -5315,7 +5315,7 @@ everything returneth</i>."
 
 1191
 01:05:42,556 --> 01:05:44,840
-"<i>Eternally rolleth the
+"<i>Eternally rolleth the{https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra}
 wheel of existence</i>."
 
 1192
@@ -5337,7 +5337,7 @@ the year of existence</i>."
 
 1196
 01:05:56,045 --> 01:05:57,844
-Ah, good old Nietzsche.
+Ah, good old Nietzsche.{https://en.wikipedia.org/wiki/Friedrich_Nietzsche}
 
 1197
 01:05:58,798 --> 01:06:00,043
@@ -5564,11 +5564,11 @@ around her much longer.
 1248
 01:08:28,703 --> 01:08:31,319
 What do you know about it?
-Safe in the Brig all week.
+Safe in the Brig all week.{https://en.wikipedia.org/wiki/Brig_(prison)}
 
 1249
 01:08:32,431 --> 01:08:35,977
-There hasn't been such a casting-out of
+There hasn't been such a casting-out of{https://en.wikipedia.org/wiki/Repentance}
 devils since the first chapter of Exodus.
 
 1250
@@ -5604,7 +5604,7 @@ Wait until you see her, I say.
 
 1257
 01:08:52,996 --> 01:08:56,863
-She's like a victim they've got trussed
+She's like a victim they've got trussed{https://en.wikipedia.org/wiki/W._Somerset_Maugham}
 up to sacrifice to some bloody idol.
 
 1258
@@ -6694,7 +6694,7 @@ everything returneth</i>."
 
 1509
 01:21:46,611 --> 01:21:48,654
-"<i>So rolleth the wheel of existence</i>."
+"<i>So rolleth the wheel of existence</i>."{https://en.wikipedia.org/wiki/Eternal_return}
 
 1510
 01:21:49,937 --> 01:21:51,038
@@ -6793,7 +6793,7 @@ I saw things I never saw before.
 
 1533
 01:23:24,566 --> 01:23:27,481
-I looked into the awful
+I looked into the awful{https://en.wikipedia.org/wiki/Astaroth}
 groves of Astaroth herself.
 
 1534
@@ -6943,7 +6943,7 @@ It's Davidson.
 1567
 01:27:58,592 --> 01:28:01,238
 His throat is cut. He's been dead
-for several hours. Suicide.
+for several hours. Suicide.{https://en.wikipedia.org/wiki/Suicide}
 
 1568
 01:28:01,493 --> 01:28:04,118

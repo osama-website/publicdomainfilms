@@ -231,7 +231,7 @@ will be behind him.</i>
 
 51
 00:03:38,131 --> 00:03:40,531
-We've been a Democratic paper
+We've been a Democratic paper{https://en.wikipedia.org/wiki/Brain_Trust}
 for over 20 years.
 
 52
@@ -472,7 +472,7 @@ That honeymoon!
 102
 00:06:17,689 --> 00:06:21,182
 Was it my fault? Did I know that
-coal mine would have a cave-in?
+coal mine would have a cave-in?{https://en.wikipedia.org/wiki/Coal_mining}
 
 103
 00:06:21,394 --> 00:06:24,158
@@ -481,8 +481,8 @@ on our honeymoon.
 
 104
 00:06:24,363 --> 00:06:27,629
-Instead of two weeks in Atlantic City
-with my bridegroom...
+Instead of two weeks in Atlantic City{https://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey}
+with my bridegroom...{https://en.wikipedia.org/wiki/Bridegroom}
 
 105
 00:06:27,834 --> 00:06:30,927
@@ -519,7 +519,7 @@ phoning me a dozen times a day...
 
 112
 00:06:46,619 --> 00:06:48,711
-I write a beautiful telegram, don't I?
+I write a beautiful telegram, don't I?{https://en.wikipedia.org/wiki/Telegram}
 
 113
 00:06:48,922 --> 00:06:50,389
@@ -566,7 +566,7 @@ I have a lunch date.
 122
 00:07:11,843 --> 00:07:13,869
 Hands off!
-Are you playing osteopath?
+Are you playing osteopath?{https://en.wikipedia.org/wiki/Osteopathy}
 
 123
 00:07:14,079 --> 00:07:15,307
@@ -621,7 +621,7 @@ if I wasn't doll-faced.
 
 134
 00:07:41,908 --> 00:07:45,308
-It was a novelty to have a face
+It was a novelty to have a face{https://en.wikipedia.org/wiki/Hick}
 to look at without shuddering.
 
 135
@@ -707,7 +707,7 @@ Not today, of all days!
 152
 00:08:34,527 --> 00:08:36,721
 What's the matter with you?
-Are you a loony?
+Are you a loony?{https://en.wikipedia.org/wiki/Insanity_defense}
 
 153
 00:08:37,764 --> 00:08:40,892
@@ -817,7 +817,7 @@ how about money?
 
 177
 00:09:33,753 --> 00:09:35,220
-I'll raise you $25 a week.
+I'll raise you $25 a week.{https://en.wikipedia.org/wiki/Wage_slavery}
 
 178
 00:09:35,421 --> 00:09:36,786
@@ -847,7 +847,7 @@ You go back to your old salary.
 
 184
 00:09:46,532 --> 00:09:48,260
-Trying to blackjack me.
+Trying to blackjack me.{https://en.wikipedia.org/wiki/Defamation}
 
 185
 00:09:48,467 --> 00:09:50,059
@@ -906,7 +906,7 @@ I know what quitting would mean.
 
 197
 00:10:24,736 --> 00:10:27,432
-I want to go someplace
+I want to go someplace{https://en.wikipedia.org/wiki/Suburb}
 where I can be a woman.
 
 198
@@ -982,7 +982,7 @@ Rich?
 213
 00:11:10,316 --> 00:11:13,774
 He's not what you'd call rich.
-He makes about $5000 a year.
+He makes about $5000 a year.{https://en.wikipedia.org/wiki/Insurance}
 
 214
 00:11:13,985 --> 00:11:16,648
@@ -1311,7 +1311,7 @@ you didn't mean old in years.
 284
 00:14:35,553 --> 00:14:37,384
 That's right.
-Rubbers too, I hope.
+Rubbers too, I hope.{https://en.wikipedia.org/wiki/Galoshes}
 
 285
 00:14:38,289 --> 00:14:40,780
@@ -1476,7 +1476,7 @@ there's only one man I'd work for.
 
 321
 00:16:06,812 --> 00:16:08,972
-I'd kill you if you
+I'd kill you if you{https://en.wikipedia.org/wiki/Yellow_journalism}
 worked for anybody else.
 
 322
@@ -1570,7 +1570,7 @@ in Albany too.
 342
 00:16:56,162 --> 00:16:58,755
 Mighty nice little town.
-It's the state capital.
+It's the state capital.{https://en.wikipedia.org/wiki/Albany,_New_York}
 
 343
 00:16:58,963 --> 00:17:01,797
@@ -1600,8 +1600,8 @@ Any better?
 
 349
 00:17:21,220 --> 00:17:23,313
-Albany's a mighty
-good insurance town.
+Albany's a mighty{https://en.wikipedia.org/wiki/Albany,_New_York}
+good insurance town.{https://en.wikipedia.org/wiki/Insurance}
 
 350
 00:17:23,521 --> 00:17:25,887
@@ -1950,7 +1950,7 @@ the state just put him away?
 
 425
 00:20:38,183 --> 00:20:41,346
-Because it was a colored policeman.
+Because it was a colored policeman.{https://en.wikipedia.org/wiki/Anti-communism}
 You know what that means.
 
 426
@@ -2041,7 +2041,7 @@ An hour to write it.
 
 445
 00:21:27,133 --> 00:21:30,465
-We could take the 6 o'clock train
+We could take the 6 o'clock train{https://en.wikipedia.org/wiki/Sleeping_car}
 if it'd save a man's life.
 
 446
@@ -2364,7 +2364,7 @@ I'll stay.
 
 515
 00:24:28,513 --> 00:24:30,003
-Wilcox 3400.
+Wilcox 3400.{https://en.wikipedia.org/wiki/Telephone_exchange_name}
 
 516
 00:24:30,215 --> 00:24:31,648
@@ -2459,7 +2459,7 @@ the jail, municipal buildings...
 
 535
 00:25:23,935 --> 00:25:25,528
-...railroad terminals,
+...railroad terminals,{https://en.wikipedia.org/wiki/Elevated_railway}
 and elevated stations...
 
 536
@@ -2479,7 +2479,7 @@ relatives on the payroll...
 539
 00:25:32,845 --> 00:25:34,675
 ...to protect the city
-from the Red Army...
+from the Red Army...{https://en.wikipedia.org/wiki/Red_Scare}
 
 540
 00:25:34,881 --> 00:25:37,144
@@ -2554,7 +2554,7 @@ Fooling? Look what I've got in here.
 
 555
 00:26:13,086 --> 00:26:15,519
-Three tickets to Albany
+Three tickets to Albany{https://en.wikipedia.org/wiki/Sleeping_car}
 on the 6:00 train tonight.
 
 556
@@ -3150,7 +3150,7 @@ What are you doing here?
 
 687
 00:32:43,976 --> 00:32:45,840
-I want an interview with Earl Williams.
+I want an interview with Earl Williams.{https://en.wikipedia.org/wiki/Insanity_defense}
 
 688
 00:32:46,045 --> 00:32:47,171
@@ -3287,7 +3287,7 @@ you remember?
 
 717
 00:34:05,223 --> 00:34:07,419
-He talked about production for use.
+He talked about production for use.{https://en.wikipedia.org/wiki/Production_for_use}
 
 718
 00:34:07,625 --> 00:34:08,751
@@ -3620,7 +3620,7 @@ Give me one.
 
 789
 00:37:12,010 --> 00:37:14,103
-I went up to him like any
+I went up to him like any{https://en.wikipedia.org/wiki/Soulmate}
 human being would...
 
 790
@@ -3694,7 +3694,7 @@ and not like an animal.
 
 805
 00:37:53,219 --> 00:37:55,210
-He left a call for 7 a.m.
+He left a call for 7 a.m.{https://en.wikipedia.org/wiki/Executioner}
 
 806
 00:37:55,487 --> 00:37:59,822
@@ -3954,7 +3954,7 @@ and it's Peter B. Hartwell.
 862
 00:41:10,449 --> 00:41:13,817
 But I'm innocent. I didn't do it.
-I never stole a watch in my life!
+I never stole a watch in my life!{https://en.wikipedia.org/wiki/Counterfeit_money}
 
 863
 00:41:14,019 --> 00:41:16,351
@@ -3974,7 +3974,7 @@ a watch they found on him.
 866
 00:41:21,827 --> 00:41:23,590
 Who accused him?
-Diamond Louie, a crook.
+Diamond Louie, a crook.{https://en.wikipedia.org/wiki/Counterfeit_money}
 
 867
 00:41:23,795 --> 00:41:26,663
@@ -4226,7 +4226,7 @@ in 20 minutes.
 
 919
 00:43:43,235 --> 00:43:45,704
-I wouldn't cover
+I wouldn't cover{https://en.wikipedia.org/wiki/Great_Fire_of_Rome}
 the burning of Rome for you.{https://en.wikipedia.org/wiki/Rome}
 
 920
@@ -4281,7 +4281,7 @@ Not a news machine.
 
 930
 00:44:16,501 --> 00:44:20,302
-I'll have babies, give them cod-liver
+I'll have babies, give them cod-liver{https://en.wikipedia.org/wiki/Cod_liver_oil}
 oil and watch their teeth grow.
 
 931
@@ -4447,7 +4447,7 @@ I'll be in a Rolls Royce...
 
 965
 00:45:48,793 --> 00:45:50,226
-So long, you wage slaves.
+So long, you wage slaves.{https://en.wikipedia.org/wiki/Wage_slavery}
 
 966
 00:45:50,963 --> 00:45:53,625
@@ -5191,7 +5191,7 @@ citizens of our fair city?
 
 1126
 00:53:53,746 --> 00:53:56,681
-Mr. Mayor, please, is there
+Mr. Mayor, please, is there{https://en.wikipedia.org/wiki/Red_Scare}
 a Red Menace or ain't there?
 
 1127
@@ -5342,7 +5342,7 @@ Through? You mean I'm through?
 
 1158
 00:55:11,958 --> 00:55:14,016
-I'm scratching your name
+I'm scratching your name{https://en.wikipedia.org/wiki/Recall_election}
 off the ticket...
 
 1159
@@ -5435,7 +5435,7 @@ He's duck shooting.
 
 1177
 00:56:01,007 --> 00:56:03,668
-Blasted nimrod!
+Blasted nimrod!{https://en.wikipedia.org/wiki/Nimrod}
 Fishing, duck shooting...
 
 1178
@@ -5446,7 +5446,7 @@ for the last 40 years...
 1179
 00:56:06,679 --> 00:56:08,704
 ...gets elected governor
-and he's a Tarzan.
+and he's a Tarzan.{https://en.wikipedia.org/wiki/Tarzan}
 
 1180
 00:56:08,914 --> 00:56:12,315
@@ -5528,7 +5528,7 @@ that door...
 
 1197
 00:56:48,588 --> 00:56:51,751
-How'd you like to make $350 a month?
+How'd you like to make $350 a month?{https://en.wikipedia.org/wiki/Political_corruption}
 That's almost $100 a week.
 
 1198
@@ -6578,7 +6578,7 @@ See that she doesn't talk to anyone.
 
 1420
 01:06:56,829 --> 01:06:58,456
-Tell them it's a case of D.T.'s.
+Tell them it's a case of D.T.'s.{https://en.wikipedia.org/wiki/Delirium_tremens}
 
 1421
 01:06:58,664 --> 01:07:00,632
@@ -6650,7 +6650,7 @@ It's a revolution.
 1435
 01:07:39,905 --> 01:07:42,771
 The greatest yarn since
-Livingston discovered Stanley.
+Livingston discovered Stanley.{https://en.wikipedia.org/wiki/Henry_Morton_Stanley}
 
 1436
 01:07:42,974 --> 01:07:46,637
@@ -6660,7 +6660,7 @@ Livingston discovered Stanley.
 1437
 01:07:46,844 --> 01:07:49,746
 You've taken a city that's been
-graft-ridden for 40 years...
+graft-ridden for 40 years...{https://en.wikipedia.org/wiki/Political_corruption}
 
 1438
 01:07:49,949 --> 01:07:53,043
@@ -6684,7 +6684,7 @@ You've stepped up into a new class.
 1442
 01:08:03,262 --> 01:08:07,130
 We'll make such monkeys of those
-ward healers nobody'll vote for them.
+ward healers nobody'll vote for them.{https://en.wikipedia.org/wiki/Ward_heeler}
 
 1443
 01:08:07,333 --> 01:08:09,197
@@ -6791,12 +6791,12 @@ the Morning Post. Exclusive!"</i>
 
 1464
 01:09:13,798 --> 01:09:15,528
-Tear out the whole front page.
+Tear out the whole front page.{https://en.wikipedia.org/wiki/Newspaper}
 
 1465
 01:09:15,734 --> 01:09:18,828
 The whole front page. Out!
-And never mind the European war.
+And never mind the European war.{https://en.wikipedia.org/wiki/World_War_II}
 
 1466
 01:09:19,037 --> 01:09:22,667
@@ -7111,7 +7111,7 @@ as fast as you can.
 
 1532
 01:12:08,873 --> 01:12:11,137
-Get back in there, you mock turtle.
+Get back in there, you mock turtle.{https://en.wikipedia.org/wiki/Mock_turtle_soup}
 
 1533
 01:12:13,645 --> 01:12:16,136
@@ -7374,7 +7374,7 @@ I'm deeply grateful, Mr. Burns.
 1588
 01:14:51,738 --> 01:14:54,137
 If there's an opening
-for a war correspondent...
+for a war correspondent...{https://en.wikipedia.org/wiki/War_correspondent}
 
 1589
 01:14:54,340 --> 01:14:55,773
@@ -8434,7 +8434,7 @@ You're through.
 
 1815
 01:24:26,712 --> 01:24:30,273
-Archie Leach said that to me
+Archie Leach said that to me{https://en.wikipedia.org/wiki/Ralph_Bellamy}
 a week before he cut his throat.
 
 1816
@@ -8478,7 +8478,7 @@ out of that feedbag.
 1824
 01:24:49,467 --> 01:24:53,904
 I tell you what you'll be doing.
-Making brooms in the penitentiary.
+Making brooms in the penitentiary.{https://en.wikipedia.org/wiki/Sheriff}
 
 1825
 01:24:54,105 --> 01:24:55,403
@@ -8730,7 +8730,7 @@ ought to get about ten years apiece.
 1878
 01:27:03,502 --> 01:27:07,461
 Don't make any hasty decisions.
-You might run into a libel suit.
+You might run into a libel suit.{https://en.wikipedia.org/wiki/Defamation}
 
 1879
 01:27:07,672 --> 01:27:09,140
@@ -9098,7 +9098,7 @@ We're getting married.
 
 1959
 01:30:56,069 --> 01:30:58,162
-Can we go on a honeymoon this time?
+Can we go on a honeymoon this time?{https://en.wikipedia.org/wiki/Honeymoon}
 
 1960
 01:30:58,371 --> 01:30:59,371
@@ -9133,7 +9133,7 @@ Sure, you've earned it. What?
 
 1967
 01:31:14,953 --> 01:31:18,219
-What? A strike? What strike?
+What? A strike? What strike?{https://en.wikipedia.org/wiki/General_strike}
 
 1968
 01:31:18,423 --> 01:31:19,423

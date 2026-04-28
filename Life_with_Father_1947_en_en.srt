@@ -5,7 +5,7 @@ the cleanest steps
 
 2
 00:02:21,529 --> 00:02:22,946
-on Madison Avenue.
+on Madison Avenue.{https://en.wikipedia.org/wiki/Madison_Avenue}
 
 3
 00:02:23,029 --> 00:02:25,571
@@ -239,7 +239,7 @@ on the New Haven.'
 53
 00:05:50,987 --> 00:05:53,237
 That always disturbs
-the stock market.
+the stock market.{https://en.wikipedia.org/wiki/Stock_market}
 
 54
 00:05:53,321 --> 00:05:54,571
@@ -288,7 +288,7 @@ Clarence, why did you take
 
 64
 00:06:12,696 --> 00:06:14,738
-my H2SO4
+my H2SO4{https://en.wikipedia.org/wiki/Sulfuric_acid}
 out of our clothes closet?
 
 65
@@ -316,7 +316,7 @@ those chemical smells again?
 70
 00:06:24,821 --> 00:06:26,779
 No, mother,
-I'm making an electric battery.
+I'm making an electric battery.{https://en.wikipedia.org/wiki/Electric_battery}
 
 71
 00:06:26,863 --> 00:06:28,321
@@ -397,7 +397,7 @@ before you leave the house
 87
 00:07:05,821 --> 00:07:07,196
 you have to study
-your catechism.
+your catechism.{https://en.wikipedia.org/wiki/Catechism}
 
 88
 00:07:07,279 --> 00:07:09,529
@@ -411,11 +411,11 @@ Good morning.
 90
 00:07:11,237 --> 00:07:12,987
 - Who won?
-- The Giants, 7 to 3.
+- The Giants, 7 to 3.{https://en.wikipedia.org/wiki/New_York_Giants_(baseball)}
 
 91
 00:07:13,070 --> 00:07:14,946
-- Buck Ewing hit a home run.
+- Buck Ewing hit a home run.{https://en.wikipedia.org/wiki/Buck_Ewing}
 - Let me see.
 
 92
@@ -733,7 +733,7 @@ you get a new batch of clothes
 160
 00:10:00,654 --> 00:10:03,154
 mother sends the old ones
-to the missionary barrel.
+to the missionary barrel.{https://en.wikipedia.org/wiki/Christian_mission}
 
 161
 00:10:03,237 --> 00:10:05,487
@@ -761,7 +761,7 @@ would look better on Clarence
 
 166
 00:10:15,029 --> 00:10:16,487
-than on some Hottentot.
+than on some Hottentot.{https://en.wikipedia.org/wiki/Khoekhoe}
 
 167
 00:10:18,279 --> 00:10:21,237
@@ -1612,7 +1612,7 @@ Thank you.
 
 350
 00:17:59,154 --> 00:18:02,279
-Oh, the rector's
+Oh, the rector's{https://en.wikipedia.org/wiki/Rector_(ecclesiastical)}
 coming to tea today.
 
 351
@@ -1760,7 +1760,7 @@ if you can
 
 382
 00:19:28,362 --> 00:19:30,070
-Mr. Honest Hugh Grant.
+Mr. Honest Hugh Grant.{https://en.wikipedia.org/wiki/Hugh_J._Grant}
 
 383
 00:19:30,154 --> 00:19:31,863
@@ -1807,7 +1807,7 @@ we're going to throw you{https://en.wikipedia.org/wiki/New_York_City}
 
 392
 00:19:50,154 --> 00:19:52,946
-and your boodle board
+and your boodle board{https://en.wikipedia.org/wiki/Boodle}
 of aldermen out of office.
 
 393
@@ -1854,12 +1854,12 @@ and all we get is inefficiency.
 
 402
 00:20:14,362 --> 00:20:16,070
-I know you're a nincompoop
+I know you're a nincompoop{https://en.wikipedia.org/wiki/Tammany_Hall}
 
 403
 00:20:16,154 --> 00:20:19,987
 and I strongly suspect you
-of being a scalawag.
+of being a scalawag.{https://en.wikipedia.org/wiki/Tammany_Hall}
 
 404
 00:20:20,070 --> 00:20:23,196
@@ -1939,7 +1939,7 @@ for dinner.
 420
 00:21:05,779 --> 00:21:07,905
 Why don't we have
-chicken fricassee tonight?
+chicken fricassee tonight?{https://en.wikipedia.org/wiki/Fricassee}
 
 421
 00:21:07,987 --> 00:21:10,863
@@ -2058,7 +2058,7 @@ in the inkwell at school?
 445
 00:22:49,905 --> 00:22:51,696
 What's the news
-in Pleasantville, Cora?
+in Pleasantville, Cora?{https://en.wikipedia.org/wiki/Pleasantville,_New_York}
 
 446
 00:22:51,779 --> 00:22:53,738
@@ -2073,7 +2073,7 @@ that Aunt Carrie broke her hip.
 448
 00:22:55,987 --> 00:22:58,112
 That was the night
-that Robert Ingersoll lectured.
+that Robert Ingersoll lectured.{https://en.wikipedia.org/wiki/Robert_G._Ingersoll}
 
 449
 00:22:58,196 --> 00:23:00,154
@@ -2164,7 +2164,7 @@ you've grown another foot.
 468
 00:23:41,779 --> 00:23:44,571
 Let's see, you're going
-to St. Paul's now, aren't you?
+to St. Paul's now, aren't you?{https://en.wikipedia.org/wiki/St._Paul%27s_School_(New_Hampshire)}
 
 469
 00:23:44,654 --> 00:23:47,487
@@ -2173,7 +2173,7 @@ with St. Paul's long ago.
 
 470
 00:23:47,571 --> 00:23:49,654
-I'm starting in Yale this fall.
+I'm starting in Yale this fall.{https://en.wikipedia.org/wiki/Yale_University}
 
 471
 00:23:49,738 --> 00:23:50,987
@@ -2701,7 +2701,7 @@ Dr. Lloyd wants to tell us
 586
 00:29:24,738 --> 00:29:26,905
 about the plans
-for the new edifice.
+for the new edifice.{https://en.wikipedia.org/wiki/Episcopal_Church_(United_States)}
 
 587
 00:29:26,987 --> 00:29:29,487
@@ -2762,7 +2762,7 @@ equal to the cost of their pew.
 
 599
 00:29:56,279 --> 00:29:58,196
-I paid $5000 for my pew.
+I paid $5000 for my pew.{https://en.wikipedia.org/wiki/Pew}
 
 600
 00:29:58,279 --> 00:30:02,571
@@ -2804,7 +2804,7 @@ if the market ever goes up
 
 608
 00:30:22,112 --> 00:30:24,863
-I'm going to unload that pew.
+I'm going to unload that pew.{https://en.wikipedia.org/wiki/Bond_(finance)}
 
 609
 00:30:24,946 --> 00:30:28,362
@@ -2814,7 +2814,7 @@ of the temple of the Lord
 610
 00:30:28,446 --> 00:30:31,362
 as though it was something to be
-bought and sold on Wall Street?
+bought and sold on Wall Street?{https://en.wikipedia.org/wiki/Wall_Street}
 
 611
 00:30:31,446 --> 00:30:34,696
@@ -3276,7 +3276,7 @@ on the first train.
 
 709
 00:34:20,987 --> 00:34:22,571
-They want to roam like gypsies?
+They want to roam like gypsies?{https://en.wikipedia.org/wiki/Romani_people}
 
 710
 00:34:22,654 --> 00:34:24,029
@@ -3390,7 +3390,7 @@ Father, may I go along
 734
 00:36:14,154 --> 00:36:15,738
 with the rest of you
-to Delmonico's?
+to Delmonico's?{https://en.wikipedia.org/wiki/Delmonico%27s}
 
 735
 00:36:15,821 --> 00:36:16,987
@@ -3495,7 +3495,7 @@ Well, that's no affair of mine.
 757
 00:37:04,905 --> 00:37:07,905
 I am not a guide
-to Chinatown and the Bowery.
+to Chinatown and the Bowery.{https://en.wikipedia.org/wiki/Bowery}
 
 758
 00:37:12,321 --> 00:37:15,613
@@ -3624,7 +3624,7 @@ Mr. Day.
 785
 00:38:45,362 --> 00:38:47,529
 Oh, hello.
-Look, a new "Youth's Companion."
+Look, a new "Youth's Companion."{https://en.wikipedia.org/wiki/The_Youth%27s_Companion}
 
 786
 00:38:47,613 --> 00:38:50,821
@@ -3678,7 +3678,7 @@ I made my mistake.
 796
 00:39:19,070 --> 00:39:21,571
 I'm afraid not.
-Can you play "Sweet Genevieve?"
+Can you play "Sweet Genevieve?"{https://en.wikipedia.org/wiki/The_Youth%27s_Companion}
 
 797
 00:39:21,654 --> 00:39:24,946
@@ -3737,7 +3737,7 @@ But what I mean is..
 
 809
 00:40:00,029 --> 00:40:02,154
-...we're Episcopalians.
+...we're Episcopalians.{https://en.wikipedia.org/wiki/Episcopal_Church_(United_States)}
 
 810
 00:40:04,154 --> 00:40:06,696
@@ -3944,7 +3944,7 @@ father and mother.
 
 854
 00:43:16,821 --> 00:43:18,821
-Free thinkers, both of them.
+Free thinkers, both of them.{https://en.wikipedia.org/wiki/Freethought}
 
 855
 00:43:18,905 --> 00:43:20,404
@@ -4401,7 +4401,7 @@ and of the Son
 
 955
 00:48:59,905 --> 00:49:02,487
-and of the Holy Ghost. Amen.
+and of the Holy Ghost. Amen.{https://en.wikipedia.org/wiki/Holy_Spirit}
 
 956
 00:49:02,571 --> 00:49:04,404
@@ -4508,7 +4508,7 @@ without Clare.
 978
 00:50:39,696 --> 00:50:43,613
 Why, I get lonesome for him
-even when I go to Ohio.
+even when I go to Ohio.{https://en.wikipedia.org/wiki/Ohio}
 
 979
 00:50:43,696 --> 00:50:46,987
@@ -4583,7 +4583,7 @@ they have those heavy bags.
 
 994
 00:51:20,863 --> 00:51:22,404
-Cabs are a waste of money.
+Cabs are a waste of money.{https://en.wikipedia.org/wiki/Hansom_cab}
 
 995
 00:51:22,487 --> 00:51:23,946
@@ -4942,7 +4942,7 @@ Your trip, and Aunt Judith
 1071
 00:54:49,237 --> 00:54:50,821
 and how things are
-in Springfield.
+in Springfield.{https://en.wikipedia.org/wiki/Springfield,_Massachusetts}
 
 1072
 00:54:50,905 --> 00:54:53,529
@@ -5776,7 +5776,7 @@ because you're always voting
 
 1254
 01:03:47,029 --> 01:03:48,196
-to raise the tariff.
+to raise the tariff.{https://en.wikipedia.org/wiki/Tariff}
 
 1255
 01:03:48,279 --> 01:03:49,487
@@ -6272,7 +6272,7 @@ What were you doing down there?
 1361
 01:08:52,446 --> 01:08:54,029
 I'm setting up
-this new burglar alarm.
+this new burglar alarm.{https://en.wikipedia.org/wiki/Security_alarm}
 
 1362
 01:08:54,112 --> 01:08:55,487
@@ -6295,7 +6295,7 @@ my stamp collection
 1366
 01:09:00,112 --> 01:09:02,029
 and my piece
-of John Wilkes Booth's finger.
+of John Wilkes Booth's finger.{https://en.wikipedia.org/wiki/John_Wilkes_Booth}
 
 1367
 01:09:02,112 --> 01:09:03,196
@@ -6309,7 +6309,7 @@ a new suit of clothes.
 1369
 01:09:04,821 --> 01:09:06,529
 If you can wait a month till
-I hear from the patent office
+I hear from the patent office{https://en.wikipedia.org/wiki/United_States_Patent_and_Trademark_Office}
 
 1370
 01:09:06,613 --> 01:09:08,196
@@ -6683,13 +6683,13 @@ He won't! He won't!
 
 1450
 01:12:23,529 --> 01:12:25,404
-He'll be in a lake
+He'll be in a lake{https://en.wikipedia.org/wiki/Lake_of_fire}
 of fire and brimstone
 
 1451
 01:12:25,487 --> 01:12:27,112
 and a thousand devils
-with pitchforks
+with pitchforks{https://en.wikipedia.org/wiki/Devil}
 
 1452
 01:12:27,196 --> 01:12:28,279
@@ -6795,7 +6795,7 @@ work hard.
 
 1474
 01:13:30,487 --> 01:13:32,905
-King Solomon had the right idea
+King Solomon had the right idea{https://en.wikipedia.org/wiki/Solomon}
 about work.
 
 1475
@@ -7150,7 +7150,7 @@ and women's complaints
 1551
 01:17:33,613 --> 01:17:35,863
 "nervous prostration,
-St. Vitus' dance
+St. Vitus' dance{https://en.wikipedia.org/wiki/Sydenham%27s_chorea}
 
 1552
 01:17:35,946 --> 01:17:37,863
@@ -7244,12 +7244,12 @@ Here.
 
 1571
 01:18:32,487 --> 01:18:34,321
-'Yes, sir, Chesapeake and Ohio,
+'Yes, sir, Chesapeake and Ohio,{https://en.wikipedia.org/wiki/Chesapeake_and_Ohio_Railway}
 an eighth.'
 
 1572
 01:18:34,404 --> 01:18:35,863
-'New York Central,
+'New York Central,{https://en.wikipedia.org/wiki/New_York_Central_Railroad}
 three quarters.'
 
 1573
@@ -7752,7 +7752,7 @@ Mrs. Day has been
 1683
 01:26:06,070 --> 01:26:07,821
 a tower of strength
-in the parish.
+in the parish.{https://en.wikipedia.org/wiki/Rector_(ecclesiastical)}
 
 1684
 01:26:07,905 --> 01:26:10,571
@@ -8237,7 +8237,7 @@ this year?
 
 1788
 01:32:00,821 --> 01:32:02,487
-Ostrich feathers.
+Ostrich feathers.{https://en.wikipedia.org/wiki/Plume_(feather)}
 
 1789
 01:32:02,571 --> 01:32:05,279
@@ -8367,7 +8367,7 @@ what I've always wanted.
 
 1816
 01:33:13,237 --> 01:33:14,529
-How much is this lovely pug dog?
+How much is this lovely pug dog?{https://en.wikipedia.org/wiki/Pug}
 
 1817
 01:33:14,613 --> 01:33:15,821
@@ -9272,7 +9272,7 @@ Oh, uh, on the way uptown
 
 2008
 01:41:27,863 --> 01:41:29,362
-I stopped in at Tiffany's
+I stopped in at Tiffany's{https://en.wikipedia.org/wiki/Tiffany_%26_Co.}
 
 2009
 01:41:29,446 --> 01:41:32,070
@@ -10736,7 +10736,7 @@ Oh, tarnation!
 
 2323
 01:55:59,279 --> 01:56:02,362
-Hallelujah! Amen!
+Hallelujah! Amen!{https://en.wikipedia.org/wiki/Methodism}
 
 2324
 01:56:05,029 --> 01:56:06,446

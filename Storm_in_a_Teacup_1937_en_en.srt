@@ -1,6 +1,6 @@
 ﻿1
 00:01:57,650 --> 00:02:00,150
-Baikie West Coast of Scotland.
+Baikie West Coast of Scotland.{https://en.wikipedia.org/wiki/Scotland}
 
 2
 00:02:27,240 --> 00:02:30,290
@@ -118,7 +118,7 @@ Finished being finished?
 
 29
 00:03:46,060 --> 00:03:47,550
-Your penny, please!
+Your penny, please!{https://en.wikipedia.org/wiki/Penny_(British_pre-decimal_coin)}
 
 30
 00:03:47,640 --> 00:03:49,600
@@ -280,7 +280,7 @@ And him as innocent as a newborn angel!
 
 67
 00:05:20,850 --> 00:05:22,170
-You should have paid the license!
+You should have paid the license!{https://en.wikipedia.org/wiki/Dog_licence}
 
 68
 00:05:22,200 --> 00:05:23,430
@@ -292,12 +292,12 @@ If a grand big country like this...
 
 70
 00:05:25,390 --> 00:05:27,580
-Is needing 7 shillings and 6 p.
+Is needing 7 shillings and 6 p.{https://en.wikipedia.org/wiki/Shilling}
 From the likes of me...
 
 71
 00:05:27,590 --> 00:05:30,090
-It's time it gets on the dole
+It's time it gets on the dole{https://en.wikipedia.org/wiki/Unemployment_benefits}
 the same as the rest of us.
 
 72
@@ -311,7 +311,7 @@ It's the fine!
 
 74
 00:05:33,720 --> 00:05:34,840
-Five pounds!
+Five pounds!{https://en.wikipedia.org/wiki/Five_pound_note}
 
 75
 00:05:34,870 --> 00:05:36,380
@@ -364,7 +364,7 @@ Give me back me dog! Patsy!
 
 86
 00:06:01,690 --> 00:06:03,380
-You've had enough, riff-raff?
+You've had enough, riff-raff?{https://en.wikipedia.org/wiki/Riff-raff}
 
 87
 00:06:03,410 --> 00:06:05,550
@@ -377,7 +377,7 @@ You've great want of shame, Sergeant!
 
 89
 00:06:08,980 --> 00:06:10,660
-The girl is for sanatorium!
+The girl is for sanatorium!{https://en.wikipedia.org/wiki/Sanatorium}
 
 90
 00:06:11,880 --> 00:06:13,840
@@ -441,7 +441,7 @@ A football match?
 
 104
 00:06:57,830 --> 00:07:00,230
-Politics, he's in there with
+Politics, he's in there with{https://en.wikipedia.org/wiki/Bailie}
 Baillie Callender.
 
 105
@@ -483,12 +483,12 @@ of your loyalty...
 
 114
 00:07:18,870 --> 00:07:22,170
-I, your Provost, invite your presence
+I, your Provost, invite your presence{https://en.wikipedia.org/wiki/Provost_(civil)}
 at my inaugural meeting...
 
 115
 00:07:22,220 --> 00:07:24,330
-At the Town Hall, Baikie,
+At the Town Hall, Baikie,{https://en.wikipedia.org/wiki/Town_hall}
 on Friday next.
 
 116
@@ -551,12 +551,12 @@ about pigsties now...
 
 129
 00:07:54,420 --> 00:07:55,690
-We got to get to that council meeting.
+We got to get to that council meeting.{https://en.wikipedia.org/wiki/Burgh}
 
 130
 00:07:55,720 --> 00:07:58,040
 Talking of meetings,
-you might have met me at the pier.
+you might have met me at the pier.{https://en.wikipedia.org/wiki/Scottish_Lowlands}
 
 131
 00:07:58,070 --> 00:08:01,240
@@ -671,7 +671,7 @@ confidential, Vickie...
 
 156
 00:08:57,180 --> 00:08:58,690
-Lord Skerryvore is coming.
+Lord Skerryvore is coming.{https://en.wikipedia.org/wiki/Skerryvore}
 
 157
 00:08:58,880 --> 00:09:00,140
@@ -697,16 +697,16 @@ Well...
 
 162
 00:09:06,990 --> 00:09:09,140
-He knows I have the
+He knows I have the{https://en.wikipedia.org/wiki/Caledonia}
 Caledonia League behind me.
 
 163
 00:09:09,340 --> 00:09:11,690
-And it's not Baikie: All of Scotland.
+And it's not Baikie: All of Scotland.{https://en.wikipedia.org/wiki/Scotland}
 
 164
 00:09:12,300 --> 00:09:14,510
-But Scotsmen all over the Empire.
+But Scotsmen all over the Empire.{https://en.wikipedia.org/wiki/British_Empire}
 
 165
 00:09:14,550 --> 00:09:17,430
@@ -745,7 +745,7 @@ Oh! Oh yes, yes.
 
 173
 00:09:39,780 --> 00:09:42,720
-I have nothing to be ashamed of
+I have nothing to be ashamed of{https://en.wikipedia.org/wiki/Tabloid_journalism}
 in the conduct of my paper.
 
 174
@@ -815,7 +815,7 @@ position of very great trust.
 
 189
 00:10:21,500 --> 00:10:25,080
-Now, I'm on to Manchester tonight
+Now, I'm on to Manchester tonight{https://en.wikipedia.org/wiki/Manchester}
 but unfortunately my sub-editor is in bed.
 
 190
@@ -865,7 +865,7 @@ What's new about it?
 
 200
 00:10:48,770 --> 00:10:51,150
-For one thing, Scotland for the Scottish.
+For one thing, Scotland for the Scottish.{https://en.wikipedia.org/wiki/Scottish_National_Party}
 
 201
 00:10:51,180 --> 00:10:52,950
@@ -2035,7 +2035,7 @@ save up and get a new one!
 461
 00:22:05,840 --> 00:22:09,020
 - A new dog? A new dog?
-- And next time, pay the tax.
+- And next time, pay the tax.{https://en.wikipedia.org/wiki/Dog_licence}
 
 462
 00:22:09,640 --> 00:22:11,550
@@ -2210,7 +2210,7 @@ Ay!
 
 501
 00:24:54,370 --> 00:24:55,460
-Oatmeal.
+Oatmeal.{https://en.wikipedia.org/wiki/Porridge}
 
 502
 00:24:55,960 --> 00:24:58,790
@@ -2229,7 +2229,7 @@ such horses or such men?
 
 505
 00:25:08,660 --> 00:25:10,270
-- Have some porridge.
+- Have some porridge.{https://en.wikipedia.org/wiki/Porridge}
 - No way.
 
 506
@@ -2297,7 +2297,7 @@ You'll see! Done for!
 
 520
 00:25:41,890 --> 00:25:43,450
-Where is the golf course?
+Where is the golf course?{https://en.wikipedia.org/wiki/Golf_in_Scotland}
 
 521
 00:25:50,780 --> 00:25:52,690
@@ -2548,7 +2548,7 @@ A magnificent fellow.
 
 578
 00:29:02,420 --> 00:29:04,760
-If we could only apply
+If we could only apply{https://en.wikipedia.org/wiki/Eugenics}
 the knowledge and energy...
 
 579
@@ -2558,7 +2558,7 @@ breeding of that animal...
 
 580
 00:29:06,820 --> 00:29:08,920
-To the improving of the human stock...
+To the improving of the human stock...{https://en.wikipedia.org/wiki/Eugenics}
 
 581
 00:29:09,030 --> 00:29:12,400
@@ -3589,7 +3589,7 @@ Where are we, Berlin, Moscow, or where?{https://en.wikipedia.org/wiki/Moscow}
 
 812
 00:44:29,920 --> 00:44:31,830
-Oh I'm Nordic, if that's
+Oh I'm Nordic, if that's{https://en.wikipedia.org/wiki/Nordic_race}
 what's worrying you.
 
 813
@@ -3754,7 +3754,7 @@ I'm sure you will.
 
 848
 00:45:54,380 --> 00:45:56,410
-I suppose you know this
+I suppose you know this{https://en.wikipedia.org/wiki/Defamation}
 means an action for...
 
 849
@@ -4421,7 +4421,7 @@ Shhh.
 
 1000
 00:54:25,340 --> 00:54:26,660
-Highlands honours!
+Highlands honours!{https://en.wikipedia.org/wiki/Scottish_Highlands}
 
 1001
 00:54:28,170 --> 00:54:29,320
@@ -4450,7 +4450,7 @@ Allow me.
 
 1007
 00:54:48,100 --> 00:54:50,360
-Don't take too long with the port,
+Don't take too long with the port,{https://en.wikipedia.org/wiki/Port_wine}
 Lord Skerryvore.
 
 1008
@@ -4460,7 +4460,7 @@ No, I won't.
 1009
 00:54:53,510 --> 00:54:56,210
 Ah, Lord...
-Bring the cigars, Horace will you?
+Bring the cigars, Horace will you?{https://en.wikipedia.org/wiki/Cigar}
 
 1010
 00:54:56,280 --> 00:54:57,790
@@ -4545,7 +4545,7 @@ Oh, you mean... Oh that!
 
 1029
 00:55:43,550 --> 00:55:45,680
-Oh that was just storm in a teacup!
+Oh that was just storm in a teacup!{https://en.wikipedia.org/wiki/Tempest_in_a_teapot}
 
 1030
 00:55:46,050 --> 00:55:47,720
@@ -4588,7 +4588,7 @@ Just... Just fun and game.
 
 1039
 00:56:17,160 --> 00:56:19,920
-Might I have a drop of whiskey
+Might I have a drop of whiskey{https://en.wikipedia.org/wiki/Whisky}
 instead of this port?
 
 1040
@@ -4743,7 +4743,7 @@ Get that dog away, will you?
 
 1074
 01:00:05,410 --> 01:00:06,740
-Your bonnet, my lord.
+Your bonnet, my lord.{https://en.wikipedia.org/wiki/Bonnet_(headgear)}
 
 1075
 01:00:08,760 --> 01:00:11,970
@@ -4886,7 +4886,7 @@ Take it away, give it to anyone you like.
 
 1106
 01:02:32,370 --> 01:02:35,390
-Give to the Royal Hospital
+Give to the Royal Hospital{https://en.wikipedia.org/wiki/Pekingese}
 for myopic Pekingeses.
 
 1107
@@ -4895,7 +4895,7 @@ Give it to Mrs. Hegarty!
 
 1108
 01:02:40,200 --> 01:02:42,600
-You're a Procurator Fiscal of the Public
+You're a Procurator Fiscal of the Public{https://en.wikipedia.org/wiki/Procurator_fiscal}
 Prosecutor, aren't you?
 
 1109
@@ -5145,7 +5145,7 @@ right that you have.
 
 1163
 01:05:08,660 --> 01:05:10,890
-Did I tell you, I had the article framed?
+Did I tell you, I had the article framed?{https://en.wikipedia.org/wiki/Fleet_Street}
 
 1164
 01:05:10,940 --> 01:05:13,120
@@ -5196,7 +5196,7 @@ playing the game, what?
 
 1174
 01:06:12,150 --> 01:06:13,760
-- It's not cricket!
+- It's not cricket!{https://en.wikipedia.org/wiki/Cricket}
 - No.
 
 1175
@@ -5669,7 +5669,7 @@ on earth have you been?
 
 1281
 01:12:03,630 --> 01:12:05,450
-I had to get my Patsy at the nursing home.
+I had to get my Patsy at the nursing home.{https://en.wikipedia.org/wiki/Veterinarian}
 
 1282
 01:12:05,480 --> 01:12:08,830
@@ -5861,27 +5861,27 @@ Michael Cassidy.
 
 1324
 01:13:45,070 --> 01:13:48,190
-From his rump to his
+From his rump to his{https://en.wikipedia.org/wiki/Sheepdog}
 shoulders is a sheepdog...
 
 1325
 01:13:48,300 --> 01:13:52,190
-But he got the muzzle of a Cheshire
+But he got the muzzle of a Cheshire{https://en.wikipedia.org/wiki/Cocker_Spaniel}
 and the ears of cocker spaniel.
 
 1326
 01:13:52,400 --> 01:13:54,950
-But the expression is
+But the expression is{https://en.wikipedia.org/wiki/Irish_Terrier}
 of an Irish terrier...
 
 1327
 01:13:55,140 --> 01:13:58,190
-And he's holding the
+And he's holding the{https://en.wikipedia.org/wiki/Pomeranian_dog}
 tail like a Pomeranian.
 
 1328
 01:13:58,290 --> 01:14:01,400
-And he's got the sad,
+And he's got the sad,{https://en.wikipedia.org/wiki/Poodle}
 noble eyes of a poodle.
 
 1329
@@ -5913,7 +5913,7 @@ by a process of elimination.
 
 1335
 01:14:17,220 --> 01:14:21,440
-Must you eliminate the entire population of
+Must you eliminate the entire population of{https://en.wikipedia.org/wiki/Irish_Free_State}
 the British Isles and the Irish Free State?
 
 1336
@@ -5963,12 +5963,12 @@ It seems to have no balance, no stability.
 
 1346
 01:14:46,990 --> 01:14:50,140
-What with swing music,
+What with swing music,{https://en.wikipedia.org/wiki/Swing_music}
 automatic gambling machines...
 
 1347
 01:14:50,190 --> 01:14:52,980
-And the encouragement given
+And the encouragement given{https://en.wikipedia.org/wiki/British_Broadcasting_Corporation}
 to idleness and lose
 
 1348
@@ -6860,7 +6860,7 @@ My...
 
 1547
 01:23:03,320 --> 01:23:05,470
-It's worse, it's perjury!
+It's worse, it's perjury!{https://en.wikipedia.org/wiki/Perjury}
 
 1548
 01:23:05,500 --> 01:23:06,500
@@ -7097,7 +7097,7 @@ To a leader...
 
 1602
 01:26:01,610 --> 01:26:03,730
-These English subtitles
+These English subtitles{https://en.wikipedia.org/wiki/Vivien_Leigh}
 from 2014 are the first
 
 1603

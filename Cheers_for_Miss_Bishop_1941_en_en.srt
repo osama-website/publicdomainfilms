@@ -40,7 +40,7 @@ great waste of time.
 
 11
 00:02:00,245 --> 00:02:02,038
-Have some sherry, Sam.
+Have some sherry, Sam.{https://en.wikipedia.org/wiki/Sherry}
 
 12
 00:02:03,540 --> 00:02:07,502
@@ -73,7 +73,7 @@ Remember the day you drove up in your
 
 19
 00:02:21,349 --> 00:02:23,310
-brand new delivery wagon.
+brand new delivery wagon.{https://en.wikipedia.org/wiki/Buggy_(carriage)}
 
 20
 00:02:26,021 --> 00:02:28,773
@@ -425,7 +425,7 @@ Yes.
 
 105
 00:05:57,524 --> 00:05:58,524
-Your father always said,
+Your father always said,{https://en.wikipedia.org/wiki/Homestead_Acts}
 
 106
 00:05:58,691 --> 00:05:59,901
@@ -525,7 +525,7 @@ always so reliable.
 
 129
 00:06:35,979 --> 00:06:37,856
-Faithful old dog Trey.
+Faithful old dog Trey.{https://en.wikipedia.org/wiki/Cinderella}
 
 130
 00:06:38,064 --> 00:06:39,983
@@ -762,7 +762,7 @@ for years and years,
 
 186
 00:08:32,845 --> 00:08:36,057
-and don't worry, I won't be an old maid.
+and don't worry, I won't be an old maid.{https://en.wikipedia.org/wiki/Spinster}
 
 187
 00:08:36,265 --> 00:08:40,019
@@ -833,7 +833,7 @@ Miss Ella Bishop,
 
 203
 00:10:06,814 --> 00:10:09,984
-founder of the Minerva Society for Girls.
+founder of the Minerva Society for Girls.{https://en.wikipedia.org/wiki/Fraternities_and_sororities}
 
 204
 00:10:10,193 --> 00:10:12,820
@@ -841,7 +841,7 @@ First editor of the Midwestern Clarion,
 
 205
 00:10:13,029 --> 00:10:14,822
-and now, valedictorian.
+and now, valedictorian.{https://en.wikipedia.org/wiki/Valedictorian}
 
 206
 00:10:18,826 --> 00:10:22,622
@@ -1108,7 +1108,7 @@ My life's ambition
 
 270
 00:14:03,926 --> 00:14:06,721
-is to be a great astronomer,
+is to be a great astronomer,{https://en.wikipedia.org/wiki/Astronomy}
 
 271
 00:14:06,929 --> 00:14:08,514
@@ -1187,7 +1187,7 @@ It's to be just like you.
 
 289
 00:15:16,916 --> 00:15:20,461
-Professor Wick studied
+Professor Wick studied{https://en.wikipedia.org/wiki/Yale_University}
 astronomy at Yale,
 
 290
@@ -1263,7 +1263,7 @@ that Larry has the tickets,
 
 307
 00:16:29,697 --> 00:16:30,948
-and Buddy has the sleigh.
+and Buddy has the sleigh.{https://en.wikipedia.org/wiki/Sleigh}
 
 308
 00:16:32,658 --> 00:16:34,285
@@ -1332,7 +1332,7 @@ Come up, Sam.
 
 324
 00:17:14,241 --> 00:17:15,552
-Please get out the goose grease,
+Please get out the goose grease,{https://en.wikipedia.org/wiki/Turpentine}
 
 325
 00:17:15,576 --> 00:17:17,953
@@ -1368,7 +1368,7 @@ I thought while I was correcting themes,
 
 333
 00:17:32,718 --> 00:17:37,389
-I'd just make some maple
+I'd just make some maple{https://en.wikipedia.org/wiki/Maple_taffy}
 snow candy, that's all.
 
 334
@@ -1584,7 +1584,7 @@ honored romantic scene
 
 386
 00:21:09,059 --> 00:21:11,103
-of all the world of fairy tales.
+of all the world of fairy tales.{https://en.wikipedia.org/wiki/Fairy_tale}
 
 387
 00:21:11,270 --> 00:21:13,105
@@ -1747,7 +1747,7 @@ picture in your class book
 
 425
 00:22:39,191 --> 00:22:42,486
-it said, mad, bad, and dangerous to know.
+it said, mad, bad, and dangerous to know.{https://en.wikipedia.org/wiki/Mad,_bad_and_dangerous_to_know}
 
 426
 00:22:44,029 --> 00:22:46,031
@@ -1887,7 +1887,7 @@ dangerous.
 
 459
 00:24:19,041 --> 00:24:22,419
-All join hands and circle to the right.
+All join hands and circle to the right.{https://en.wikipedia.org/wiki/Square_dance}
 
 460
 00:24:24,671 --> 00:24:26,048
@@ -2268,7 +2268,7 @@ Yes?
 
 551
 00:28:44,264 --> 00:28:45,784
-I'm going to have a game of cribbage
+I'm going to have a game of cribbage{https://en.wikipedia.org/wiki/Cribbage}
 
 552
 00:28:45,891 --> 00:28:48,143
@@ -3190,7 +3190,7 @@ The value of freedom.
 774
 00:40:16,497 --> 00:40:20,668
 Ella, your father
-homesteaded on this prairie.
+homesteaded on this prairie.{https://en.wikipedia.org/wiki/Homestead_Acts}
 
 775
 00:40:20,877 --> 00:40:23,754
@@ -3531,7 +3531,7 @@ So little Hopey's got a beau.
 
 856
 00:46:20,194 --> 00:46:21,834
-Yes, one of our outstanding sophomores,
+Yes, one of our outstanding sophomores,{https://en.wikipedia.org/wiki/Sophomore}
 
 857
 00:46:21,946 --> 00:46:24,031
@@ -3621,7 +3621,7 @@ What's it called, Stena?
 
 878
 00:46:57,564 --> 00:46:58,857
-Swedish glogg.
+Swedish glogg.{https://en.wikipedia.org/wiki/Gl%C3%B6gg}
 
 879
 00:46:59,066 --> 00:47:02,486
@@ -3630,7 +3630,7 @@ we drink at New Year's,
 
 880
 00:47:02,695 --> 00:47:03,862
-then we say skal,
+then we say skal,{https://en.wikipedia.org/wiki/Sk%C3%A5l}
 
 881
 00:47:04,071 --> 00:47:07,366
@@ -3739,7 +3739,7 @@ No, but I'm mad as a hatter.
 
 906
 00:48:30,532 --> 00:48:32,326
-You're an entering freshman, aren't you?
+You're an entering freshman, aren't you?{https://en.wikipedia.org/wiki/Freshman}
 
 907
 00:48:32,534 --> 00:48:33,243
@@ -3755,7 +3755,7 @@ that entering freshman are not allowed
 
 910
 00:48:35,454 --> 00:48:37,122
-to ride their bicycles on the campus?
+to ride their bicycles on the campus?{https://en.wikipedia.org/wiki/Bicycle}
 
 911
 00:48:37,331 --> 00:48:38,540
@@ -4120,7 +4120,7 @@ A wife?
 
 999
 00:51:42,808 --> 00:51:43,433
-She's in Virginia.
+She's in Virginia.{https://en.wikipedia.org/wiki/Virginia}
 
 1000
 00:51:43,642 --> 00:51:46,687
@@ -4194,7 +4194,7 @@ Mr. Barry, isn't it?
 
 1017
 00:52:22,764 --> 00:52:24,600
-Yes, the little minister.
+Yes, the little minister.{https://en.wikipedia.org/wiki/J._M._Barrie}
 
 1018
 00:52:24,808 --> 00:52:27,936
@@ -4203,7 +4203,7 @@ little out of my class.
 
 1019
 00:52:28,145 --> 00:52:30,606
-Now, if it was Frank Merriwell.
+Now, if it was Frank Merriwell.{https://en.wikipedia.org/wiki/Frank_Merriwell}
 
 1020
 00:52:33,108 --> 00:52:33,734
@@ -4382,7 +4382,7 @@ I should know but I don't.
 
 1063
 00:54:59,880 --> 00:55:02,591
-It's a little Italian town, Orvieto.
+It's a little Italian town, Orvieto.{https://en.wikipedia.org/wiki/Orvieto}
 
 1064
 00:55:02,799 --> 00:55:04,009
@@ -4642,7 +4642,7 @@ Why, there's Mr. Peters
 
 1127
 00:59:10,964 --> 00:59:13,508
-and his horseless carriage.
+and his horseless carriage.{https://en.wikipedia.org/wiki/Horseless_carriage}
 
 1128
 00:59:13,717 --> 00:59:15,510
@@ -4658,7 +4658,7 @@ Somebody, hold off, will you.
 
 1131
 00:59:32,610 --> 00:59:33,820
-Yeah, get a horse.
+Yeah, get a horse.{https://en.wikipedia.org/wiki/Horseless_carriage}
 
 1132
 00:59:37,991 --> 00:59:39,367
@@ -5040,11 +5040,11 @@ To get me a college education,
 1223
 01:04:25,069 --> 01:04:26,949
 my pappy's selling two
-of the finest Jenny mules
+of the finest Jenny mules{https://en.wikipedia.org/wiki/Mule}
 
 1224
 01:04:27,071 --> 01:04:28,781
-in the whole state of North Carolina.
+in the whole state of North Carolina.{https://en.wikipedia.org/wiki/North_Carolina}
 
 1225
 01:04:28,990 --> 01:04:30,199
@@ -5101,7 +5101,7 @@ President Corcoran, how's are ya?
 
 1238
 01:05:04,275 --> 01:05:05,985
-Scotland as beautiful as you remembered?
+Scotland as beautiful as you remembered?{https://en.wikipedia.org/wiki/Scotland}
 
 1239
 01:05:06,194 --> 01:05:08,237
@@ -5113,7 +5113,7 @@ Even to the misty, moisty weather.
 
 1241
 01:05:10,740 --> 01:05:13,076
-And Brussels, the exposition?
+And Brussels, the exposition?{https://en.wikipedia.org/wiki/Brussels_International_Exposition_(1910)}
 
 1242
 01:05:13,284 --> 01:05:15,164
@@ -5387,7 +5387,7 @@ President Corcoran.
 
 1306
 01:07:52,109 --> 01:07:53,819
-President emeritus,
+President emeritus,{https://en.wikipedia.org/wiki/Emeritus}
 
 1307
 01:07:54,028 --> 01:07:55,196
@@ -5698,11 +5698,11 @@ just the wrong direction.
 
 1381
 01:11:16,522 --> 01:11:17,898
-And I'll take the low road,
+And I'll take the low road,{https://en.wikipedia.org/wiki/The_Bonnie_Banks_o%27_Loch_Lomond}
 
 1382
 01:11:18,107 --> 01:11:20,067
-and I'll be in Scotland before you.
+and I'll be in Scotland before you.{https://en.wikipedia.org/wiki/The_Bonnie_Banks_o%27_Loch_Lomond}
 
 1383
 01:11:20,276 --> 01:11:22,528
@@ -5810,7 +5810,7 @@ Attention, hut!
 
 1409
 01:13:00,709 --> 01:13:01,836
-Forward march!
+Forward march!{https://en.wikipedia.org/wiki/Armistice_of_11_November_1918}
 
 1410
 01:13:05,422 --> 01:13:06,799
@@ -5881,7 +5881,7 @@ Gretchen had her first tooth the same day,
 
 1426
 01:14:12,781 --> 01:14:14,950
-then the country went dry,
+then the country went dry,{https://en.wikipedia.org/wiki/Prohibition_in_the_United_States}
 
 1427
 01:14:15,159 --> 01:14:18,704
@@ -5897,7 +5897,7 @@ She's six years old, now.
 
 1430
 01:14:25,836 --> 01:14:27,212
-The Depression was going good
+The Depression was going good{https://en.wikipedia.org/wiki/Great_Depression}
 
 1431
 01:14:27,421 --> 01:14:29,214
@@ -5985,7 +5985,7 @@ I am a taxpayer.
 
 1451
 01:15:26,689 --> 01:15:28,816
-Caught his son reading Mein Kampf
+Caught his son reading Mein Kampf{https://en.wikipedia.org/wiki/Mein_Kampf}
 
 1452
 01:15:29,024 --> 01:15:30,567
@@ -6079,7 +6079,7 @@ but I've got such a yen to go places,
 
 1474
 01:16:39,470 --> 01:16:41,013
-magic carpet places.
+magic carpet places.{https://en.wikipedia.org/wiki/Magic_carpet}
 
 1475
 01:16:42,139 --> 01:16:44,183
@@ -6539,7 +6539,7 @@ Have a good time,
 
 1586
 01:23:25,667 --> 01:23:28,295
-leave me here with my New Yorker.
+leave me here with my New Yorker.{https://en.wikipedia.org/wiki/The_New_Yorker}
 
 1587
 01:23:31,548 --> 01:23:34,050
@@ -6584,7 +6584,7 @@ How'd you get here?
 
 1597
 01:24:11,296 --> 01:24:12,456
-We flew in from California.
+We flew in from California.{https://en.wikipedia.org/wiki/California}
 
 1598
 01:24:12,631 --> 01:24:13,941
@@ -6704,7 +6704,7 @@ for you to pin them on here.
 
 1626
 01:25:11,106 --> 01:25:12,106
-Orchids.
+Orchids.{https://en.wikipedia.org/wiki/Orchid}
 
 1627
 01:25:13,858 --> 01:25:14,651
@@ -6781,7 +6781,7 @@ astronomer extraordinary,
 
 1645
 01:28:02,694 --> 01:28:05,989
-winner of the Nobel Prize, Mr. Radcheck.
+winner of the Nobel Prize, Mr. Radcheck.{https://en.wikipedia.org/wiki/Nobel_Prize}
 
 1646
 01:28:09,617 --> 01:28:12,454
@@ -6827,7 +6827,7 @@ I could manage to trip over another chair.
 
 1656
 01:28:45,570 --> 01:28:47,447
-United States Senator,
+United States Senator,{https://en.wikipedia.org/wiki/Senate_of_the_United_States}
 
 1657
 01:28:48,364 --> 01:28:50,283
