@@ -215,41 +215,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Things_to_Come"
   },
   {
-    "title": "The Wild Cat",
-    "release_date": "1921",
-    "runtime_minutes": 82,
-    "rating": 7.5,
-    "rating_source": "tmdb",
-    "cast": [
-      "Pola Negri",
-      "Victor Janson",
-      "Edith Meller",
-      "Paul Heidemann",
-      "Wilhelm Diegelmann",
-      "Hermann Thimig",
-      "Paul Biensfeldt",
-      "Paul Graetz",
-      "Max Kronert"
-    ],
-    "genre": [
-      "silent film",
-      "romantic comedy"
-    ],
-    "plot": "A charismatic lieutenant newly assigned to a remote fort is captured by a group of mountain bandits, thus setting in motion a madcap farce that is Lubitsch at his most unrestrained. A wonderfully anarchic and playfully subversive satire of military life from one of the great comedy filmmakers.",
-    "plot_source": "tmdb",
-    "poster_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Die_Bergkatze_by_Lubitsch_poster.jpg",
-    "mp4_url": "https://archive.org/download/publicmovies212/Wild_Cat.mp4",
-    "source": "https://archive.org/details/publicmovies212",
-    "imdb_id": "tt0011960",
-    "native_language": "German",
-    "subtitle_search_english": "https://www.opensubtitles.org/en/search/imdbid-0011960/sublanguageid-eng",
-    "subtitle_search_native": "https://www.opensubtitles.org/en/search/imdbid-0011960/sublanguageid-ger",
-    "subtitle_local_english": "https://raw.githubusercontent.com/osama-website/publicdomainfilms/refs/heads/main/The_Wild_Cat_1921_de_en.srt",
-    "subtitle_local_native": null,
-    "lookup_error": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Wildcat_(1921_film)"
-  },
-  {
     "title": "Angel and the Bad Man",
     "release_date": "2009",
     "runtime_minutes": null,
@@ -722,28 +687,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Fe_Trail_(film)"
   },
   {
-    "title": "The Ghoul",
-    "release_date": "1933",
-    "runtime_minutes": 77,
-    "rating": 5.6,
-    "rating_source": "tmdb",
-    "cast": [],
-    "genre": [],
-    "plot": "British Egyptologist Professor Morlant seeks immortality through a jewel buried in the tomb of an Oriental idol. Upon his death, Morlant returns to Earth to seek vengeance upon those who removed the jewel from his grave.",
-    "plot_source": "tmdb",
-    "poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Ghoul_1933.ogv/330px--The_Ghoul_1933.ogv.jpg",
-    "mp4_url": "https://archive.org/download/the.-ghoul.-1933/The%20Ghoul%20%281933%29/The.Ghoul.1933.mp4",
-    "source": "https://publicdomainmovie.net/movie/the-ghoul",
-    "imdb_id": "tt0024055",
-    "native_language": null,
-    "subtitle_search_english": "https://www.opensubtitles.org/en/search/imdbid-0024055/sublanguageid-eng",
-    "subtitle_search_native": "https://www.opensubtitles.org/en/search/imdbid-0024055/sublanguageid-all",
-    "subtitle_local_english": "https://raw.githubusercontent.com/osama-website/publicdomainfilms/refs/heads/main/The_Ghoul_1933_en_en.srt",
-    "subtitle_local_native": null,
-    "lookup_error": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ghoul_(1933_film)"
-  },
-  {
     "title": "Born to Win",
     "release_date": "1971",
     "runtime_minutes": 88,
@@ -1210,39 +1153,6 @@
     "subtitle_local_native": null,
     "lookup_error": null,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cheers_for_Miss_Bishop"
-  },
-  {
-    "title": "The Brain That Wouldn't Die",
-    "release_date": "1962",
-    "runtime_minutes": 82,
-    "rating": 4.7,
-    "rating_source": "tmdb",
-    "cast": [
-      "Jason Evers",
-      "Virginia Leith",
-      "Eddie Carmel",
-      "Marilyn Hanold",
-      "Arny Freeman",
-      "Sammy Petrillo"
-    ],
-    "genre": [
-      "horror film",
-      "science fiction film",
-      "exploitation film"
-    ],
-    "plot": "Dr. Bill Cortner and his fiancée, Jan Compton, are driving to his lab when they get into a horrible car accident. Compton is decapitated. But Cortner is not fazed by this seemingly insurmountable hurdle. His expertise is in transplants, and he is excited to perform the first head transplant. Keeping Compton's head alive in his lab, Cortner plans the groundbreaking yet unorthodox surgery. First, however, he needs a body.",
-    "plot_source": "tmdb",
-    "poster_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brainthatwouldntdie.jpg?width=400",
-    "mp4_url": "https://archive.org/download/the-brain-that-wouldnt-die-pnm/The.Brain.That.Wouldn%27t.Die.1962.1080p.BluRay.x264-%5BYTS.AG%5D.mp4",
-    "source": "https://publicdomainmovie.net/movie/the-brain-that-wouldnt-die-theatrical-version-82-min",
-    "imdb_id": "tt0052646",
-    "native_language": "English",
-    "subtitle_search_english": "https://www.opensubtitles.org/en/search/imdbid-0052646/sublanguageid-eng",
-    "subtitle_search_native": "https://www.opensubtitles.org/en/search/imdbid-0052646/sublanguageid-eng",
-    "subtitle_local_english": "https://raw.githubusercontent.com/osama-website/publicdomainfilms/refs/heads/main/The_Brain_That_Wouldn_t_Die_1962_en_en.srt",
-    "subtitle_local_native": null,
-    "lookup_error": null,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Brain_That_Wouldn't_Die_(2020_film)"
   },
   {
     "title": "Storm in a Teacup",
