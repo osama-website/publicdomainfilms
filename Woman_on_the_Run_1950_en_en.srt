@@ -567,7 +567,7 @@ You're really wasting your time.
 123
 00:09:43,124 --> 00:09:45,377
 There must be at least
-20,000 men in San Francisco
+20,000 men in San Francisco{https://en.wikipedia.org/wiki/San_Francisco}
 
 124
 00:09:45,502 --> 00:09:47,129
@@ -5236,4 +5236,3 @@ Your husband's safe.
 01:17:03,410 --> 01:17:06,254
 - Where... where's Frank?
 - Out there on the midway.
-

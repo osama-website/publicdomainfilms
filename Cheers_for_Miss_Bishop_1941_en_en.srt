@@ -447,7 +447,7 @@ may go to Kansas City
 
 110
 00:06:07,033 --> 00:06:10,286
-or Chicago and maybe even New York.
+or Chicago and maybe even New York.{https://en.wikipedia.org/wiki/New_York_City}
 
 111
 00:06:10,495 --> 00:06:12,163
@@ -4430,7 +4430,7 @@ and I was perfectly happy,
 
 1075
 00:55:25,864 --> 00:55:26,656
-then I went on to Rome.
+then I went on to Rome.{https://en.wikipedia.org/wiki/Rome}
 
 1076
 00:55:26,865 --> 00:55:28,366
@@ -6017,7 +6017,7 @@ he's married.
 
 1459
 01:15:49,211 --> 01:15:51,505
-It's a man I met in Chicago.
+It's a man I met in Chicago.{https://en.wikipedia.org/wiki/Chicago}
 
 1460
 01:15:53,632 --> 01:15:56,343
@@ -7023,4 +7023,3 @@ All the time in the world.
 1703
 01:33:48,831 --> 01:33:51,125
 All the time in the world.
-

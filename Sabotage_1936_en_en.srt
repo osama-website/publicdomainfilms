@@ -822,7 +822,7 @@ for it in pound notes.
 
 180
 00:17:29,347 --> 00:17:32,254
-You made London laugh.
+You made London laugh.{https://en.wikipedia.org/wiki/London}
 
 181
 00:17:32,304 --> 00:17:36,270
@@ -1932,7 +1932,7 @@ Good night all. Good night.
 420
 00:35:47,905 --> 00:35:53,019
 That was Detective Sergeant Spencer
-of Scotland Yard.
+of Scotland Yard.{https://en.wikipedia.org/wiki/Scotland_Yard}
 
 421
 00:35:53,259 --> 00:35:55,197
@@ -3582,4 +3582,3 @@ Or was it after?
 781
 01:16:11,020 --> 01:16:14,037
 I can't remember.
-

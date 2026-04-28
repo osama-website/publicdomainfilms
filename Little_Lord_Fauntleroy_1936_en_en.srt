@@ -5,7 +5,7 @@ LITTLE LORD FAUNTLEROY
 2
 00:01:34,750 --> 00:01:36,417
 Brooklyn, New York...
-in the 1880's.
+in the 1880's.{https://en.wikipedia.org/wiki/New_York_City}
 
 3
 00:02:04,375 --> 00:02:07,542
@@ -340,7 +340,7 @@ Aw, scared I'd get it dirty?
 75
 00:07:36,750 --> 00:07:39,917
 Hey, English, when did ya get back from
-dear old London? - I'm not English.
+dear old London? - I'm not English.{https://en.wikipedia.org/wiki/London}
 
 76
 00:07:40,000 --> 00:07:42,875
@@ -493,7 +493,7 @@ me brudder Ben off. He's goin' out West.
 109
 00:10:08,542 --> 00:10:11,375
 Oh, is he? Where? Texas?
-- No, Chicago.
+- No, Chicago.{https://en.wikipedia.org/wiki/Chicago}
 
 110
 00:10:11,583 --> 00:10:14,875
@@ -1199,7 +1199,7 @@ I should like to do it myself.
 260
 00:21:22,333 --> 00:21:26,542
 My father was a soldier and a very brave
-man as brave as George Washington.
+man as brave as George Washington.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 261
 00:21:26,833 --> 00:21:29,500
@@ -1869,7 +1869,7 @@ understand now, you'll understand them later.
 
 405
 00:35:22,417 --> 00:35:26,500
-It’s best for you to live there. There...
+Itï¿½s best for you to live there. There...
 there are good reasons why it tis.
 
 406
@@ -3079,7 +3079,7 @@ entirely satisfactory.
 665
 00:58:30,875 --> 00:58:35,167
 Mr. Hobbs always signed his letters that
-way and I thought I’d better say "please."
+way and I thought Iï¿½d better say "please."
 
 666
 00:58:36,042 --> 00:58:38,917
@@ -3934,7 +3934,7 @@ on the world. - I'm sure she is.
 
 849
 01:14:22,458 --> 01:14:25,042
-And I must tell her how kind you’ve been to me.
+And I must tell her how kind youï¿½ve been to me.
 
 850
 01:14:25,875 --> 01:14:30,417

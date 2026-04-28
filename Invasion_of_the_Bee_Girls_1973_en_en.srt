@@ -758,7 +758,7 @@ Oh, Eddie, can't you wait?
 
 174
 00:12:54,942 --> 00:12:56,277
-Jesus Christ!
+Jesus Christ!{https://en.wikipedia.org/wiki/Jesus}
 
 175
 00:13:04,618 --> 00:13:06,328
@@ -3218,7 +3218,7 @@ Oh, well, then, he's here?
 
 725
 00:53:23,076 --> 00:53:24,076
-He's in London.
+He's in London.{https://en.wikipedia.org/wiki/London}
 
 726
 00:53:24,619 --> 00:53:26,830

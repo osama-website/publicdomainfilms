@@ -674,7 +674,7 @@ and when he wanted more,
 156
 00:09:30,277 --> 00:09:31,755
 he used to come up
-to London and get it.
+to London and get it.{https://en.wikipedia.org/wiki/London}
 
 157
 00:09:31,779 --> 00:09:34,448
@@ -1218,7 +1218,7 @@ You are?
 
 279
 00:15:38,186 --> 00:15:39,896
-My name is Sherlock Holmes.
+My name is Sherlock Holmes.{https://en.wikipedia.org/wiki/Sherlock_Holmes}
 
 280
 00:15:39,980 --> 00:15:42,190
@@ -1493,7 +1493,7 @@ to see you, sir.
 
 342
 00:18:57,093 --> 00:18:58,762
-Mr. Holmes, Dr. Watson.
+Mr. Holmes, Dr. Watson.{https://en.wikipedia.org/wiki/Dr._Watson}
 
 343
 00:18:58,845 --> 00:19:00,305
@@ -5559,4 +5559,3 @@ Come, Doctor.
 01:11:47,219 --> 01:11:50,722
 They'll send you
 when they need you.
-

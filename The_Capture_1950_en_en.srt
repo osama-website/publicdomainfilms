@@ -4801,7 +4801,7 @@ All right.
 1051
 01:04:10,304 --> 01:04:12,783
 I don't want this
-hanging over our heads.
+hanging over our heads.{https://en.wikipedia.org/wiki/Hanging}
 
 1052
 01:04:12,807 --> 01:04:15,935
@@ -6063,4 +6063,3 @@ Put up your hand!
 1330
 01:29:17,310 --> 01:29:18,310
 Come.
-

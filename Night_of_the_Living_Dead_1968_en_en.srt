@@ -948,7 +948,7 @@ as mayhem.
 210
 00:33:35,308 --> 00:33:37,702
 Mayors of Pittsburgh,
-Philadelphia, and Miami,
+Philadelphia, and Miami,{https://en.wikipedia.org/wiki/Philadelphia}
 
 211
 00:33:37,744 --> 00:33:40,506
@@ -1065,12 +1065,12 @@ cabinet will be joined
 234
 00:35:03,054 --> 00:35:06,863
 by officials of the FBI and the joint
-chiefs behind closed doors.
+chiefs behind closed doors.{https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation}
 
 235
 00:35:07,532 --> 00:35:09,667
 A White House spokesman,
-in announcing this conference,
+in announcing this conference,{https://en.wikipedia.org/wiki/White_House}
 
 236
 00:35:09,709 --> 00:35:11,719
@@ -1090,7 +1090,7 @@ just received in our newsroom.
 239
 00:35:16,867 --> 00:35:21,388
 Latest word also from national
-press services in Washington, D.C.,
+press services in Washington, D.C.,{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 240
 00:35:21,472 --> 00:35:25,909
@@ -2763,7 +2763,7 @@ of the presidential cabinet,
 593
 00:57:47,223 --> 00:57:50,154
 The FBI, the joint chiefs of staff,
-the CIA
+the CIA{https://en.wikipedia.org/wiki/Central_Intelligence_Agency}
 
 594
 00:57:50,196 --> 00:57:53,126

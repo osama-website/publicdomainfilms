@@ -701,7 +701,7 @@ Are those... are they my pupils?
 
 161
 00:14:27,916 --> 00:14:32,332
-Ay, brood of Satan, that's what they are.
+Ay, brood of Satan, that's what they are.{https://en.wikipedia.org/wiki/Satan}
 
 162
 00:14:32,360 --> 00:14:36,210
@@ -936,7 +936,7 @@ On the contrary. Every kiss counts, Becky.
 
 215
 00:18:20,586 --> 00:18:22,255
-I'm returning to London tomorrow.
+I'm returning to London tomorrow.{https://en.wikipedia.org/wiki/London}
 
 216
 00:18:22,277 --> 00:18:24,100
@@ -1287,7 +1287,7 @@ Sir Pitt is lonesome, madam, very lonesome.
 294
 00:22:38,085 --> 00:22:42,515
 If he's lonesome, let him join Napoleon at Elba.
-Then they can both be lonesome together.
+Then they can both be lonesome together.{https://en.wikipedia.org/wiki/Napoleon}
 
 295
 00:22:42,528 --> 00:22:44,758
@@ -1436,7 +1436,7 @@ she was exiled by the Revolution.
 
 327
 00:24:33,251 --> 00:24:36,201
-Her château burned, her estate confiscated,
+Her chï¿½teau burned, her estate confiscated,
 her fortune taken from her.
 
 328
@@ -3114,7 +3114,7 @@ The Queen presenteth Lady Cybil Clay.
 
 697
 00:50:35,877 --> 00:50:37,200
-Voilà, madame.
+Voilï¿½, madame.
 
 698
 00:50:37,211 --> 00:50:42,471
@@ -3122,7 +3122,7 @@ Oh, exquis! Ravissant!
 
 699
 00:50:42,490 --> 00:50:47,190
-Oui, c'est séduisant, madame!
+Oui, c'est sï¿½duisant, madame!
 Very elegant, Becky!
 
 700
@@ -3131,7 +3131,7 @@ Tell him I'll keep it.
 
 701
 00:50:48,815 --> 00:50:51,380
-Il ne peut pas le laisser sans avoir réçu
+Il ne peut pas le laisser sans avoir rï¿½ï¿½u
 quelque chose.
 
 702
@@ -3151,7 +3151,7 @@ and just pay the bill.
 
 705
 00:51:00,991 --> 00:51:02,988
-Voilà, monsieur.
+Voilï¿½, monsieur.
 
 706
 00:51:02,999 --> 00:51:05,669
@@ -5688,5 +5688,4 @@ for virtue is its own reward!
 
 1257
 01:24:38,661 --> 01:24:47,661
-LEGENDAS: LUÍS FILIPE BERNARDES
-
+LEGENDAS: LUï¿½S FILIPE BERNARDES

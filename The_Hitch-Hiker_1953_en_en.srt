@@ -613,12 +613,12 @@ One of those news guys from the States.
 
 143
 00:19:01,755 --> 00:19:05,092
-Scheduled for 10am at the White House.
+Scheduled for 10am at the White House.{https://en.wikipedia.org/wiki/White_House}
 
 144
 00:19:05,192 --> 00:19:09,687
 On the crime front, the police of 9 western
-states, from Washington in the north
+states, from Washington in the north{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 145
 00:19:09,787 --> 00:19:11,626
@@ -2300,4 +2300,3 @@ You understand. Gracias.
 527
 01:10:04,128 --> 01:10:06,149
 It's all right.
-

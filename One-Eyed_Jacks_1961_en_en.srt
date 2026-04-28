@@ -1813,7 +1813,7 @@ and us to thy service.
 415
 00:44:16,697 --> 00:44:20,993
 And make us ever mindful of the needs
-of others. In Jesus' name. Amen.
+of others. In Jesus' name. Amen.{https://en.wikipedia.org/wiki/Jesus}
 
 416
 00:44:21,076 --> 00:44:24,621
@@ -6039,4 +6039,3 @@ because I'm so afraid to losing you.
 1397
 02:20:39,224 --> 02:20:41,226
 <i>Adiós, mi bien.</i>
-

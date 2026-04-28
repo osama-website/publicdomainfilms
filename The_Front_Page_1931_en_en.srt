@@ -10,7 +10,7 @@ Say, Henry!
 3
 00:02:40,800 --> 00:02:45,060
 The rope for that last hanging danced that guy
-up and down like he was on a rubber band.
+up and down like he was on a rubber band.{https://en.wikipedia.org/wiki/Hanging}
 
 4
 00:02:45,140 --> 00:02:47,600
@@ -651,7 +651,7 @@ a load of what he says when he hears
 
 144
 00:11:15,940 --> 00:11:17,570
-I'm leaving town for New York.
+I'm leaving town for New York.{https://en.wikipedia.org/wiki/New_York_City}
 
 145
 00:11:19,990 --> 00:11:21,530
@@ -1395,7 +1395,7 @@ No, I ain't gonna cover the hanging.
 307
 00:21:22,970 --> 00:21:26,720
 I wouldn't cover Washington crossing the
-Delaware for you if he did it all over again.
+Delaware for you if he did it all over again.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 308
 00:21:26,800 --> 00:21:28,300
@@ -2283,7 +2283,7 @@ against the red menace,
 501
 00:31:05,090 --> 00:31:07,760
 which is leaving Moscow
-in a couple of minutes.
+in a couple of minutes.{https://en.wikipedia.org/wiki/Moscow}
 
 502
 00:31:07,840 --> 00:31:09,220
@@ -6385,7 +6385,7 @@ Get the sense of an animal at bay.
 
 1393
 01:16:02,370 --> 01:16:04,870
-Sort of a Jack London style?
+Sort of a Jack London style?{https://en.wikipedia.org/wiki/London}
 
 1394
 01:16:04,950 --> 01:16:06,540
@@ -8661,4 +8661,3 @@ Wire him a complete description.
 01:40:24,030 --> 01:40:26,620
 The son of a ̶
 stole my watch!
-

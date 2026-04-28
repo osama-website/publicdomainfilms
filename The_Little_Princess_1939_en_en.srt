@@ -167,7 +167,7 @@ aware, Captain Crew, that I
 35
 00:05:12,929 --> 00:05:15,680
 conduct one of the most
-exclusive schools in London.
+exclusive schools in London.{https://en.wikipedia.org/wiki/London}
 
 36
 00:05:16,056 --> 00:05:17,959
@@ -4637,4 +4637,3 @@ Daddy, it's Your Majesty.
 954
 01:31:54,056 --> 01:31:55,656
 My daddy.
-

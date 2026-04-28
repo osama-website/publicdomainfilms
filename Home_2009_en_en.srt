@@ -1010,7 +1010,7 @@ live in cities.
 
 222
 00:24:32,472 --> 00:24:33,815
-New York.
+New York.{https://en.wikipedia.org/wiki/New_York_City}
 
 223
 00:24:34,700 --> 00:24:35,927
@@ -1371,7 +1371,7 @@ by a legendary name.
 
 299
 00:30:07,117 --> 00:30:09,370
-Los Angeles.
+Los Angeles.{https://en.wikipedia.org/wiki/Los_Angeles}
 
 300
 00:30:09,997 --> 00:30:12,973
@@ -2981,7 +2981,7 @@ faster and faster,
 645
 01:06:58,161 --> 01:07:02,672
 what will major cities like Tokyo,
-the world's most populous city, do?
+the world's most populous city, do?{https://en.wikipedia.org/wiki/Tokyo}
 
 646
 01:07:04,110 --> 01:07:08,047
@@ -3931,4 +3931,3 @@ We all have the power to change.
 848
 01:24:21,285 --> 01:24:23,492
 So what are we waiting for?
-

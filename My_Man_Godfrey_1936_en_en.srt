@@ -3716,7 +3716,7 @@ and give Angelica a hug.
 798
 00:43:22,188 --> 00:43:25,399
 How's everything in Boston?
-All the beans and things! [laughs]
+All the beans and things! [laughs]{https://en.wikipedia.org/wiki/Boston}
 
 799
 00:43:25,483 --> 00:43:27,860
@@ -6463,7 +6463,7 @@ to have a little trouble following you at times.
 1387
 01:13:52,767 --> 01:13:55,645
 Well, for instance, when I'd go
-into a restaurant in Paris or anyplace,
+into a restaurant in Paris or anyplace,{https://en.wikipedia.org/wiki/Paris}
 
 1388
 01:13:55,728 --> 01:13:58,272
@@ -7822,7 +7822,7 @@ What do you know about that?
 1682
 01:29:14,104 --> 01:29:17,858
 Nobody knows anything about her love except
-all of upper New York and lower Manhattan.
+all of upper New York and lower Manhattan.{https://en.wikipedia.org/wiki/New_York_City}
 
 1683
 01:29:17,941 --> 01:29:20,652
@@ -8226,4 +8226,3 @@ Stand still, Godfrey.
 1769
 01:33:17,055 --> 01:33:18,890
 [giggling]
-

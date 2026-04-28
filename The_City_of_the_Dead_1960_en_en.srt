@@ -772,7 +772,7 @@ familiar with that quotation.
 174
 00:10:45,547 --> 00:10:47,349
 Ya, well I don't believe
-that somebody in Chicago,
+that somebody in Chicago,{https://en.wikipedia.org/wiki/Chicago}
 
 175
 00:10:47,383 --> 00:10:49,318
@@ -4170,7 +4170,7 @@ They know no other god.
 909
 01:03:11,357 --> 01:03:13,626
 Do you mean they worship Satan
-here... today?
+here... today?{https://en.wikipedia.org/wiki/Satan}
 
 910
 01:03:13,692 --> 01:03:16,862
@@ -4724,4 +4724,3 @@ with Mrs. Newless!
 1037
 01:16:39,831 --> 01:16:41,499
 You stay here.
-

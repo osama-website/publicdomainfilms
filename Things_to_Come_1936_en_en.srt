@@ -247,7 +247,7 @@ aren't a bit too much for them.
 
 58
 00:06:20,800 --> 00:06:23,201
-Ýt teaches them to use their hands.
+ï¿½t teaches them to use their hands.
 
 59
 00:06:23,320 --> 00:06:27,803
@@ -2527,7 +2527,7 @@ It's not I who makes these conditions.
 
 568
 00:48:49,280 --> 00:48:51,044
-Ýt is the nature of things.
+ï¿½t is the nature of things.
 
 569
 00:48:51,120 --> 00:48:53,930
@@ -2639,7 +2639,7 @@ that dare to run down our land.
 
 593
 00:50:10,520 --> 00:50:13,524
-Ýt isn't this. it isn't that.
+ï¿½t isn't this. it isn't that.
 It isn't what it used to be.
 
 594
@@ -2910,7 +2910,7 @@ And this warlike state of ours here?
 
 654
 00:53:16,000 --> 00:53:20,210
-Ýt has to vanish - like the tyrannosaurus
+ï¿½t has to vanish - like the tyrannosaurus
 and the saber-toothed tiger.
 
 655
@@ -3815,7 +3815,7 @@ Stop this progress before it is too late!"
 852
 01:14:56,120 --> 01:15:00,808
 What a funny place New York was,
-all sticking up and full of windows.
+all sticking up and full of windows.{https://en.wikipedia.org/wiki/New_York_City}
 
 853
 01:15:00,880 --> 01:15:03,087
@@ -5179,4 +5179,3 @@ Which shall it be?
 1151
 01:36:48,880 --> 01:36:52,771
 <i>â™ª Which shall it be? â™ª</i>
-

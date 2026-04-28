@@ -3670,7 +3670,7 @@ Hmm. Well, either way,
 779
 00:54:08,201 --> 00:54:10,943
 I'm sure looking forward
-to hanging the survivor.
+to hanging the survivor.{https://en.wikipedia.org/wiki/Hanging}
 
 780
 00:54:13,380 --> 00:54:16,296
@@ -5812,4 +5812,3 @@ I don't need it anymore.
 1233
 01:31:19,212 --> 01:31:20,126
 Yeah.
-

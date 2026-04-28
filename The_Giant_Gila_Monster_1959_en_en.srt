@@ -214,7 +214,7 @@ is just like getting married
 
 51
 00:04:34,938 --> 00:04:37,352
-or going to New York City.
+or going to New York City.{https://en.wikipedia.org/wiki/New_York_City}
 
 52
 00:04:37,352 --> 00:04:38,678
@@ -1035,7 +1035,7 @@ and he's afraid of fire when it comes in.
 
 245
 00:12:59,458 --> 00:13:00,988
-There's four quarts of nitroglycerin
+There's four quarts of nitroglycerin{https://en.wikipedia.org/wiki/Nitroglycerin}
 
 246
 00:13:00,988 --> 00:13:02,678
@@ -5410,4 +5410,3 @@ and see me in the morning?
 1290
 01:14:14,118 --> 01:14:16,845
 - I'll bring him around in the morning.
-

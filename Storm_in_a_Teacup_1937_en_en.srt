@@ -83,11 +83,11 @@ Oh, never mind, don't trouble.
 
 21
 00:03:28,450 --> 00:03:29,700
-Paris-London.
+Paris-London.{https://en.wikipedia.org/wiki/London}
 
 22
 00:03:30,000 --> 00:03:31,290
-Paris-London.
+Paris-London.{https://en.wikipedia.org/wiki/Paris}
 
 23
 00:03:31,990 --> 00:03:33,140
@@ -3580,7 +3580,7 @@ And I'll advise you to stick to the truth.
 
 810
 00:44:25,240 --> 00:44:27,350
-Where are we, Berlin, Moscow, or where?
+Where are we, Berlin, Moscow, or where?{https://en.wikipedia.org/wiki/Moscow}
 
 811
 00:44:27,370 --> 00:44:29,740
@@ -7124,4 +7124,3 @@ as permitted by spots of dense
 01:26:14,660 --> 01:26:18,190
 dialect, obsolete idioms, indistinct
 diction and poor sound quality.
-

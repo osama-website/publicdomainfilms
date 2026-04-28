@@ -180,7 +180,7 @@ I'm going to read this letter to you.
 
 46
 00:05:35,455 --> 00:05:39,205
-"Recently, in the city of Brooklyn, New York,
+"Recently, in the city of Brooklyn, New York,{https://en.wikipedia.org/wiki/New_York_City}
 
 47
 00:05:39,433 --> 00:05:43,585
@@ -256,7 +256,7 @@ I'm going to read this letter to you.
 
 65
 00:06:44,589 --> 00:06:47,598
-"Recently, a huge supply of heroin was taken.
+"Recently, a huge supply of heroin was taken.{https://en.wikipedia.org/wiki/Heroin}
 
 66
 00:06:47,598 --> 00:06:51,050
@@ -587,7 +587,7 @@ None of them are any good.
 
 147
 00:11:30,572 --> 00:11:32,577
-Father and mother just got a divorce in Paris.
+Father and mother just got a divorce in Paris.{https://en.wikipedia.org/wiki/Paris}
 
 148
 00:11:32,577 --> 00:11:33,410
@@ -1919,7 +1919,7 @@ In 1930, the records on marihuana
 
 473
 00:28:12,250 --> 00:28:14,711
-in the Washington office of the Narcotics Division
+in the Washington office of the Narcotics Division{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 474
 00:28:14,711 --> 00:28:17,234
@@ -2931,7 +2931,7 @@ There was a serious discussion
 
 723
 00:44:15,539 --> 00:44:18,006
-of Shakespeare's Romeo and Juliet,
+of Shakespeare's Romeo and Juliet,{https://en.wikipedia.org/wiki/William_Shakespeare}
 
 724
 00:44:18,006 --> 00:44:19,662

@@ -4973,11 +4973,11 @@ sailed the boats for Columbus,
 
 1165
 00:48:27,260 --> 00:48:29,840
-retreated from Moscow with Napoleon,
+retreated from Moscow with Napoleon,{https://en.wikipedia.org/wiki/Moscow}
 
 1166
 00:48:29,840 --> 00:48:32,483
-and froze with Washington at Valley Forge.
+and froze with Washington at Valley Forge.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 1167
 00:48:35,670 --> 00:48:37,520
@@ -8802,7 +8802,7 @@ was trying to use that to shove
 
 2056
 01:29:45,190 --> 01:29:47,680
-his way into the White House.
+his way into the White House.{https://en.wikipedia.org/wiki/White_House}
 
 2057
 01:29:47,680 --> 01:29:49,703
@@ -11258,4 +11258,3 @@ people, try and lick that.
 2634
 02:00:52,052 --> 02:00:55,385
 (upbeat dramatic music)
-

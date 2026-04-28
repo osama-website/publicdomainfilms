@@ -2088,7 +2088,7 @@ The dead.
 
 497
 00:55:31,078 --> 00:55:33,831
-In Paris, they're doing wonderful things
+In Paris, they're doing wonderful things{https://en.wikipedia.org/wiki/Paris}
 
 498
 00:55:34,040 --> 00:55:37,460
@@ -2959,4 +2959,3 @@ Free?
 707
 01:18:25,535 --> 01:18:26,578
 Andre.
-

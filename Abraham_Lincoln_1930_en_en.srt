@@ -192,7 +192,7 @@ Go to him, Champ!
 42
 00:08:17,859 --> 00:08:19,756
 -Get 'in, Jack!
--Abraham Lincoln!
+-Abraham Lincoln!{https://en.wikipedia.org/wiki/Abraham_Lincoln}
 
 43
 00:08:20,185 --> 00:08:23,385
@@ -1703,7 +1703,7 @@ the East on the verge of revolt,
 381
 00:38:48,527 --> 00:38:50,766
 and now New York
-threatens to quit the Union.
+threatens to quit the Union.{https://en.wikipedia.org/wiki/New_York_City}
 
 382
 00:38:50,923 --> 00:38:52,662
@@ -2289,7 +2289,7 @@ Yes, l should have known.
 511
 00:52:07,086 --> 00:52:10,818
 You must make every effort
-to save Washington.
+to save Washington.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 512
 00:52:26,830 --> 00:52:28,012
@@ -2869,7 +2869,7 @@ Well, let's have it.
 642
 01:03:22,308 --> 01:03:24,396
 The Secret Service
-reports that there are 600,000
+reports that there are 600,000{https://en.wikipedia.org/wiki/United_States_Secret_Service}
 
 643
 01:03:27,101 --> 01:03:28,354
@@ -3868,7 +3868,7 @@ l'm sure this lady will be glad
 871
 01:25:06,919 --> 01:25:08,360
 to spend four more years
-in the White House.
+in the White House.{https://en.wikipedia.org/wiki/White_House}
 
 872
 01:25:08,480 --> 01:25:10,759
@@ -4176,4 +4176,3 @@ Mr. Lincoln has been shot!
 01:31:42,000 --> 01:31:44,743
 Get a doctor!
 Somebody get a doctor!
-

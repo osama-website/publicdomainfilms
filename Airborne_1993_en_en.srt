@@ -3013,7 +3013,7 @@ It's Mitchell!
 648
 00:35:44,243 --> 00:35:46,445
 Jesus, Mary,
-and Joseph!
+and Joseph!{https://en.wikipedia.org/wiki/Jesus}
 
 649
 00:35:46,445 --> 00:35:49,648
@@ -3695,7 +3695,7 @@ for my shirt *
 801
 00:46:48,239 --> 00:46:53,344
 * too sexy for Milan,
-New York, and Japan *
+New York, and Japan *{https://en.wikipedia.org/wiki/New_York_City}
 
 802
 00:47:01,419 --> 00:47:04,155
@@ -5979,4 +5979,3 @@ to prove, baby *
 01:30:09,805 --> 01:30:12,875
 * good enough
 to open your heart **
-

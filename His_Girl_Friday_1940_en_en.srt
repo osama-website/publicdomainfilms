@@ -2401,12 +2401,12 @@ of the criminal courts building.
 
 523
 00:24:50,002 --> 00:24:51,527
-Jake, new lead on the hanging.
+Jake, new lead on the hanging.{https://en.wikipedia.org/wiki/Hanging}
 
 524
 00:24:51,738 --> 00:24:55,173
 This alienist from New York,
-Dr. Max J. Egelhoffer.
+Dr. Max J. Egelhoffer.{https://en.wikipedia.org/wiki/New_York_City}
 
 525
 00:24:55,375 --> 00:24:59,105
@@ -2436,7 +2436,7 @@ psychoanalyzing him.
 530
 00:25:09,655 --> 00:25:12,989
 He's the guy they sent to Washington
-to interview the Brain Trust.
+to interview the Brain Trust.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 531
 00:25:13,192 --> 00:25:14,659
@@ -2484,7 +2484,7 @@ from the Red Army...
 540
 00:25:34,881 --> 00:25:37,144
 ...which is leaving Moscow
-in a couple of minutes.
+in a couple of minutes.{https://en.wikipedia.org/wiki/Moscow}
 
 541
 00:25:37,349 --> 00:25:39,250
@@ -4227,7 +4227,7 @@ in 20 minutes.
 919
 00:43:43,235 --> 00:43:45,704
 I wouldn't cover
-the burning of Rome for you.
+the burning of Rome for you.{https://en.wikipedia.org/wiki/Rome}
 
 920
 00:43:45,905 --> 00:43:47,929
@@ -4330,7 +4330,7 @@ at their convenience.
 940
 00:44:47,266 --> 00:44:49,233
 - What they did to me in Chicago!
-- I believe it.
+- I believe it.{https://en.wikipedia.org/wiki/Chicago}
 
 941
 00:44:49,434 --> 00:44:51,130
@@ -5206,7 +5206,7 @@ to be responsible?
 1129
 00:54:01,420 --> 00:54:03,980
 Any truth in the report
-you're on Stalin's payroll?
+you're on Stalin's payroll?{https://en.wikipedia.org/wiki/Joseph_Stalin}
 
 1130
 00:54:04,188 --> 00:54:06,679
@@ -7326,7 +7326,7 @@ Roy V. Bensinger, the poet.
 1578
 01:14:16,935 --> 01:14:20,837
 You wouldn't know. You probably never
-heard of Shakespeare either.
+heard of Shakespeare either.{https://en.wikipedia.org/wiki/William_Shakespeare}
 
 1579
 01:14:22,375 --> 01:14:25,742
@@ -7360,7 +7360,7 @@ He hears footsteps, they're closing in.
 1585
 01:14:40,693 --> 01:14:44,423
 - Get the sense of the animal at bay.
-- Sort of Jack London style?
+- Sort of Jack London style?{https://en.wikipedia.org/wiki/London}
 
 1586
 01:14:44,631 --> 01:14:47,725

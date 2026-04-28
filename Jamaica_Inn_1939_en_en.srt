@@ -337,7 +337,7 @@ Ask Sam how long Nancy's going to be.
 79
 00:11:37,269 --> 00:11:40,061
 That's why he stays here
-and never comes to London any more.
+and never comes to London any more.{https://en.wikipedia.org/wiki/London}
 
 80
 00:11:40,236 --> 00:11:41,781
@@ -1802,7 +1802,7 @@ We don't want any gawpers here.
 414
 00:31:30,147 --> 00:31:34,178
 This is private, see. If you want a public hanging,
-Syd, you won't have to wait long.
+Syd, you won't have to wait long.{https://en.wikipedia.org/wiki/Hanging}
 
 415
 00:31:34,346 --> 00:31:38,377
@@ -5726,7 +5726,7 @@ Gangplank away!
 
 1297
 01:35:18,046 --> 01:35:20,715
-In Paris you'll have your woman to attend to you.
+In Paris you'll have your woman to attend to you.{https://en.wikipedia.org/wiki/Paris}
 
 1298
 01:35:20,882 --> 01:35:22,840
@@ -5947,4 +5947,3 @@ Make way for Pengallan!
 1348
 01:39:06,605 --> 01:39:08,561
 <i>(Fainter) Chadwick!</i>
-

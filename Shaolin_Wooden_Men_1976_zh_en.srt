@@ -513,7 +513,7 @@ Watch me go up the mountain.
 114
 00:22:02,990 --> 00:22:05,617
 <i>/ron-Crutch Li,</i>
-<i>gourd hanging from his belt</i>
+<i>gourd hanging from his belt</i>{https://en.wikipedia.org/wiki/Hanging}
 
 115
 00:22:05,867 --> 00:22:09,329
@@ -3450,4 +3450,3 @@ MAIN SHRINE
 784
 01:47:03,919 --> 01:47:06,380
 <i>Amitabha.</i>
-

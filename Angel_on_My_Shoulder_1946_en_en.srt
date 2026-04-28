@@ -3839,7 +3839,7 @@ I'll guide you. It'll
 
 958
 00:55:56,365 --> 00:55:57,879
-telepathic transmission.
+telepathic transmission.{https://en.wikipedia.org/wiki/Telepathy}
 
 959
 00:55:58,354 --> 00:56:00,838
@@ -3879,7 +3879,7 @@ But your honor...
 
 968
 00:56:21,620 --> 00:56:26,051
-As is the case of the People vs Mitchel 186 New York 942.
+As is the case of the People vs Mitchel 186 New York 942.{https://en.wikipedia.org/wiki/New_York_City}
 
 969
 00:56:26,051 --> 00:56:30,275
@@ -7011,4 +7011,3 @@ You oughta know.
 1749
 01:41:08,255 --> 01:41:14,578
 Barnbusfox for Subscene.com
-

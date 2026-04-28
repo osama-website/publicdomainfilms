@@ -1803,7 +1803,7 @@ on the public treasury.'
 391
 00:19:48,404 --> 00:19:50,070
 ...of New York,
-we're going to throw you
+we're going to throw you{https://en.wikipedia.org/wiki/New_York_City}
 
 392
 00:19:50,154 --> 00:19:52,946
@@ -4189,7 +4189,7 @@ for Thine inestimable love'
 907
 00:46:14,112 --> 00:46:19,154
 'in the redemption of the world
-by our Lord Jesus Christ'
+by our Lord Jesus Christ'{https://en.wikipedia.org/wiki/Jesus}
 
 908
 00:46:19,237 --> 00:46:23,404
@@ -6313,7 +6313,7 @@ I hear from the patent office
 
 1370
 01:09:06,613 --> 01:09:08,196
-in Washington, I may be rich.
+in Washington, I may be rich.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 1371
 01:09:08,279 --> 01:09:11,154
@@ -8264,7 +8264,7 @@ beautiful?
 
 1794
 01:32:18,654 --> 01:32:20,446
-Just arrived from Paris, madam.
+Just arrived from Paris, madam.{https://en.wikipedia.org/wiki/Paris}
 
 1795
 01:32:20,529 --> 01:32:21,946
@@ -10760,4 +10760,3 @@ Going to the office?
 2328
 01:56:34,863 --> 01:56:37,404
 No! I'm going to be baptized!
-

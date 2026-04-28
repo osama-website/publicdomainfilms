@@ -1948,7 +1948,7 @@ Airport tomorrow morning.
 
 471
 00:37:48,098 --> 00:37:50,934
-9AM, flight from Paris.
+9AM, flight from Paris.{https://en.wikipedia.org/wiki/Paris}
 
 472
 00:37:52,561 --> 00:37:53,561
@@ -2279,7 +2279,7 @@ Spooky.
 
 551
 00:46:34,624 --> 00:46:36,001
-What is that, Mafia?
+What is that, Mafia?{https://en.wikipedia.org/wiki/Mafia}
 
 552
 00:46:36,293 --> 00:46:37,502
@@ -4418,4 +4418,3 @@ You're the winner, aren't you?
 1064
 01:26:59,046 --> 01:27:00,589
 Born to win.
-

@@ -950,7 +950,7 @@ Where did I go?
 226
 00:17:25,545 --> 00:17:28,161
 You went to New York and got a
-job in a night club.
+job in a night club.{https://en.wikipedia.org/wiki/New_York_City}
 
 227
 00:17:29,382 --> 00:17:30,859
@@ -4517,4 +4517,3 @@ Or does it begin?
 1070
 01:03:49,617 --> 01:03:50,617
 I wonder.
-

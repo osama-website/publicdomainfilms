@@ -298,7 +298,7 @@ You just ain't box office.
 65
 00:07:12,721 --> 00:07:16,498
 Papa, do you think we might have
-some money in that Chicago account?
+some money in that Chicago account?{https://en.wikipedia.org/wiki/Chicago}
 
 66
 00:07:16,558 --> 00:07:20,506
@@ -411,7 +411,7 @@ we booked a European tour.
 89
 00:08:36,410 --> 00:08:39,254
 - Europe?
-- London, Paris, Budapest.
+- London, Paris, Budapest.{https://en.wikipedia.org/wiki/London}
 
 90
 00:08:39,613 --> 00:08:43,356
@@ -1600,7 +1600,7 @@ ring! You didn't hock your...
 344
 00:28:01,715 --> 00:28:04,525
 You wired that drummer in
-Boston who had a crush on you.
+Boston who had a crush on you.{https://en.wikipedia.org/wiki/Boston}
 
 345
 00:28:04,585 --> 00:28:07,464
@@ -2607,7 +2607,7 @@ worrying and go to sleep.</i>
 558
 00:44:35,104 --> 00:44:38,109
 Why don't you check out of
-this town? Come to New York.
+this town? Come to New York.{https://en.wikipedia.org/wiki/New_York_City}
 
 559
 00:44:38,175 --> 00:44:41,884
@@ -3279,7 +3279,7 @@ I'd notify the police right away.
 699
 00:56:24,759 --> 00:56:27,603
 Notify the FBI. I
-saw it in a movie.
+saw it in a movie.{https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation}
 
 700
 00:56:27,728 --> 00:56:29,799
@@ -5195,4 +5195,3 @@ Pete!
 01:27:36,882 --> 01:27:41,058
 - Amendola, my friend.
 - Dingle, old pal.
-

@@ -40,11 +40,11 @@ One voice is heard!
 
 11
 00:02:02,956 --> 00:02:04,708
-The screech of the guillotine!
+The screech of the guillotine!{https://en.wikipedia.org/wiki/Guillotine}
 
 12
 00:02:05,000 --> 00:02:07,961
-France lies bleeding, Paris an open wound.
+France lies bleeding, Paris an open wound.{https://en.wikipedia.org/wiki/Paris}
 
 13
 00:02:08,253 --> 00:02:10,339
@@ -123,7 +123,7 @@ Frenchmen have to meet on enemy soil.
 31
 00:03:29,459 --> 00:03:31,878
 - The Reign of Terror swept
-to the borders of France.
+to the borders of France.{https://en.wikipedia.org/wiki/Reign_of_Terror}
 
 32
 00:03:32,170 --> 00:03:33,547
@@ -1292,7 +1292,7 @@ It's all over too fast now.
 
 311
 00:17:15,910 --> 00:17:17,828
-Even hanging.
+Even hanging.{https://en.wikipedia.org/wiki/Hanging}
 
 312
 00:17:20,164 --> 00:17:21,916
@@ -5479,7 +5479,7 @@ believe I got your name.
 1319
 01:28:47,823 --> 01:28:51,326
 - [Napoleon] My name is
-Bonaparte, Napoleon Bonaparte.
+Bonaparte, Napoleon Bonaparte.{https://en.wikipedia.org/wiki/Napoleon}
 
 1320
 01:28:51,618 --> 01:28:53,245
@@ -5496,4 +5496,3 @@ I'll try to remember that.
 1323
 01:29:13,390 --> 01:29:16,309
 (fireworks booming)
-

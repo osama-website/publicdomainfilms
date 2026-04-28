@@ -394,7 +394,7 @@ All those?
 88
 00:07:22,489 --> 00:07:26,253
 Yes, and the best
-swordsman in Paris.
+swordsman in Paris.{https://en.wikipedia.org/wiki/Paris}
 
 89
 00:07:26,293 --> 00:07:27,203
@@ -2128,7 +2128,7 @@ Oh, wonderful.
 
 483
 00:30:58,919 --> 00:31:04,433
-Eh, here are some éclairs.
+Eh, here are some ï¿½clairs.
 Uh, creampuffs.
 
 484
@@ -3034,7 +3034,7 @@ to your friends?
 
 685
 00:40:55,662 --> 00:40:57,544
-Have you read Don Quixote?
+Have you read Don Quixote?{https://en.wikipedia.org/wiki/Don_Quixote}
 
 686
 00:40:57,584 --> 00:41:00,006
@@ -8767,4 +8767,3 @@ in spite of doom, mine own,
 1956
 01:52:04,509 --> 01:52:09,213
 my...white...plume...
-

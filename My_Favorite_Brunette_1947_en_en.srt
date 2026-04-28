@@ -219,7 +219,7 @@ rap on me I had one of the sweetest
 
 50
 00:04:11,735 --> 00:04:13,257
-little rackets in San Francisco.
+little rackets in San Francisco.{https://en.wikipedia.org/wiki/San_Francisco}
 
 51
 00:04:13,258 --> 00:04:16,451
@@ -492,7 +492,7 @@ Why don't you give it a little thought?
 109
 00:08:11,419 --> 00:08:14,822
 I'm going to Chicago for a few days.
-I'll leave the door open
+I'll leave the door open{https://en.wikipedia.org/wiki/Chicago}
 
 110
 00:08:14,823 --> 00:08:17,333
@@ -1400,7 +1400,7 @@ Goodbye.
 303
 00:24:29,738 --> 00:24:33,012
 Do you know who that phone call was from?
-Napoleon?
+Napoleon?{https://en.wikipedia.org/wiki/Napoleon}
 
 304
 00:24:36,548 --> 00:24:39,582
@@ -2268,7 +2268,7 @@ A dollar a hole.
 486
 00:42:53,107 --> 00:42:57,431
 Nice racket you got.
-Thanks. George Washington.
+Thanks. George Washington.{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 487
 00:42:57,432 --> 00:42:59,703
@@ -3724,7 +3724,7 @@ But the sooner we get this
 800
 01:05:20,081 --> 01:05:22,366
 into the hands of
-the FBI the better.
+the FBI the better.{https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation}
 
 801
 01:05:23,447 --> 01:05:25,529
@@ -4157,7 +4157,7 @@ Police capture killer.
 891
 01:11:53,533 --> 01:11:56,136
 They got me.
-New York gang slayer jailed.
+New York gang slayer jailed.{https://en.wikipedia.org/wiki/New_York_City}
 
 892
 01:11:56,137 --> 01:11:59,100
@@ -5140,4 +5140,3 @@ Off?
 1100
 01:26:54,508 --> 01:26:57,575
 Well he'll take any kind of a part.
-

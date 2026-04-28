@@ -1,6 +1,6 @@
 ﻿1
 00:00:11,340 --> 00:00:16,390
-<b>Gulliver's Travels (1939)</b>
+<b>Gulliver's Travels (1939)</b>{https://en.wikipedia.org/wiki/Gulliver%27s_Travels}
 
 2
 00:00:18,140 --> 00:00:22,020
@@ -2401,4 +2401,3 @@ we christen thee, Gulliver!
 576
 01:16:08,730 --> 01:16:14,530
 -- The End --
-

@@ -381,12 +381,12 @@ What, are you crazy? Holy Christ!
 84
 00:09:15,847 --> 00:09:17,599
 - Philadelphia?
-- My sister.
+- My sister.{https://en.wikipedia.org/wiki/Philadelphia}
 
 85
 00:09:17,724 --> 00:09:19,601
 - Miami.
-- That's mine.
+- That's mine.{https://en.wikipedia.org/wiki/Miami}
 
 86
 00:09:19,726 --> 00:09:23,196
@@ -539,7 +539,7 @@ What is it, Bruce?
 119
 00:13:32,437 --> 00:13:34,860
 Well, what you do
-is you call Lloyds of London,
+is you call Lloyds of London,{https://en.wikipedia.org/wiki/London}
 
 120
 00:13:34,981 --> 00:13:37,825
@@ -2265,7 +2265,7 @@ What?
 
 506
 00:58:43,478 --> 00:58:45,981
-What? New York?
+What? New York?{https://en.wikipedia.org/wiki/New_York_City}
 
 507
 00:59:28,106 --> 00:59:29,323
@@ -3325,4 +3325,3 @@ God bless you.
 755
 01:39:48,024 --> 01:39:50,618
 'Ah, son of a...'
-

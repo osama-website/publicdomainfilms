@@ -224,7 +224,7 @@ or maybe hum something...
 
 51
 00:04:09,340 --> 00:04:11,760
-"I can't believe that you're in love with me”
+"I can't believe that you're in love with meï¿½
 
 52
 00:04:11,810 --> 00:04:13,830
@@ -233,7 +233,7 @@ I used to love that song, once.
 53
 00:04:13,880 --> 00:04:17,370
 So did the customers back in the old
-Break O' Dawn Club in New York.
+Break O' Dawn Club in New York.{https://en.wikipedia.org/wiki/New_York_City}
 
 54
 00:04:17,420 --> 00:04:21,400
@@ -644,7 +644,7 @@ Then I thought of something.
 149
 00:12:18,850 --> 00:12:22,470
 Long distance.
-I'd like to put a call through to Los Angeles.
+I'd like to put a call through to Los Angeles.{https://en.wikipedia.org/wiki/Los_Angeles}
 
 150
 00:12:22,520 --> 00:12:26,560
@@ -767,7 +767,7 @@ Little green things with...
 177
 00:14:14,350 --> 00:14:16,670
 ...George Washington's picture
-that men slave for...
+that men slave for...{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 178
 00:14:16,720 --> 00:14:19,730
@@ -818,7 +818,7 @@ in college, or in PS-62, or I'll...
 
 189
 00:15:03,000 --> 00:15:07,700
-...send $ 1.98 in stamps for “Ten Easy Lessons”.
+...send $ 1.98 in stamps for ï¿½Ten Easy Lessonsï¿½.
 
 190
 00:15:15,070 --> 00:15:19,850
@@ -1264,7 +1264,7 @@ heard from since he ran away as a kid...
 
 288
 00:20:47,630 --> 00:20:50,280
-And then all about how he got rooked in Miami.
+And then all about how he got rooked in Miami.{https://en.wikipedia.org/wiki/Miami}
 
 289
 00:20:50,330 --> 00:20:53,230
@@ -2562,7 +2562,7 @@ than when I started out.
 
 578
 00:40:45,310 --> 00:40:48,630
-Vera wasn't kidding with that “Siamese twins" crack.
+Vera wasn't kidding with that ï¿½Siamese twins" crack.
 
 579
 00:40:48,680 --> 00:40:50,310
@@ -3175,7 +3175,7 @@ preparing bait...
 
 721
 00:50:27,250 --> 00:50:30,650
-...and all you can say is, "Let's go”.
+...and all you can say is, "Let's goï¿½.
 
 722
 00:50:30,700 --> 00:50:33,140
@@ -4412,7 +4412,7 @@ Then too, there was Sue...
 999
 01:06:10,850 --> 01:06:15,440
 I could never go to her with a thing like this
-hanging over my head.
+hanging over my head.{https://en.wikipedia.org/wiki/Hanging}
 
 1000
 01:06:15,490 --> 01:06:19,690
@@ -4474,4 +4474,3 @@ Yes. Fate... or some mysterious force...
 1013
 01:07:23,930 --> 01:07:26,950
 ...for no good reason at all.
-

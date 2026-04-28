@@ -219,7 +219,7 @@ front, or a double room at the back.
 45
 00:06:19,747 --> 00:06:21,499
 You weren't so particular
-in Paris in Autumn.
+in Paris in Autumn.{https://en.wikipedia.org/wiki/Paris}
 
 46
 00:06:21,667 --> 00:06:24,340
@@ -385,7 +385,7 @@ she's leaving behind.
 79
 00:08:37,707 --> 00:08:41,256
 And the blue blooded cheque chaser
-she's dashing to London to marry.
+she's dashing to London to marry.{https://en.wikipedia.org/wiki/London}
 
 80
 00:08:41,627 --> 00:08:42,980
@@ -2285,4 +2285,3 @@ a divorce. You couldn't let me down.
 00:43:39,347 --> 00:43:42,737
 You'd have to do the decent thing
 as only you know how.
-

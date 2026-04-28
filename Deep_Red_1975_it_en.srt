@@ -236,7 +236,7 @@ and told her your name?
 53
 00:06:36,906 --> 00:06:42,870
 How could I? I live in Bologna.
-I only arrived in Rome three hours ago!
+I only arrived in Rome three hours ago!{https://en.wikipedia.org/wiki/Rome}
 
 54
 00:06:42,954 --> 00:06:45,455
@@ -702,7 +702,7 @@ So, you're a foreigner, then?
 
 160
 00:20:58,726 --> 00:21:00,935
-Yes, I was born in London
+Yes, I was born in London{https://en.wikipedia.org/wiki/London}
 
 161
 00:21:01,020 --> 00:21:05,356
@@ -1156,7 +1156,7 @@ is Mario Bardi.
 259
 00:28:06,111 --> 00:28:11,991
 He's also a clairvoyant
-and was a good friend of poor Helga.
+and was a good friend of poor Helga.{https://en.wikipedia.org/wiki/Clairvoyance}
 
 260
 00:28:44,274 --> 00:28:46,442
@@ -3559,7 +3559,7 @@ Her name is Carol.
 778
 01:38:24,116 --> 01:38:28,370
 - From Rome?
-- She's American. She lives in Paris.
+- She's American. She lives in Paris.{https://en.wikipedia.org/wiki/Paris}
 
 779
 01:38:28,454 --> 01:38:33,541
@@ -4095,4 +4095,3 @@ You heard what the doctor said.
 898
 02:03:28,578 --> 02:03:38,587
 No.
-

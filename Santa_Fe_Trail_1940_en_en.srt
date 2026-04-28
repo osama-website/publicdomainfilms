@@ -772,7 +772,7 @@ South Carolina.
 163
 00:10:03,143 --> 00:10:05,020
 Cadet Philip Sheridan,
-New York.
+New York.{https://en.wikipedia.org/wiki/New_York_City}
 
 164
 00:10:07,981 --> 00:10:10,317
@@ -810,7 +810,7 @@ That's my sister Kit.
 171
 00:10:37,886 --> 00:10:40,347
 Thought two years in Boston
-would make a lady out of you.
+would make a lady out of you.{https://en.wikipedia.org/wiki/Boston}
 
 172
 00:10:40,430 --> 00:10:42,766
@@ -1150,7 +1150,7 @@ I saw you at the graduation
 243
 00:15:17,916 --> 00:15:20,293
 I thought of what Napoleon said
-when he first met Josephine.
+when he first met Josephine.{https://en.wikipedia.org/wiki/Napoleon}
 
 244
 00:15:20,377 --> 00:15:22,087
@@ -4423,7 +4423,7 @@ Well, what's our next move?
 944
 00:51:47,020 --> 00:51:51,482
 The Bible has said, "An eye for
-an eye and a tooth for a tooth."
+an eye and a tooth for a tooth."{https://en.wikipedia.org/wiki/Bible}
 
 945
 00:51:51,566 --> 00:51:54,819
@@ -5292,7 +5292,7 @@ by coming alone to Palmyra?
 1130
 01:02:38,295 --> 01:02:39,755
 The army has orders
-from Washington
+from Washington{https://en.wikipedia.org/wiki/Washington,_D.C.}
 
 1131
 01:02:39,838 --> 01:02:41,382
@@ -7511,7 +7511,7 @@ you've got to move fast tonight.
 1604
 01:30:58,494 --> 01:31:01,246
 It's fantastic,
-our Secret Service has reported
+our Secret Service has reported{https://en.wikipedia.org/wiki/United_States_Secret_Service}
 
 1605
 01:31:01,330 --> 01:31:02,730
@@ -8423,4 +8423,3 @@ together from this day
 1799
 01:48:32,213 --> 01:48:33,756
 hence unto eternity."”
-

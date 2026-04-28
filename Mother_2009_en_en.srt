@@ -1510,7 +1510,7 @@ I can be bad.
 
 353
 00:30:41,757 --> 00:30:45,511
-Jesus...
+Jesus...{https://en.wikipedia.org/wiki/Jesus}
 
 354
 00:30:46,512 --> 00:30:51,267
