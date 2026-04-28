@@ -5,7 +5,7 @@ HERCULES REVENGE
 2
 00:01:15,795 --> 00:01:22,251
 Hercules at once, man and god,
-knows no limit to his power.
+knows no limit to his power.{https://en.wikipedia.org/wiki/Heracles}
 
 3
 00:01:22,476 --> 00:01:27,262
@@ -20,7 +20,7 @@ of which the last is the most dreadful,
 5
 00:01:32,408 --> 00:01:36,151
 defeating Cerberus,
-the monstrous guardian of Hell
+the monstrous guardian of Hell{https://en.wikipedia.org/wiki/Cerberus}
 
 6
 00:01:36,344 --> 00:01:39,941
