@@ -1,11 +1,11 @@
-1
+﻿1
 00:00:11,340 --> 00:00:16,390
 <b>Gulliver's Travels (1939)</b>
 
 2
 00:00:18,140 --> 00:00:22,020
 <b>Based on Jonathan Swift's
-Immortal Tale</b>{https://en.wikipedia.org/wiki/Jonathan_Swift}
+Immortal Tale</b>
 
 3
 00:00:23,440 --> 00:00:26,560
@@ -17,7 +17,7 @@ Directed by Dave Fleischer
 
 5
 00:01:43,100 --> 00:01:45,390
-<i>I, Lemuel Gulliver</i>{https://en.wikipedia.org/wiki/Lemuel_Gulliver}
+<i>I, Lemuel Gulliver</i>
 
 6
 00:01:45,680 --> 00:01:48,900
@@ -182,7 +182,7 @@ Marriage Contract
 
 46
 00:07:38,830 --> 00:07:42,250
-King Little of Lilliput{https://en.wikipedia.org/wiki/Lilliput_and_Blefuscu}
+King Little of Lilliput
 
 47
 00:07:42,330 --> 00:07:45,880
